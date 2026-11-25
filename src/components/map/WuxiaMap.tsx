@@ -6,7 +6,7 @@ import L from 'leaflet';
 import type { Map as LeafletMap } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import type { Faction, MapPosition, Sect } from '@/types/wuxia';
-import { MAP_BOUNDS, MAP_HEIGHT, MAP_IMAGE_URL, MAP_WIDTH, toLatLng } from '@/config/map';
+import { MAP_BOUNDS, MAP_HEIGHT, MAP_IMAGE_URL, MAP_TOP_INSET_PX, MAP_WIDTH, toLatLng } from '@/config/map';
 import { withBasePath } from '@/lib/base-path';
 
 const escapeHtml = (s: string) =>
@@ -68,6 +68,19 @@ function FlyToController({ target }: { target: MapPosition | null }) {
   return null;
 }
 
+/** 상단 여유(화면 px)를 현재 줌의 지도 좌표로 환산 */
+function topInsetLat(zoom: number) {
+  return MAP_TOP_INSET_PX / Math.pow(2, zoom);
+}
+
+/**
+ * 끌어낼 수 있는 범위의 위쪽 끝을 지도 이미지 위로 MAP_TOP_INSET_PX만큼 열어 둔다.
+ * 아래·좌우는 지도 이미지 끝에 그대로 붙인다. 화면 px 기준이라 어떤 줌에서도 여유 높이가 같다.
+ */
+function applyMaxBounds(map: LeafletMap) {
+  map.setMaxBounds(L.latLngBounds([0, 0], [MAP_HEIGHT + topInsetLat(map.getZoom()), MAP_WIDTH]));
+}
+
 /** 지도가 화면을 꽉 채우는 최소 줌 (비율 유지, 빈 여백 없음). zoomSnap 0.5에 맞춰 올림 */
 function coverZoom(map: LeafletMap) {
   const size = map.getSize();
@@ -87,14 +100,18 @@ function CoverFit({ center }: { center: MapPosition }) {
     const apply = (initial: boolean) => {
       const minZ = coverZoom(map);
       map.setMinZoom(minZ);
+      applyMaxBounds(map);
       if (initial) map.setView(toLatLng(center), minZ, { animate: false });
       else if (map.getZoom() < minZ) map.setZoom(minZ, { animate: false });
     };
     apply(true);
     const onResize = () => apply(false);
+    const onZoom = () => applyMaxBounds(map);
     map.on('resize', onResize);
+    map.on('zoomend', onZoom);
     return () => {
       map.off('resize', onResize);
+      map.off('zoomend', onZoom);
     };
   }, [map]); // eslint-disable-line react-hooks/exhaustive-deps
   return null;

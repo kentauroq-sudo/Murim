@@ -12,6 +12,14 @@ export const MAP_BOUNDS: LatLngBoundsExpression = [
   [MAP_HEIGHT, MAP_WIDTH],
 ];
 
+/**
+ * 지도 위쪽에 두는 여유(화면 px).
+ * 헤더·검색창·세력 필터 바가 지도 위에 떠 있어서, 예전에는 지도 이미지 맨 위 끝에서 더
+ * 아래로 끌어내릴 수 없었고 최북단 표식(북해빙궁 y: 75)이 늘 상단 바에 가렸다.
+ * 화면 기준 높이라 줌을 바꿔도 같은 여유가 유지된다(지도 좌표로는 WuxiaMap이 환산).
+ */
+export const MAP_TOP_INSET_PX = 200;
+
 /** 이미지 픽셀 좌표(좌상단 원점) → Leaflet CRS.Simple 좌표([y, x], 좌하단 원점) */
 export function toLatLng({ x, y }: MapPosition): LatLngTuple {
   return [MAP_HEIGHT - y, x];
