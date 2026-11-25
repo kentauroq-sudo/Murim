@@ -2817,9 +2817,7 @@
     "id": "taiwu_baihua",
     "name_kr": "백화곡",
     "name_hanja": "百花谷",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "정파",
     "sub_faction": "태오회권 15문파 · 정파 명종",
     "alliance": null,
@@ -2865,9 +2863,7 @@
     "id": "taiwu_yuanshan",
     "name_kr": "원산파",
     "name_hanja": "元山派",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "정파",
     "sub_faction": "태오회권 15문파 · 정파 명종",
     "alliance": null,
@@ -2913,9 +2909,7 @@
     "id": "taiwu_shixiang",
     "name_kr": "사상문",
     "name_hanja": "獅相門",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "중립",
     "sub_faction": "태오회권 15문파 · 중립 문파",
     "alliance": null,
@@ -2965,9 +2959,7 @@
     "id": "taiwu_ranshan",
     "name_kr": "연산파",
     "name_hanja": "然山派",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "중립",
     "sub_faction": "태오회권 15문파 · 중립 문파",
     "alliance": null,
@@ -3013,9 +3005,7 @@
     "id": "taiwu_xuannu",
     "name_kr": "선녀파",
     "name_hanja": "璇女派",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "중립",
     "sub_faction": "태오회권 15문파 · 중립 문파",
     "alliance": null,
@@ -3061,9 +3051,7 @@
     "id": "taiwu_zhujian",
     "name_kr": "주검산장",
     "name_hanja": "鑄劍山莊",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "중립",
     "sub_faction": "태오회권 15문파 · 중립 문파",
     "alliance": null,
@@ -3113,9 +3101,7 @@
     "id": "taiwu_kongsang",
     "name_kr": "공상파",
     "name_hanja": "空桑派",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "중립",
     "sub_faction": "태오회권 15문파 · 중립 문파",
     "alliance": null,
@@ -3165,9 +3151,7 @@
     "id": "taiwu_jingang",
     "name_kr": "금강종",
     "name_hanja": "金剛宗",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "사파",
     "sub_faction": "태오회권 15문파 · 사파 외도",
     "alliance": null,
@@ -3213,9 +3197,7 @@
     "id": "taiwu_wuxian",
     "name_kr": "오선교",
     "name_hanja": "五仙敎",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "사파",
     "sub_faction": "태오회권 15문파 · 사파 외도",
     "alliance": null,
@@ -3265,9 +3247,7 @@
     "id": "taiwu_jieqing",
     "name_kr": "계청문",
     "name_hanja": "界靑門",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "사파",
     "sub_faction": "태오회권 15문파 · 사파 외도",
     "alliance": null,
@@ -3313,9 +3293,7 @@
     "id": "taiwu_fulong",
     "name_kr": "복룡단",
     "name_hanja": "伏龍壇",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "사파",
     "sub_faction": "태오회권 15문파 · 사파 외도",
     "alliance": null,
@@ -3361,9 +3339,7 @@
     "id": "taiwu_xuehou",
     "name_kr": "혈후교",
     "name_hanja": "血犼敎",
-    "alias": [
-      "『태오회권』 문파"
-    ],
+    "alias": [],
     "faction": "사파",
     "sub_faction": "태오회권 15문파 · 사파 외도",
     "alliance": null,
