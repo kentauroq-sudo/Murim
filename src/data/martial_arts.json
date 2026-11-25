@@ -1,0 +1,4191 @@
+[
+  {
+    "id": "yigeunjing",
+    "name_kr": "역근경",
+    "name_hanja": "易筋經",
+    "alias": [
+      "역근세수경(易筋洗髓經)"
+    ],
+    "sect_id": "shaolin",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "소림 역근경 십이식 전승 자료",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "보리달마(菩提達磨)가 창안했다고 전하는 소림 최고의 동공(動功). 근(筋)을 바꾸고 골(骨)을 씻는다는 이름대로, 열두 가지 자세를 오래 붙들어 힘줄과 골수를 뜯어고친다. 자세를 유지하는 동안 숨을 배꼽 아래로 내려 진기(眞氣)를 뼈 속까지 밀어 넣기 때문에, 겉보기에는 서 있는 것뿐인데 내력의 두께가 달라진다.",
+    "techniques": [
+      {
+        "name_kr": "위타헌저",
+        "name_hanja": "韋陀獻杵",
+        "description": "두 손을 허리 옆에 모아 들고 숨을 세 번 밀어 넣는 입문 자세. 어깨와 견갑의 힘을 완전히 빼는 데서 시작한다."
+      },
+      {
+        "name_kr": "적성환두",
+        "name_hanja": "摘星換斗",
+        "description": "한 팔을 머리 위로 뻗어 별을 따는 형상. 척추를 비틀어 등쪽 경맥을 열어 상단전의 기를 돌린다."
+      },
+      {
+        "name_kr": "청룡탐조",
+        "name_hanja": "靑龍探爪",
+        "description": "허리를 숙여 두 손으로 땅을 움켜쥐듯 뻗는 자세. 오장을 압박해 탁기를 내보내고 신수를 끌어올린다."
+      }
+    ],
+    "synergy_note": "내력의 바탕을 넓히는 심법이라 어떤 초식에도 얹을 수 있다. 다만 열두 자세를 모두 채우려면 수십 년이 걸려, 실전에서 급히 기를 끌어올리는 데는 부적합하다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "geumgang_banyajang",
+    "name_kr": "금강반야장",
+    "name_hanja": "金剛般若掌",
+    "alias": [],
+    "sect_id": "shaolin",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": "소림 전통 장법 계열. 문파(소림)와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "금강(金剛)의 부서지지 않음과 반야(般若)의 꿰뚫어 봄을 한 장법에 겹친 소림의 상승 장법. 장을 뻗을 때 손바닥 전체를 밀지 않고 손끝에서 손바닥 뿌리로 힘의 마디를 옮기며, 그 마디가 상대의 옷깃을 스치는 순간 진기가 옷을 통과해 살 속으로 들어간다. 겉으로 드러나는 충격은 작고 속의 상처가 크다.",
+    "techniques": [
+      {
+        "name_kr": "금강배산",
+        "name_hanja": "金剛拜山",
+        "description": "두 손을 합장한 채 앞으로 밀어 넣는 첫 장. 합장을 풀지 않아 상대가 막을 곳을 정하지 못한다."
+      },
+      {
+        "name_kr": "반야도해",
+        "name_hanja": "般若渡海",
+        "description": "한 걸음 물러나며 손바닥을 아래로 눌러 진기를 땅으로 흘려보내는 수비 초식. 상대의 장력을 발밑으로 흘린다."
+      },
+      {
+        "name_kr": "무상금강인",
+        "name_hanja": "無相金剛印",
+        "description": "형체 없이 손가락만 세워 허공을 누르는 절초. 소리가 나지 않아 막았는지 맞았는지도 알기 어렵다."
+      }
+    ],
+    "synergy_note": "역근경으로 내력이 두꺼울수록 장력이 옷을 통과하는 깊이가 커진다. 반대로 내력이 얕으면 겉만 세고 속이 비어, 철포삼(鐵布衫) 같은 외공에 막힌다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절학(絕學)"
+  },
+  {
+    "id": "nahangwon",
+    "name_kr": "나한권",
+    "name_hanja": "羅漢拳",
+    "alias": [
+      "소림나한권(少林羅漢拳)"
+    ],
+    "sect_id": "shaolin",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "일반",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "소림오권(少林五拳) 전승 자료",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "십팔나한(十八羅漢)의 상(相)을 본뜬 소림의 기본 권법. 낮게 앉아 무게중심을 흔들지 않고, 주먹이 나갈 때 어깨가 먼저 나가지 않게 한다. 초식마다 절을 올리는 동작이 붙어 있어, 예(禮)를 갖추는 사이에 상대의 호흡을 읽는다.",
+    "techniques": [
+      {
+        "name_kr": "나한배불",
+        "name_hanja": "羅漢拜佛",
+        "description": "두 손을 모아 절하듯 앞으로 숙이며 상대의 팔을 아래로 눌러 길을 여는 초식."
+      },
+      {
+        "name_kr": "금강노목",
+        "name_hanja": "金剛怒目",
+        "description": "숨을 들이켜 어깨를 부풀린 뒤 정권(正拳)을 곧게 지르는 정면 타격."
+      },
+      {
+        "name_kr": "복호나한",
+        "name_hanja": "伏虎羅漢",
+        "description": "허리를 낮춰 호랑이를 누르듯 두 손으로 상대의 다리를 잡아당기며 무릎으로 턱을 받는 연계."
+      }
+    ],
+    "synergy_note": "내력 없이도 굴러가는 기본기라 문도 대부분이 익힌다. 그 위에 역근경을 얹으면 같은 초식의 파괴력이 배가된다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 권각(拳腳) · 등급 정통(正統)"
+  },
+  {
+    "id": "taegeukgwon",
+    "name_kr": "태극권",
+    "name_hanja": "太極拳",
+    "alias": [
+      "무당태극권(武當太極拳)"
+    ],
+    "sect_id": "wudang",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "장삼봉(張三丰)이 노년에 깨달았다고 전하는 무당의 상승 권법. 힘을 먼저 쓰지 않고 상대의 힘을 원(圓)으로 받아 돌린 뒤, 그 힘이 다한 자리에서 방향만 바꿔 돌려준다. 동작은 느리지만 느린 것이 목적이 아니라, 어느 순간에도 힘의 방향을 바꿀 수 있는 상태를 유지하는 것이 목적이다.",
+    "techniques": [
+      {
+        "name_kr": "남작미",
+        "name_hanja": "攬雀尾",
+        "description": "참새의 꼬리를 쥐듯 상대의 팔을 원을 그려 감아내는 기본 수법. 붙잡기·밀기·누르기가 한 동작에 들어 있다."
+      },
+      {
+        "name_kr": "단편",
+        "name_hanja": "單鞭",
+        "description": "한 팔을 옆으로 길게 뻗어 중심을 옮기는 초식. 상대의 측면을 통째로 비워 버린다."
+      },
+      {
+        "name_kr": "백학량시",
+        "name_hanja": "白鶴亮翅",
+        "description": "한 손은 위로 한 손은 아래로 벌려 날개를 펴는 형상. 들어오는 힘을 위아래로 갈라 흘려보낸다."
+      }
+    ],
+    "synergy_note": "내력이 두꺼운 자가 쓰면 상대의 강기를 되돌려 보낼 수 있다. 다만 상대가 원을 그리지 못하게 사방에서 동시에 찌르면 받아 돌릴 여지가 줄어든다."
+  },
+  {
+    "id": "taegeukgeom",
+    "name_kr": "태극검",
+    "name_hanja": "太極劍",
+    "alias": [
+      "무당태극검(武當太極劍)"
+    ],
+    "sect_id": "wudang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "검을 휘두르는 것이 아니라 검끝으로 원을 그리며 그 원 안에 상대의 검을 끌어들이는 검법. 검을 쥔 손목은 힘을 빼고, 원의 중심은 발바닥에 둔다. 상대가 검을 부딪쳐 오면 그 힘으로 원이 커지고, 커진 원이 상대의 손목을 비튼다.",
+    "techniques": [
+      {
+        "name_kr": "삼환투정",
+        "name_hanja": "三環套月",
+        "description": "검끝으로 세 개의 고리를 겹쳐 그려 상대의 검을 가두는 첫 초식."
+      },
+      {
+        "name_kr": "연자초수",
+        "name_hanja": "燕子抄水",
+        "description": "제비가 수면을 스치듯 낮게 파고들어 상대의 손목을 베는 속공."
+      },
+      {
+        "name_kr": "탐해평형",
+        "name_hanja": "探海平衡",
+        "description": "한 발로 서서 검을 아래로 깊게 뻗는 자세. 물러서는 상대의 발목을 노린다."
+      }
+    ],
+    "synergy_note": "태극권의 운공(運功)을 그대로 검에 옮긴 것이라 권과 검이 서로를 보강한다. 강경하게 부딪쳐 오는 검법(예: 제왕검형)에 특히 강하다."
+  },
+  {
+    "id": "jewunjong",
+    "name_kr": "제운종",
+    "name_hanja": "梯雲縱",
+    "alias": [
+      "무당제운종(武當梯雲縱)"
+    ],
+    "sect_id": "wudang",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "구름에 사다리를 놓고 오른다는 이름대로, 허공에서 한 번 더 디딜 곳을 만드는 경공. 발끝으로 기를 밀어 올려 몸을 띄운 뒤, 떨어지는 힘을 발목에서 원으로 돌려 다시 솟는다. 공중에서 두 번 이상 방향을 바꿀 수 있어 낙법(落法)으로도 쓰인다.",
+    "techniques": [
+      {
+        "name_kr": "등운",
+        "name_hanja": "登雲",
+        "description": "담장과 벽을 두 번 밟고 세 번째에 지붕에 오르는 기본 도약."
+      },
+      {
+        "name_kr": "답설",
+        "name_hanja": "踏雪",
+        "description": "눈 위에 발자국을 남기지 않을 만큼 가볍게 내려서는 착지법."
+      },
+      {
+        "name_kr": "능허",
+        "name_hanja": "凌虛",
+        "description": "허공에서 발등을 한 번 젖혀 몸을 반 보 옆으로 미는 공중 변칙."
+      }
+    ],
+    "synergy_note": "내력이 얕으면 두 번째 디딤에서 기가 꺾여 그대로 떨어진다. 무당의 검법·권법과 함께 써야 낙법이 자연스러워진다.",
+    "enum_note": "v2.1 분류: category 경공 · 계통 경공(輕功) · 등급 절기(絕技)"
+  },
+  {
+    "id": "jaha_singong",
+    "name_kr": "자하신공",
+    "name_hanja": "紫霞神功",
+    "alias": [
+      "자하공(紫霞功)"
+    ],
+    "sect_id": "huashan",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「화산파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "새벽 동쪽 하늘의 자줏빛 노을(紫霞)을 본떠 이름 붙은 화산 기종(氣宗)의 심법. 단전에 모은 기를 얼굴로 끌어올려 안색이 자줏빛으로 변하는 순간, 오장의 기를 한꺼번에 검으로 밀어 넣는다. 그 순간의 검기는 평소의 배가 되지만, 자줏빛이 걷히기 전에 결판을 내지 못하면 내력이 크게 상한다.",
+    "techniques": [
+      {
+        "name_kr": "자기동래",
+        "name_hanja": "紫氣東來",
+        "description": "단전의 기를 척추를 따라 끌어올려 안면으로 모으는 기초 운공."
+      },
+      {
+        "name_kr": "하광만도",
+        "name_hanja": "霞光萬道",
+        "description": "자줏빛이 최대로 번지는 순간 사방으로 검기를 뿌리는 폭발적 운용."
+      },
+      {
+        "name_kr": "자부귀원",
+        "name_hanja": "紫府歸元",
+        "description": "흩어진 기를 상단전으로 되돌려 흔들린 내력을 다시 잡는 수습법."
+      }
+    ],
+    "synergy_note": "매화검법·화산검법의 검기에 위력을 더한다. 그러나 기를 끌어올리는 데 시간이 걸려, 선제 기습에는 약하다."
+  },
+  {
+    "id": "maehwa_geombeop",
+    "name_kr": "매화검법",
+    "name_hanja": "梅花劍法",
+    "alias": [
+      "이십사수매화검법(二十四手梅花劍法)"
+    ],
+    "sect_id": "huashan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산파」",
+        "author": null
+      },
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "origin_and_principle": "검끝의 미세한 떨림으로 매화의 꽃잎을 흩뿌리듯 검기를 흩어 내는 화산의 상징 검법. 한 번의 찌르기에서 다섯 갈래 변화가 파생하며, 매화가 피고 지는 순서를 초식의 차례로 삼는다. 검을 크게 휘두르지 않으므로 검이 스치는 소리조차 남기지 않는다.",
+    "techniques": [
+      {
+        "name_kr": "일지매개",
+        "name_hanja": "一枝梅開",
+        "description": "가장 빠른 선제 찌르기. 꽃이 처음 피는 순간을 본뜬다."
+      },
+      {
+        "name_kr": "만화분비",
+        "name_hanja": "萬花紛飛",
+        "description": "꽃잎이 휘날리듯 검기를 사방으로 흩뿌려 퇴로를 끊는 절초."
+      },
+      {
+        "name_kr": "암향부동",
+        "name_hanja": "暗香浮動",
+        "description": "소리 없이 향기만 남기듯 검흔을 남기지 않고 급소를 스치는 살초."
+      }
+    ],
+    "synergy_note": "자하신공으로 내력을 밀어 넣으면 검기 사거리가 배가되나 기력 소모가 크다. 검을 길게 쓰는 검법(예: 점창파)에는 찌르기 싸움에서 밀린다."
+  },
+  {
+    "id": "hwasan_geombeop",
+    "name_kr": "화산검법",
+    "name_hanja": "華山劍法",
+    "alias": [
+      "화산파검법(華山派劍法)"
+    ],
+    "sect_id": "huashan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "일반",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「화산파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "화산의 험준한 다섯 봉우리를 오르내리는 동선을 그대로 검에 옮긴 검법. 발이 먼저 오르고 검은 뒤따르며, 오르는 방향이 바뀌는 지점에서 검이 가장 날카로워진다. 초식 이름이 모두 산의 풍경에서 나왔다.",
+    "techniques": [
+      {
+        "name_kr": "유봉래의",
+        "name_hanja": "有鳳來儀",
+        "description": "봉황이 내려앉듯 검이 위에서 곡선을 그리며 내려오는 첫 초식."
+      },
+      {
+        "name_kr": "창송영객",
+        "name_hanja": "蒼松迎客",
+        "description": "소나무가 손을 뻗듯 검을 옆으로 세워 상대의 진입을 막는 수비 초식."
+      },
+      {
+        "name_kr": "금안횡공",
+        "name_hanja": "金雁橫空",
+        "description": "기러기 떼가 하늘을 가로지르듯 연속으로 가로 베는 연격."
+      }
+    ],
+    "synergy_note": "기종(氣宗)이 익히면 자하신공과 맞물려 안정적이고, 검종(劍宗)이 익히면 초식 변화를 앞세워 매화검법으로 이어진다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 정통(正統)"
+  },
+  {
+    "id": "dokgo_gugeom",
+    "name_kr": "독고구검",
+    "name_hanja": "獨孤九劍",
+    "alias": [
+      "구검(九劍)"
+    ],
+    "sect_id": "huashan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「화산파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "검을 쥐는 법도, 정해진 초식도 없는 검법. 상대가 움직이는 순간 드러나는 '틈'을 먼저 읽고, 그 틈이 닫히기 전에 검을 넣는다. 초식이 아니라 원리이므로 상대의 무공이 무엇이든 대응이 달라진다. 아홉 가지 파(破)로 나뉘어 검·도·창·편·색·장·전·기(氣)를 각각 깨뜨린다.",
+    "techniques": [
+      {
+        "name_kr": "파검식",
+        "name_hanja": "破劍式",
+        "description": "상대 검의 궤적이 겹치는 지점을 찾아 그 사이로 찌르는 식."
+      },
+      {
+        "name_kr": "파장식",
+        "name_hanja": "破掌式",
+        "description": "장법의 중심 이동을 읽어 손목 안쪽을 끊는 식. 맨손 상대에게 쓴다."
+      },
+      {
+        "name_kr": "파기식",
+        "name_hanja": "破氣式",
+        "description": "내공으로 몸을 지키는 상대의 기의 흐름이 끊기는 호흡을 노리는 식."
+      }
+    ],
+    "synergy_note": "상대가 강할수록 틈이 크게 드러나 유리하다. 반대로 초식을 읽을 수 없을 만큼 빠르거나, 검을 쓰지 않고 사방에서 협공해 오면 원리를 적용할 대상이 사라진다."
+  },
+  {
+    "id": "jeonjin_geombeop",
+    "name_kr": "전진검법",
+    "name_hanja": "全眞劍法",
+    "alias": [
+      "전진교검법(全眞敎劍法)"
+    ],
+    "sect_id": "zhongnan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "전진교(全眞敎)의 도가 검법으로, 검 한 자루로 하늘의 별자리를 그린다. 검끝이 지나간 자리에 북두칠성의 형상이 남고, 그 별자리 안에서는 상대의 검도 같은 별의 궤도를 따라 움직이게 된다. 혼자 쓸 때보다 여럿이 함께 쓸 때 위력이 커지는 검법이다.",
+    "techniques": [
+      {
+        "name_kr": "천강검결",
+        "name_hanja": "天罡劍訣",
+        "description": "검을 세워 하늘을 가리키며 기를 끌어올리는 기동 초식."
+      },
+      {
+        "name_kr": "북두칠성",
+        "name_hanja": "北斗七星",
+        "description": "일곱 번의 찌르기로 별자리를 그려 상대의 사방을 봉하는 연격."
+      },
+      {
+        "name_kr": "양의귀원",
+        "name_hanja": "兩儀歸元",
+        "description": "검을 크게 원으로 그려 흩어진 기를 다시 모으는 마무리 초식."
+      }
+    ],
+    "synergy_note": "천강북두진(天罡北斗陣)과 함께 쓸 때 진법의 축이 되어 위력이 몇 배가 된다. 단독으로는 화려하나 결정타가 약하다는 평을 듣는다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "cheongang_bukdujin",
+    "name_kr": "천강북두진",
+    "name_hanja": "天罡北斗陣",
+    "alias": [
+      "북두진(北斗陣)"
+    ],
+    "sect_id": "zhongnan",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "진법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "일곱 사람이 북두칠성의 자리에 서서 별의 운행을 그대로 따라 도는 진법. 한 사람이 공격받으면 그 사람은 물러나고 옆자리가 메우며, 밀려난 힘은 별자리를 따라 다음 사람에게 넘어간다. 일곱이 하나처럼 움직이므로 일곱 몫의 힘이 한 점에 모인다.",
+    "techniques": [
+      {
+        "name_kr": "천추",
+        "name_hanja": "天樞",
+        "description": "진의 첫 자리. 상대를 정면에서 붙잡아 별자리 안으로 끌어들인다."
+      },
+      {
+        "name_kr": "천선",
+        "name_hanja": "天璇",
+        "description": "두 번째 자리에서 각을 틀어 상대의 퇴로를 옆으로 접는다."
+      },
+      {
+        "name_kr": "요광",
+        "name_hanja": "搖光",
+        "description": "끝자리에서 흩어진 힘을 모아 결정타를 넣는 자리. 진이 무너질 때 마지막으로 남는 자리이기도 하다."
+      }
+    ],
+    "synergy_note": "정면에서 밀어붙이는 상대에게 강하다. 다만 일곱 중 하나가 먼저 쓰러지면 별자리가 끊겨 진 전체가 흐트러진다.",
+    "enum_note": "v2.1 분류: category 진법 · 계통 진법(陣法) · 등급 절학(絕學)"
+  },
+  {
+    "id": "geumjeong_myeonjang",
+    "name_kr": "금정면장",
+    "name_hanja": "金頂綿掌",
+    "alias": [
+      "아미면장(峨嵋綿掌)"
+    ],
+    "sect_id": "emei",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": "아미파 전통 장법 계열. 문파(아미)와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "솜(綿)처럼 부드럽게 붙었다가 바늘처럼 파고드는 아미의 장법. 손바닥을 대고 미는 것이 아니라, 댄 자리에서 손목을 비틀어 살갗 아래의 근막을 잡아당긴다. 겉에는 자국이 없고 속에 피멍이 드는 것이 특징이다.",
+    "techniques": [
+      {
+        "name_kr": "면리장",
+        "name_hanja": "綿裏藏針",
+        "description": "부드럽게 붙인 손바닥에 손끝의 힘을 숨겨 급소를 찌르는 초식."
+      },
+      {
+        "name_kr": "금정운수",
+        "name_hanja": "金頂雲手",
+        "description": "구름이 산 정상을 감싸듯 두 팔로 상대의 팔을 감아 올리는 수비."
+      },
+      {
+        "name_kr": "낙화장",
+        "name_hanja": "落花掌",
+        "description": "꽃잎이 떨어지듯 아래로 눌러 상대의 무게중심을 무너뜨리는 장."
+      }
+    ],
+    "synergy_note": "여성 수련자에게 유리한 체술로 알려져 골격이 작은 이도 위력을 낼 수 있다. 강한 외공(철포삼 등)을 두른 상대에게는 속으로 파고드는 힘이 통하지 않는다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "ami_geombeop",
+    "name_kr": "아미검법",
+    "name_hanja": "峨嵋劍法",
+    "alias": [
+      "금정검법(金頂劍法)"
+    ],
+    "sect_id": "emei",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": "아미파의 전통 검법. 문파와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "아미산 구름과 안개의 흐름을 검에 옮긴 검법. 검을 세우고 상대를 기다리다가, 상대가 들어오는 순간 검을 옆으로 흘려 그 힘을 빈 곳으로 보낸다. 초식 수는 적지만 한 번 들어가면 물러서지 않는다.",
+    "techniques": [
+      {
+        "name_kr": "금정문월",
+        "name_hanja": "金頂問月",
+        "description": "검을 비스듬히 들어 달을 묻듯 상대의 시선을 위로 끌어 올리는 초식."
+      },
+      {
+        "name_kr": "운단삼첩",
+        "name_hanja": "雲斷三疊",
+        "description": "구름이 세 겹으로 끊기듯 세 번 연속으로 각도를 바꿔 베는 연격."
+      },
+      {
+        "name_kr": "백원헌과",
+        "name_hanja": "白猿獻果",
+        "description": "원숭이가 과일을 바치듯 낮게 몸을 숙여 검을 아래에서 위로 밀어 올리는 절초."
+      }
+    ],
+    "synergy_note": "금정면장과 함께 쓰면 검과 장이 번갈아 나와 상대가 방어를 고르지 못한다. 빠른 찌르기 검법(점창파)에는 선제를 내주기 쉽다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "jeomchang_geombeop",
+    "name_kr": "점창검법",
+    "name_hanja": "點蒼劍法",
+    "alias": [
+      "창산검(蒼山劍)"
+    ],
+    "sect_id": "diancang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": "점창파의 전통 검법. 문파와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「점창파」",
+        "author": null
+      },
+      {
+        "work": "중국어 위키백과 「點蒼山」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "베지 않고 찌른다. 검을 옆으로 돌리지 않으므로 예비 동작이 없고, 검끝이 곧은 선을 따라가므로 상대는 검의 시작을 보지 못한다. 점창산의 매가 하늘에서 곧장 내리꽂히는 모습을 본떴다고 전한다.",
+    "techniques": [
+      {
+        "name_kr": "일검관일",
+        "name_hanja": "一劍貫日",
+        "description": "해를 꿰뚫듯 정면으로 곧게 내지르는 첫 찌르기. 예비 동작이 없다."
+      },
+      {
+        "name_kr": "창응박토",
+        "name_hanja": "蒼鷹撲兔",
+        "description": "토끼를 덮치는 매처럼 위에서 아래로 찌르며 파고드는 속공."
+      },
+      {
+        "name_kr": "수중취월",
+        "name_hanja": "水中取月",
+        "description": "물속의 달을 건지듯 낮게 흘러들어 턱 아래를 받쳐 올리는 변칙."
+      }
+    ],
+    "synergy_note": "찌르기 위주라 사거리 확보에 유리하며, 회풍검법과 짝을 이뤄 찌르고 빠지는 전법을 완성한다. 검을 크게 휘두르는 중량형 검법에는 부딪히면 밀린다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "hoepung_geombeop",
+    "name_kr": "회풍검법",
+    "name_hanja": "回風劍法",
+    "alias": [
+      "회풍무류검(回風舞柳劍)"
+    ],
+    "sect_id": "diancang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "일반",
+    "tier_tag": "정통고증",
+    "tier_note": "점창파의 전통 검법. 문파와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「점창파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "회오리바람이 버드나무를 휘감는 형상. 검을 한 번 내지르고 그 반동으로 몸을 돌려 다음 찌르기를 다른 방향에서 넣는다. 공격과 회피가 같은 동작에 들어 있어, 상대는 베인 뒤에도 어느 쪽에서 베였는지 알기 어렵다.",
+    "techniques": [
+      {
+        "name_kr": "회풍무류",
+        "name_hanja": "回風舞柳",
+        "description": "버드나무 가지를 휘감듯 검을 돌려 상대의 검을 옆으로 밀어내는 초식."
+      },
+      {
+        "name_kr": "선풍소엽",
+        "name_hanja": "旋風掃葉",
+        "description": "낙엽을 쓸어내리듯 낮게 회전하며 다리와 허리를 베는 연격."
+      },
+      {
+        "name_kr": "역풍결",
+        "name_hanja": "逆風訣",
+        "description": "바람을 거슬러 검을 되돌려 상대의 등 뒤에서 찌르는 반전 초식."
+      }
+    ],
+    "synergy_note": "넓은 공간에서는 회전이 살아나 강하지만, 좁은 실내나 벽에 붙은 자리에서는 회전 반경이 줄어 위력이 떨어진다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 정통(正統)"
+  },
+  {
+    "id": "cheongpung_geombeop",
+    "name_kr": "청풍검법",
+    "name_hanja": "淸風劍法",
+    "alias": [
+      "삼풍검(三風劍)의 하나"
+    ],
+    "sect_id": "qingcheng",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": "청성파의 전통 검법. 문파와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "나무위키 「청성파」",
+        "author": null
+      },
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "origin_and_principle": "청성산의 바람을 검에 담았다. 검을 휘두르는 대신 검끝으로 공기를 갈라 바람을 만들고, 그 바람이 상대의 옷자락을 먼저 건드린 뒤에 검이 도착한다. 상대는 바람에 반응하다가 이미 늦은 자리에서 베인다.",
+    "techniques": [
+      {
+        "name_kr": "청풍서래",
+        "name_hanja": "淸風徐來",
+        "description": "바람이 서서히 불어오듯 검을 천천히 밀어 넣어 상대의 반응을 늦추는 초식."
+      },
+      {
+        "name_kr": "풍과무흔",
+        "name_hanja": "風過無痕",
+        "description": "바람이 지나간 자리에 흔적이 없듯 소리도 검흔도 남기지 않는 찌르기."
+      },
+      {
+        "name_kr": "삼풍합일",
+        "name_hanja": "三風合一",
+        "description": "청풍·송풍·능풍 세 검결을 한 번에 겹쳐 쓰는 절초."
+      }
+    ],
+    "synergy_note": "최심장(摧心掌)과 함께 쓰면 검으로 시선을 끌고 장으로 속을 치는 이중 공격이 된다. 검을 빼앗기면 문규상 그 자리에서 자진해야 하는 것이 청성의 독기다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "choesimjang",
+    "name_kr": "최심장",
+    "name_hanja": "摧心掌",
+    "alias": [],
+    "sect_id": "qingcheng",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「청성파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "심장을 부순다는 이름의 장법. 손바닥을 심장 높이에 대고 짧게 밀면, 충격이 갈비뼈를 타고 심장에만 모인다. 맞은 이는 멍든 자리가 없는데도 숨이 막혀 주저앉는다. 청성파가 정파이면서도 두려움의 대상이 되는 이유다.",
+    "techniques": [
+      {
+        "name_kr": "최심일격",
+        "name_hanja": "摧心一擊",
+        "description": "짧게 밀어 충격을 심장에 모으는 기본형. 예비 동작이 거의 없다."
+      },
+      {
+        "name_kr": "단맥장",
+        "name_hanja": "斷脈掌",
+        "description": "손날로 목과 어깨의 맥을 끊듯 내리치는 변형."
+      },
+      {
+        "name_kr": "암경수",
+        "name_hanja": "暗勁手",
+        "description": "닿은 뒤에 힘을 보내는 암경(暗勁). 겉으로는 밀지 않은 것처럼 보인다."
+      }
+    ],
+    "synergy_note": "갑주나 두꺼운 옷에는 약하고, 상대가 내공으로 흉부를 지키면 충격이 분산된다. 검법으로 상대의 팔을 묶은 뒤 쓰는 것이 정석이다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "chilsanggwon",
+    "name_kr": "칠상권",
+    "name_hanja": "七傷拳",
+    "alias": [
+      "칠상칠효권(七傷七效拳)"
+    ],
+    "sect_id": "kongtong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「공동파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "한 번 칠 때마다 일곱 가지 상(傷)이 겹쳐 들어가고, 그 일곱이 되돌아와 자기 몸도 상하게 하는 권법. 오장(五臟)의 기를 각각 끌어다 주먹에 실어, 맞은 이의 해당 장기가 손상된다. 이름 그대로 '먼저 자기를 상하게 하고 상대를 상하게 한다'는 무학이다.",
+    "techniques": [
+      {
+        "name_kr": "손심",
+        "name_hanja": "損心",
+        "description": "심장의 기를 끌어 주먹에 싣는 일격. 자신의 심맥도 함께 상한다."
+      },
+      {
+        "name_kr": "열폐",
+        "name_hanja": "裂肺",
+        "description": "폐의 기를 실어 호흡을 끊는 타격. 수련이 얕으면 자신의 폐가 먼저 상한다."
+      },
+      {
+        "name_kr": "상간",
+        "name_hanja": "傷肝",
+        "description": "간의 기를 실은 근접 타격. 맞은 이는 눈이 침침해진다."
+      }
+    ],
+    "synergy_note": "내력이 깊지 않은 자가 익히면 오장이 먼저 무너진다. 그래서 공동파에서도 전수 자격이 극히 제한된다. 내공으로 몸을 지키는 상대에게는 상(傷)이 겉으로만 남는다."
+  },
+  {
+    "id": "bokma_geombeop",
+    "name_kr": "복마검법",
+    "name_hanja": "伏魔劍法",
+    "alias": [
+      "항마검(降魔劍)"
+    ],
+    "sect_id": "kongtong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": "공동파의 전통 검법. 문파와 같은 고증 계보.",
+    "sources": [
+      {
+        "work": "나무위키 「공동파」",
+        "author": null
+      },
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "origin_and_principle": "마(魔)를 굴복시킨다는 이름대로 마교의 사공(邪功)을 상대하기 위해 다듬어진 검법. 검을 크게 눌러 내리찍어 상대의 기세 자체를 꺾는다. 청정도량의 문파이면서도 초식이 강맹하고 살기가 서린 이유는, 서북의 최전선에서 마교와 마주해 왔기 때문이다.",
+    "techniques": [
+      {
+        "name_kr": "복마삼식",
+        "name_hanja": "伏魔三式",
+        "description": "위에서 아래로 세 번 눌러 내리찍어 상대의 진입을 끊는 기본형."
+      },
+      {
+        "name_kr": "진마검",
+        "name_hanja": "震魔劍",
+        "description": "검이 부딪히는 순간 진동을 실어 상대의 손목을 저리게 하는 초식."
+      },
+      {
+        "name_kr": "광성일검",
+        "name_hanja": "廣成一劍",
+        "description": "광성자가 도를 깨달은 순간을 본뜬 한 수. 모든 힘을 한 점에 모아 내지른다."
+      }
+    ],
+    "synergy_note": "마공(魔功) 계열에 특히 강하나, 회피와 변화를 앞세우는 검법(양의검법 등)에는 눌러 내리찍을 자리를 잡지 못해 애를 먹는다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "yangui_geombeop",
+    "name_kr": "양의검법",
+    "name_hanja": "兩儀劍法",
+    "alias": [
+      "양의검(兩儀劍)"
+    ],
+    "sect_id": "kunlun",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「곤륜파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "음(陰)과 양(陽) 두 사람이 짝을 이뤄 쓰는 검법. 한 사람이 정면에서 누르면 다른 사람이 뒤에서 비스듬히 찌르고, 두 검의 각도가 언제나 직각을 유지한다. 혼자 쓰면 위력이 절반이지만, 둘이 쓰면 사방의 틈을 동시에 메운다.",
+    "techniques": [
+      {
+        "name_kr": "양의초분",
+        "name_hanja": "兩儀初分",
+        "description": "두 검이 갈라져 좌우에서 동시에 찌르는 시작 초식."
+      },
+      {
+        "name_kr": "사상역전",
+        "name_hanja": "四象逆轉",
+        "description": "자리를 바꿔 상대의 방어 방향을 거꾸로 돌리는 변형."
+      },
+      {
+        "name_kr": "태극귀원",
+        "name_hanja": "太極歸元",
+        "description": "두 검이 하나의 원으로 모여 상대를 가두는 마무리 초식."
+      }
+    ],
+    "synergy_note": "부부나 사제처럼 호흡이 맞는 둘이 써야 완성된다. 상대가 한 사람을 먼저 끌어내어 짝을 떼면 검법의 뼈대가 무너진다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 검법(劍法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "ulyong_daepalsik",
+    "name_kr": "운룡대팔식",
+    "name_hanja": "雲龍大八式",
+    "alias": [
+      "운룡팔식(雲龍八式)"
+    ],
+    "sect_id": "kunlun",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「곤륜파」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「곤륜파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "구름 속을 오르내리는 용의 여덟 동작을 검으로 옮긴 검법. 곤륜의 높은 지세를 이용해 위에서 아래로 내려찍는 초식이 중심이며, 검을 쥔 팔을 거의 펴지 않고 어깨와 허리로만 방향을 바꾼다. 검광이 구름에 가려 보이지 않는다 하여 이름이 붙었다.",
+    "techniques": [
+      {
+        "name_kr": "운룡출해",
+        "name_hanja": "雲龍出海",
+        "description": "구름을 뚫고 용이 나오듯 위에서 아래로 길게 내려찍는 첫 식."
+      },
+      {
+        "name_kr": "용유천하",
+        "name_hanja": "龍遊天下",
+        "description": "몸을 낮춰 좌우로 크게 휘돌며 상대의 다리와 옆구리를 함께 노리는 연격."
+      },
+      {
+        "name_kr": "운소구중",
+        "name_hanja": "雲霄九重",
+        "description": "검을 거의 수직으로 세워 연속으로 찌르며 상대를 위로 몰아붙이는 절초."
+      }
+    ],
+    "synergy_note": "높은 지형에서 위력을 발휘하며, 평지나 실내에서는 초식의 각도가 무너진다. 곤륜의 경공과 함께 써야 본래의 속도가 나온다."
+  },
+  {
+    "id": "hangryong_sippaljang",
+    "name_kr": "항룡십팔장",
+    "name_hanja": "降龍十八掌",
+    "alias": [
+      "항룡이십팔장(降龍廿八掌, 원형)"
+    ],
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「항룡십팔장」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "개방 방주에게 전해지는 진방절기(鎭幇絕技). 열여덟 초식뿐이지만 각 초식이 방어할 수 없는 완전한 형태로 되어 있어, 상대는 막거나 피하거나 둘 중 하나를 고를 수밖에 없다. 초식 이름은 모두 『주역(周易)』의 괘사에서 나왔고, 힘을 뿜은 즉시 거두어들여 남는 힘을 만들지 않는 것이 핵심이다.",
+    "techniques": [
+      {
+        "name_kr": "항룡유회",
+        "name_hanja": "亢龍有悔",
+        "description": "한쪽 다리를 굽히고 원을 그리며 장력을 뿜는 제1초. 힘을 뿜자마자 거두어 잉여를 남기지 않는다."
+      },
+      {
+        "name_kr": "비룡재천",
+        "name_hanja": "飛龍在天",
+        "description": "허공으로 솟아 높은 자리를 차지한 뒤 아래로 내리치는 초식. 음과 양이 조화를 이룬 최상의 상태라 절초로 꼽힌다."
+      },
+      {
+        "name_kr": "신룡파미",
+        "name_hanja": "神龍擺尾",
+        "description": "손을 뒤로 뻗어 내리치는 초식. 등 뒤의 기습만은 반드시 막아낼 수 있다."
+      },
+      {
+        "name_kr": "견룡재전",
+        "name_hanja": "見龍在田",
+        "description": "낮게 파고들어 밭을 훑듯 상대의 하단을 무너뜨리는 초식."
+      }
+    ],
+    "synergy_note": "강력한 대신 공력 소모가 심해 연속으로 쓰지 못한다. 초식이 단순하므로 상대를 미리 궁지로 몰아넣고 써야 위력이 온전히 나온다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절학(絕學)"
+  },
+  {
+    "id": "tagu_bongbeop",
+    "name_kr": "타구봉법",
+    "name_hanja": "打狗棒法",
+    "alias": [
+      "타구봉(打狗棒)"
+    ],
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "창봉",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「항룡십팔장」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「홍칠공」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "개방 방주와 후계자에게만 전해지는 봉법. 봉을 크게 돌리지 않고 손목만 튕겨 방향을 바꾸며, 개를 쫓는 동작을 그대로 무학으로 다듬었다. 걸기·찌르기·감기·던지기의 네 가지 변화가 봉 끝 한 자 안에서 이루어진다.",
+    "techniques": [
+      {
+        "name_kr": "악구난로",
+        "name_hanja": "惡狗攔路",
+        "description": "봉을 낮게 가로질러 상대의 진입로를 막는 기본 초식."
+      },
+      {
+        "name_kr": "방타쌍견",
+        "name_hanja": "棒打雙犬",
+        "description": "봉을 좌우로 번갈아 튕겨 두 방향의 적을 동시에 치는 연타."
+      },
+      {
+        "name_kr": "천하무구",
+        "name_hanja": "天下無狗",
+        "description": "봉을 사방으로 돌려 모든 방향의 공격을 한꺼번에 쓸어내는 마지막 초식. 구양봉도 반나절 동안 받아내지 못했다고 전한다."
+      }
+    ],
+    "synergy_note": "개방 방주의 상징이라 이것을 익히지 못한 방주는 명목뿐이라는 평을 듣는다. 봉이 부러지면 초식의 절반이 무력해진다."
+  },
+  {
+    "id": "soyoyu",
+    "name_kr": "소요유",
+    "name_hanja": "逍遙遊",
+    "alias": [
+      "소요보(逍遙步)"
+    ],
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「홍칠공」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "장자(莊子)의 「소요유(逍遙遊)」에서 이름을 가져온 개방의 신법(身法). 물고기가 물을 가르듯, 새가 바람을 타듯 몸을 기울여 저항을 없앤다. 거지의 몸에 걸린 누더기가 오히려 바람을 흩어 주어, 비탈과 골목에서 특히 빠르다.",
+    "techniques": [
+      {
+        "name_kr": "부요",
+        "name_hanja": "扶搖",
+        "description": "회오리바람을 타고 곧게 솟는 도약. 좁은 골목에서 담을 넘을 때 쓴다."
+      },
+      {
+        "name_kr": "어약",
+        "name_hanja": "魚躍",
+        "description": "물고기가 뛰어오르듯 낮게 미끄러져 상대의 다리 사이를 통과하는 보법."
+      },
+      {
+        "name_kr": "운유",
+        "name_hanja": "雲遊",
+        "description": "구름이 흐르듯 방향을 여러 번 바꾸어 추격을 흘리는 장거리 신법."
+      }
+    ],
+    "synergy_note": "내력이 얕아도 쓸 수 있어 개방 문도 대부분이 익힌다. 다만 좁고 막힌 공간에서는 기울일 공간이 없어 효과가 줄어든다.",
+    "enum_note": "v2.1 분류: category 경공 · 계통 경공(輕功) · 등급 절기(絕技)"
+  },
+  {
+    "id": "changung_muae_geombeop",
+    "name_kr": "창궁무애검법",
+    "name_hanja": "蒼穹無涯劍法",
+    "alias": [
+      "창궁검(蒼穹劍)"
+    ],
+    "sect_id": "nangong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「남궁세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "하늘 끝에 걸린 것이 없다는 뜻의 남궁세가 가전 검법. 검을 크게 벌려 상대의 사거리 밖에서 베고, 베고 난 뒤 검을 거두지 않아 다음 초식이 연달아 이어진다. 검선(劍線)이 길어 한 번 베면 상대의 퇴로까지 함께 긋는다.",
+    "techniques": [
+      {
+        "name_kr": "창궁무애",
+        "name_hanja": "蒼穹無涯",
+        "description": "검을 옆으로 길게 벌려 사거리 밖에서 긋는 첫 초식. 상대의 검끝이 닿지 않는 자리에서 시작한다."
+      },
+      {
+        "name_kr": "성하일검",
+        "name_hanja": "星河一劍",
+        "description": "은하가 흐르듯 위에서 아래로 길게 긋는 한 수. 검광이 남는 동안 다음 초식이 이미 시작된다."
+      },
+      {
+        "name_kr": "천외비래",
+        "name_hanja": "天外飛來",
+        "description": "하늘 밖에서 날아온 듯 각도를 완전히 틀어 찌르는 변칙. 예비 동작을 읽히지 않는다."
+      }
+    ],
+    "synergy_note": "천뢰제왕신공으로 내력을 실으면 검선이 더 길어지나, 좁은 공간에서는 긴 검선이 벽에 막혀 무력해진다."
+  },
+  {
+    "id": "jewang_geomhyeong",
+    "name_kr": "제왕검형",
+    "name_hanja": "帝王劍形",
+    "alias": [
+      "제왕검(帝王劍)"
+    ],
+    "sect_id": "nangong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「남궁세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "남궁세가의 필살기로 꼽히는 검형(劍形). 검을 정면에 세우고 상대를 향해 걸어 들어가며, 걸음마다 검기가 앞으로 밀려나 하나의 벽을 이룬다. 물러서면 벽이 더 가까워지고, 부딪치면 검기가 갈라져 사방으로 튄다.",
+    "techniques": [
+      {
+        "name_kr": "제왕임림",
+        "name_hanja": "帝王臨臨",
+        "description": "검을 세우고 한 걸음씩 밀고 들어가며 검기의 벽을 세우는 초식."
+      },
+      {
+        "name_kr": "만방래조",
+        "name_hanja": "萬方來朝",
+        "description": "검기를 사방으로 갈라 상대의 협공 대형을 흩어 버리는 일격."
+      },
+      {
+        "name_kr": "일통천하",
+        "name_hanja": "一統天下",
+        "description": "모든 검기를 한 점으로 모아 내지르는 마지막 수. 쓰고 나면 팔이 저려 다음 초식을 잇기 어렵다."
+      }
+    ],
+    "synergy_note": "정면에서 밀어붙이는 데 특화되어 후퇴를 강요한다. 태극검처럼 힘을 받아 돌리는 검법에는 벽 자체가 되돌려진다."
+  },
+  {
+    "id": "cheonnoe_jewang_singong",
+    "name_kr": "천뢰제왕신공",
+    "name_hanja": "天雷帝王神功",
+    "alias": [
+      "천뢰신공(天雷神功)"
+    ],
+    "sect_id": "nangong",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「남궁세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "하늘의 우레를 몸 안으로 끌어들인다는 남궁세가의 비전 심법. 숨을 내쉴 때 진기를 폐에서 압축해 검으로 밀어 넣고, 검이 부딪히는 순간 그 압축이 풀리며 우레 같은 울림이 난다. 소리가 나는 순간 상대의 손목이 먼저 저린다.",
+    "techniques": [
+      {
+        "name_kr": "천뢰입체",
+        "name_hanja": "天雷入體",
+        "description": "숨을 세 번 끊어 들이켜 진기를 폐에 압축하는 기초 운공."
+      },
+      {
+        "name_kr": "뇌정관",
+        "name_hanja": "雷霆貫",
+        "description": "압축한 진기를 검끝으로 한 번에 밀어 넣어 울림을 만드는 운용."
+      },
+      {
+        "name_kr": "제왕지기",
+        "name_hanja": "帝王之氣",
+        "description": "울림을 몸 밖으로 퍼뜨려 가까이 선 이들의 호흡을 흔드는 호신 운공."
+      }
+    ],
+    "synergy_note": "창궁무애검법·제왕검형의 위력을 크게 올린다. 다만 압축을 오래 유지하면 폐맥이 상해, 한 번의 승부 안에 끝내야 한다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "gimun_jinsik",
+    "name_kr": "기문진식",
+    "name_hanja": "奇門陣式",
+    "alias": [
+      "제갈진법(諸葛陣法)"
+    ],
+    "sect_id": "jegal",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "기타",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": "제갈세가(오대세가·신무협)의 기문진식.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「제갈세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "제갈량(諸葛亮)의 팔진도(八陣圖)를 무림의 지형에 맞게 다시 짠 진식. 돌·깃발·나무·물길 같은 사물의 배치만으로 사람의 방향 감각을 흐트러뜨린다. 진에 들어온 이는 같은 자리를 세 번 돌게 되고, 그 사이 진을 지키는 이는 한 번도 움직이지 않는다.",
+    "techniques": [
+      {
+        "name_kr": "팔문금쇄진",
+        "name_hanja": "八門金鎖陣",
+        "description": "여덟 방향의 입구를 사물로 막아 들어온 이를 가두는 기본 진식."
+      },
+      {
+        "name_kr": "미혼진",
+        "name_hanja": "迷魂陣",
+        "description": "비슷하게 생긴 통로를 겹쳐 놓아 같은 자리를 맴돌게 만드는 진."
+      },
+      {
+        "name_kr": "구궁팔괘",
+        "name_hanja": "九宮八卦",
+        "description": "아홉 자리와 여덟 방위를 엇갈려 배치해 진 안의 사람 수를 실제보다 많게 보이게 하는 응용."
+      }
+    ],
+    "synergy_note": "지형을 미리 장악해야 위력이 나온다. 망루에서 전체를 내려다보거나 진 밖에서 불을 지르면 배치가 드러나 무력해진다.",
+    "enum_note": "v2.1 분류: category 진법 · 계통 기문(奇門) · 등급 절학(絕學)"
+  },
+  {
+    "id": "pangwan_pilbeop",
+    "name_kr": "판관필법",
+    "name_hanja": "判官筆法",
+    "alias": [
+      "철선필(鐵扇筆)"
+    ],
+    "sect_id": "jegal",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "기타",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": "제갈세가(오대세가·신무협)의 기문 병기.",
+    "sources": [
+      {
+        "work": "강호지 무협백과 「제갈세가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "저승 판관(判官)의 붓을 본뜬 짧은 철필 두 자루로 쓰는 무예. 붓끝으로 점을 찍어 혈도를 누르고, 붓대를 세워 상대의 검을 걸어 꺾는다. 글씨를 쓰듯 획을 긋기 때문에 동작이 느려 보이지만, 획의 끝에서 방향이 갑자기 꺾인다.",
+    "techniques": [
+      {
+        "name_kr": "판관점귀",
+        "name_hanja": "判官點鬼",
+        "description": "붓끝으로 상대의 혈도를 정확히 찍어 움직임을 묶는 점법."
+      },
+      {
+        "name_kr": "주필단죄",
+        "name_hanja": "朱筆斷罪",
+        "description": "붓대를 비스듬히 세워 상대 검의 날을 걸어 옆으로 꺾는 초식."
+      },
+      {
+        "name_kr": "철획은구",
+        "name_hanja": "鐵劃銀鉤",
+        "description": "두 자루로 좌우에서 동시에 긋듯 베어 들어오는 이중 공격."
+      }
+    ],
+    "synergy_note": "사거리가 짧아 상대의 검에 밀리기 쉬우므로 기문진식으로 발을 묶은 뒤 접근하는 것이 정석이다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 기문(奇門) · 등급 절기(絕技)"
+  },
+  {
+    "id": "dujeonseong_i",
+    "name_kr": "두전성이",
+    "name_hanja": "斗轉星移",
+    "alias": [
+      "이피지도 환시피신(以彼之道 還施彼身)"
+    ],
+    "sect_id": "moyong",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「모용세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "북두칠성의 별자리가 돌듯 상대가 보낸 힘의 방향을 한 칸 옮겨 되돌려 보내는 심법. 힘을 막지도 흘리지도 않고, 상대의 진기가 몸에 닿는 순간 경락을 따라 반 바퀴 돌려 그대로 돌려준다. 그래서 모용세가는 상대가 자기 무공에 맞아 쓰러지는 것을 본다.",
+    "techniques": [
+      {
+        "name_kr": "이피지도",
+        "name_hanja": "以彼之道",
+        "description": "상대의 초식을 그대로 흉내 내어 들어오는 힘의 길을 파악하는 기본."
+      },
+      {
+        "name_kr": "환시피신",
+        "name_hanja": "還施彼身",
+        "description": "받은 힘을 경락에서 한 바퀴 돌려 같은 각도로 되돌려 보내는 운용."
+      },
+      {
+        "name_kr": "성두전투",
+        "name_hanja": "星斗轉換",
+        "description": "여러 방향의 힘을 동시에 받아 서로 부딪히게 만드는 응용. 협공에 강하다."
+      }
+    ],
+    "synergy_note": "상대의 무공을 알아야 되돌릴 수 있어, 처음 보는 무공에는 절반의 위력밖에 내지 못한다. 또 자기 내력보다 강한 힘은 돌리지 못하고 그대로 받는다."
+  },
+  {
+    "id": "chamhapji",
+    "name_kr": "참합지",
+    "name_hanja": "參合指",
+    "alias": [
+      "참합신지(參合神指)"
+    ],
+    "sect_id": "moyong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "손가락 끝에서 진기를 실처럼 뽑아내 멀리 있는 혈도를 찌르는 지법. 검기를 다루지 못하는 이도 쓸 수 있으나, 진기를 가늘게 뽑아내는 정밀도가 관건이다. 참합(參合)은 선비족의 옛 성 이름이자 '모여 합한다'는 뜻을 겹친 이름이다.",
+    "techniques": [
+      {
+        "name_kr": "참합삼점",
+        "name_hanja": "參合三點",
+        "description": "세 손가락으로 연달아 허공을 찍어 세 곳의 혈도를 동시에 노리는 초식."
+      },
+      {
+        "name_kr": "허공점혈",
+        "name_hanja": "虛空點穴",
+        "description": "닿지 않고 진기만으로 혈도를 누르는 원거리 점법."
+      },
+      {
+        "name_kr": "지기여사",
+        "name_hanja": "指氣如絲",
+        "description": "진기를 실처럼 가늘게 뽑아 상대의 옷깃을 타고 흐르게 하는 정밀 운용."
+      }
+    ],
+    "synergy_note": "두전성이로 상대의 힘을 받아 둔 뒤 빈틈에 찍으면 적중률이 크게 오른다. 진기를 가늘게 뽑는 만큼 두꺼운 옷이나 갑주에는 약하다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 지법(指法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "ohodanmundo",
+    "name_kr": "오호단문도",
+    "name_hanja": "五虎斷門刀",
+    "alias": [
+      "단문도(斷門刀)"
+    ],
+    "sect_id": "hebei_peng",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "도법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「하북팽가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "호랑이 다섯 마리가 문을 끊는다는 뜻의 팽가 가전 도법. 도를 머리 위로 들어 내리찍는 동작이 중심이며, 찍은 자리에서 도를 빼지 않고 그대로 밀어 눌러 상대의 검을 땅에 박아 버린다. 힘을 다 쓰고 나면 반드시 한 박자 쉬어야 하는 것이 유일한 약점이다.",
+    "techniques": [
+      {
+        "name_kr": "오호출산",
+        "name_hanja": "五虎出山",
+        "description": "도를 머리 위로 들어 크게 내리찍는 첫 초식. 검을 땅으로 눌러 버린다."
+      },
+      {
+        "name_kr": "단문일도",
+        "name_hanja": "斷門一刀",
+        "description": "상대가 물러서는 문턱을 정확히 끊어 퇴로를 닫는 일격."
+      },
+      {
+        "name_kr": "맹호귀림",
+        "name_hanja": "猛虎歸林",
+        "description": "찍은 도를 옆으로 끌어 올리며 베는 연계. 한 박자 쉬는 틈을 메운다."
+      }
+    ],
+    "synergy_note": "정면 충돌에서 압도적이지만 둔하다. 회피와 변화를 앞세우는 검법이나 경공에 약하며, 도를 땅에 박은 순간이 최대의 빈틈이다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 도법(刀法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "honwon_byeokryeok_singong",
+    "name_kr": "혼원벽력신공",
+    "name_hanja": "混元霹靂神功",
+    "alias": [
+      "혼원신공(混元神功)"
+    ],
+    "sect_id": "hebei_peng",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「하북팽가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "혼원(混元)의 한 덩어리 기를 벽력(霹靂)처럼 터뜨리는 팽가의 심법. 단전에 기를 고이지 않고 온몸의 근육에 고루 불려 넣어, 몸 자체를 하나의 큰 근육 덩어리로 만든다. 그래서 팽가 사람은 맞아도 멍이 들지 않고, 때리면 상대가 부서진다.",
+    "techniques": [
+      {
+        "name_kr": "혼원일기",
+        "name_hanja": "混元一氣",
+        "description": "기를 단전에 모으지 않고 온몸에 고루 펴는 기초 운공."
+      },
+      {
+        "name_kr": "벽력관정",
+        "name_hanja": "霹靂貫頂",
+        "description": "머리부터 발까지 기를 한 번에 밀어 넣어 순간적으로 힘을 폭발시키는 운용."
+      },
+      {
+        "name_kr": "진산격",
+        "name_hanja": "震山擊",
+        "description": "발을 구를 때 진동을 실어 상대의 중심을 흔드는 보법 겸 용력법."
+      }
+    ],
+    "synergy_note": "오호단문도의 위력을 크게 올리지만 기를 온몸에 펴는 만큼 정밀한 운공이 어려워, 점혈이나 암기 같은 정밀한 공격에 취약하다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "mancheon_hwau",
+    "name_kr": "만천화우",
+    "name_hanja": "滿天花雨",
+    "alias": [
+      "만천화우침(滿天花雨針)"
+    ],
+    "sect_id": "sichuan_tang",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "암기",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": "사천당가(오대세가·신무협)의 암기.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「사천당가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "하늘 가득 꽃비가 내리듯 수십 개의 침을 한 번에 흩뿌리는 당가의 절기. 손목의 미세한 각도 차이로 침마다 다른 궤도를 만들기 때문에, 하나를 쳐내면 다른 침이 그 틈으로 들어온다. 침은 손바닥 안에서 미리 방향이 정해져 있다.",
+    "techniques": [
+      {
+        "name_kr": "만천화우",
+        "name_hanja": "滿天花雨",
+        "description": "한 손에서 수십 개의 침을 부채꼴로 흩뿌리는 기본형."
+      },
+      {
+        "name_kr": "우타리화",
+        "name_hanja": "雨打梨花",
+        "description": "비가 배꽃을 때리듯 위에서 아래로 침을 흩뿌려 퇴로를 덮는 변형."
+      },
+      {
+        "name_kr": "화우계",
+        "name_hanja": "花雨界",
+        "description": "침을 사방에 미리 뿌려 두고 상대를 그 안으로 몰아넣는 포위형."
+      }
+    ],
+    "synergy_note": "넓은 공간에서 위력이 크고 좁은 실내에서는 사방에 박혀 무력해진다. 두꺼운 옷이나 방패 뒤에 숨으면 대부분 막힌다.",
+    "enum_note": "v2.1 분류: category 암기 · 계통 암기(暗器) · 등급 절학(絕學)"
+  },
+  {
+    "id": "pokwu_ihwachim",
+    "name_kr": "폭우이화침",
+    "name_hanja": "暴雨梨花針",
+    "alias": [
+      "이화정(梨花釘)"
+    ],
+    "sect_id": "sichuan_tang",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "암기",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": "사천당가(오대세가·신무협)의 암기.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "통 속에 침을 빽빽이 넣고 한 번에 쏘아 내는 기관(機關) 암기. 폭우가 배꽃을 때리듯 침이 앞을 가득 채워 피할 공간을 남기지 않는다. 한 번 쏘면 다시 장전해야 하므로, 당가는 이것을 마지막 수로 아낀다.",
+    "techniques": [
+      {
+        "name_kr": "일침선지",
+        "name_hanja": "一針先至",
+        "description": "통을 열기 전 먼저 한 개를 던져 상대의 시선을 끄는 준비 동작."
+      },
+      {
+        "name_kr": "이화만개",
+        "name_hanja": "梨花萬開",
+        "description": "통을 터뜨려 침을 부채꼴로 한꺼번에 쏘아 내는 본 동작."
+      },
+      {
+        "name_kr": "폭우경천",
+        "name_hanja": "暴雨傾天",
+        "description": "위로 쏘아 올린 뒤 낙하하는 침으로 상대를 덮는 응용."
+      }
+    ],
+    "synergy_note": "정면에서는 거의 막을 수 없으나, 쏘기 전 통을 겨냥한 선제 공격에 약하다. 장전에 시간이 걸려 한 번의 승부에 한 번뿐이다.",
+    "enum_note": "v2.1 분류: category 암기 · 계통 암기(暗器) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "muhyeong_jidok",
+    "name_kr": "무형지독",
+    "name_hanja": "無形之毒",
+    "alias": [
+      "당문무형독(唐門無形毒)"
+    ],
+    "sect_id": "sichuan_tang",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "기타",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": "사천당가(오대세가·신무협)의 독공.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「사천당가」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "빛도 냄새도 맛도 없이 몸속에 들어가 경락에 스며드는 당가의 독. 단번에 사람을 죽이지 않고, 스며든 자리에서 서서히 혈맥의 흐름을 늦춘다. 당가가 정파 대신 사파로 분류되었던 이유이자, 동시에 정파가 당가를 필요로 했던 이유다.",
+    "techniques": [
+      {
+        "name_kr": "무색무미",
+        "name_hanja": "無色無味",
+        "description": "술이나 차에 타도 알아채지 못하게 만드는 조제법."
+      },
+      {
+        "name_kr": "경락잠복",
+        "name_hanja": "經絡潛伏",
+        "description": "독을 경락에 잠복시켜 상대가 내력을 쓸 때만 발동하게 하는 배치법."
+      },
+      {
+        "name_kr": "삼일산",
+        "name_hanja": "三日散",
+        "description": "사흘에 걸쳐 서서히 퍼지는 지연성 독. 해독에는 당가의 처방이 필요하다."
+      }
+    ],
+    "synergy_note": "내력이 깊은 자는 독을 몸 밖으로 밀어낼 수 있어 효과가 반감된다. 반대로 상처가 열려 있으면 즉시 퍼져 위력이 배가 된다.",
+    "enum_note": "v2.1 분류: category 독공 · 계통 기문(奇門) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "cheonma_singong",
+    "name_kr": "천마신공",
+    "name_hanja": "天魔神功",
+    "alias": [
+      "천마대법(天魔大法)"
+    ],
+    "sect_id": "cheonma",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「마공」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「천마신교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "천마(天魔)의 기운을 몸에 받아들여 내력을 끌어올리는 마교의 정점 심법. 정파의 심법이 기를 쌓아 올리는 것과 달리, 이쪽은 기를 압축해 한 점에 몰아넣었다가 필요할 때 터뜨린다. 압축된 기가 몸을 비틀어, 수련이 얕으면 혈맥이 뒤집힌다.",
+    "techniques": [
+      {
+        "name_kr": "마기입체",
+        "name_hanja": "魔氣入體",
+        "description": "숨을 끊고 단전에 기를 밀어 넣어 압축을 시작하는 기초 운공."
+      },
+      {
+        "name_kr": "천마강림",
+        "name_hanja": "天魔降臨",
+        "description": "압축한 기를 한꺼번에 풀어 순간적으로 내력을 몇 배로 끌어올리는 운용."
+      },
+      {
+        "name_kr": "역혈삼전",
+        "name_hanja": "逆血三轉",
+        "description": "혈맥을 거꾸로 세 번 돌려 상처를 무시하고 싸우는 금기법. 쓰고 나면 몸이 무너진다."
+      }
+    ],
+    "synergy_note": "순간적인 폭발력은 정파 심법을 압도한다. 그러나 압축을 오래 유지할수록 혈맥이 상하고, 정파의 완만한 심법처럼 오래 버티는 승부에는 불리하다."
+  },
+  {
+    "id": "cheonma_gunrimbo",
+    "name_kr": "천마군림보",
+    "name_hanja": "天魔君臨步",
+    "alias": [
+      "군림보(君臨步)"
+    ],
+    "sect_id": "cheonma",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「천마신교」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "천마가 만마(萬魔) 위에 군림하듯, 상대의 정면을 피하지 않고 곧장 걸어 들어가는 보법. 발을 디딜 때마다 상대의 시선이 미묘하게 끌려가, 세 걸음이면 어느새 상대의 등 뒤에 서 있다. 물러서지 않는 것이 이 보법의 핵심이다.",
+    "techniques": [
+      {
+        "name_kr": "군림일보",
+        "name_hanja": "君臨一步",
+        "description": "한 걸음으로 상대의 정면을 지나치는 첫 보법. 시선을 끌어 옆으로 흐르게 한다."
+      },
+      {
+        "name_kr": "마영분신",
+        "name_hanja": "魔影分身",
+        "description": "남는 잔상으로 상대의 공격 방향을 흐트러뜨리는 응용."
+      },
+      {
+        "name_kr": "허공답혈",
+        "name_hanja": "虛空踏血",
+        "description": "공중에서 발을 한 번 더 디뎌 각도를 꺾는 변칙. 내력 소모가 크다."
+      }
+    ],
+    "synergy_note": "정면에서 압박하는 데 특화되어 상대의 후퇴를 강요한다. 넓게 흩어져 협공해 오면 잔상의 방향이 읽힌다.",
+    "enum_note": "v2.1 분류: category 경공 · 계통 경공(輕功) · 등급 절기(絕技)"
+  },
+  {
+    "id": "geongon_daenai",
+    "name_kr": "건곤대나이",
+    "name_hanja": "乾坤大挪移",
+    "alias": [
+      "건곤대나이신공(乾坤大挪移神功)"
+    ],
+    "sect_id": "myeonggyo",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「마공」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "하늘과 땅의 힘을 옮긴다는 뜻의 명교 호교신공. 초식이 아니라 힘을 부리는 요령으로, 몸에 잠들어 있던 잠력을 한꺼번에 끌어내 상대 힘의 흐름을 끌어당기거나 방향을 바꾼다. 수련 중에는 얼굴이 푸르게 질리며 몸이 식거나, 붉게 달아오르며 뜨거워진다.",
+    "techniques": [
+      {
+        "name_kr": "일층 인력",
+        "name_hanja": "一層 引力",
+        "description": "상대의 힘이 닿는 방향으로 몸을 조금 당겨 힘을 흘리는 기초 운용."
+      },
+      {
+        "name_kr": "사층 전이",
+        "name_hanja": "四層 轉移",
+        "description": "받은 힘을 등 뒤로 넘겨 다른 적에게 옮기는 운용. 33대 교주 양정천(陽頂天)이 이 층을 완성한 순간 주화입마로 죽었다."
+      },
+      {
+        "name_kr": "칠층 건곤역전",
+        "name_hanja": "七層 乾坤逆轉",
+        "description": "들어오는 힘의 방향 자체를 뒤집는 최상층. 창안자도 내공이 모자라 상상으로 적어 둔 19구가 있었고, 장무기(張無忌)가 그것을 걸러 내고 완성했다."
+      }
+    ],
+    "synergy_note": "내력이 모자란 채 무리하면 주화입마로 목숨을 잃는다. 구양신공(九陽神功)처럼 내력의 바탕이 두꺼운 심법을 먼저 익혀야 안전하다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "seonghwaryeong_mugong",
+    "name_kr": "성화령 무공",
+    "name_hanja": "聖火令武功",
+    "alias": [
+      "성화령신공(聖火令神功)"
+    ],
+    "sect_id": "myeonggyo",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "명교의 신물 성화령(聖火令) 열두 자루에 페르시아 문자로 새겨진 고대 무공. 동쪽을 가리키며 서쪽을 치는 기괴한 수법이라, 궤적을 읽어도 막을 수가 없다. 다만 사도(邪道)의 무학이라 쓸수록 손에 익는 대신 사용자의 사악한 성정이 깨어난다고 전한다.",
+    "techniques": [
+      {
+        "name_kr": "동지서격",
+        "name_hanja": "東指西擊",
+        "description": "손가락이 향한 방향과 반대로 타격이 들어가는 기본 수법."
+      },
+      {
+        "name_kr": "영전칠변",
+        "name_hanja": "令轉七變",
+        "description": "성화령을 일곱 번 돌려 각도를 바꾸며 연속으로 찌르는 연계."
+      },
+      {
+        "name_kr": "성화삼절",
+        "name_hanja": "聖火三絕",
+        "description": "불꽃이 세 번 일어나듯 상·중·하를 차례로 노리는 마지막 세 수."
+      }
+    ],
+    "synergy_note": "궤적을 읽는 것으로는 막을 수 없다. 다만 원리를 알고 나면 수가 읽히며, 건곤대나이와 함께 쓰면 오히려 상극이 되어 위력이 흐트러진다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 지법(指法) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "hanbing_myeonjang",
+    "name_kr": "한빙면장",
+    "name_hanja": "寒冰綿掌",
+    "alias": [
+      "한빙장(寒氷掌)"
+    ],
+    "sect_id": "myeonggyo",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "극음한(極陰寒)의 장력으로 맞은 이의 혈맥을 얼려 굳게 하는 장법. 장이 닿는 순간이 아니라, 닿고 나서 반 호흡 뒤에 한기가 몸속으로 퍼진다. 수련하다 실수하면 경맥에 음독이 쌓여, 내력을 쓸 때마다 한독이 발작한다.",
+    "techniques": [
+      {
+        "name_kr": "한빙입맥",
+        "name_hanja": "寒氷入脈",
+        "description": "손바닥을 대고 짧게 밀어 한기를 경맥 안으로 밀어 넣는 기본형."
+      },
+      {
+        "name_kr": "면장동혈",
+        "name_hanja": "綿掌凍血",
+        "description": "부드럽게 붙여 상대가 힘을 쓰려는 순간 피를 굳히는 응용."
+      },
+      {
+        "name_kr": "빙혼일격",
+        "name_hanja": "氷魂一擊",
+        "description": "한기를 한 점에 모아 심장을 겨누는 마지막 수. 쓰고 나면 자신의 손이 얼어붙는다."
+      }
+    ],
+    "synergy_note": "더위를 다스리는 무공(양염 계열)과 정면으로 상극이다. 내력이 깊으면 한기를 밀어낼 수 있어, 상대의 경지가 높을수록 효과가 줄어든다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "ohaenggi_jeonbeop",
+    "name_kr": "오행기 전법",
+    "name_hanja": "五行旗 戰法",
+    "alias": [
+      "오행기(五行旗)"
+    ],
+    "sect_id": "myeonggyo",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "진법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "명교의 다섯 부대가 오행(五行)에 맞춘 병기와 전술로 펼치는 집단 전법. 개인의 무공보다 편제와 장비를 앞세운다는 점에서 무협의 진법 가운데 군대에 가장 가깝다. 다섯 기(旗)가 각각 다른 방식으로 상대를 몰아넣고, 마지막에 한 곳으로 모인다.",
+    "techniques": [
+      {
+        "name_kr": "예금기",
+        "name_hanja": "銳金旗",
+        "description": "창·칼·활·도끼·투창으로 무장한 부대. 정면 돌파를 맡는다."
+      },
+      {
+        "name_kr": "열화기",
+        "name_hanja": "烈火旗",
+        "description": "석유를 담은 분사통으로 불을 뿜어 진형을 무너뜨리는 화공 부대."
+      },
+      {
+        "name_kr": "후토기",
+        "name_hanja": "厚土旗",
+        "description": "땅굴을 파 상대 진영 아래로 들어가는 공병 부대. 포위를 푸는 데 쓴다."
+      }
+    ],
+    "synergy_note": "넓은 평야에서 위력이 크고, 산악이나 습지에서는 부대가 흩어져 통제가 어렵다. 보급이 끊기면 오행의 연결이 무너진다.",
+    "enum_note": "v2.1 분류: category 진법 · 계통 진법(陣法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "gyuhwabojeon",
+    "name_kr": "규화보전",
+    "name_hanja": "葵花寶典",
+    "alias": [
+      "규화신공(葵花神功)"
+    ],
+    "sect_id": "irwol",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「일월신교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "해바라기가 해를 향하듯 몸의 양기(陽氣)를 모두 걷어내고 음(陰)의 극으로 밀어붙이는 심법. 양기를 버리는 대신 몸이 극도로 가벼워지고 감각이 예민해져, 바늘이 떨어지는 소리도 들린다. 전수 조건이 잔혹하여 배우는 이가 극히 드물다.",
+    "techniques": [
+      {
+        "name_kr": "천인화생",
+        "name_hanja": "天人化生",
+        "description": "양기를 걷어낸 뒤 음기를 온몸에 고루 펴는 기초 운공."
+      },
+      {
+        "name_kr": "만물자장",
+        "name_hanja": "萬物滋長",
+        "description": "몸의 감각을 극한까지 끌어올려 상대의 움직임을 소리와 바람으로 읽는 운용."
+      },
+      {
+        "name_kr": "무영지신",
+        "name_hanja": "無影之身",
+        "description": "그림자조차 남기지 않는 속도로 움직이는 응용. 오래 쓰면 몸이 상한다."
+      }
+    ],
+    "synergy_note": "속도와 감각에서 압도적이지만 몸의 균형이 극단으로 기울어, 정면의 강한 일격에는 취약하다. 또 양기를 버린 대가로 뜨거운 기운에 약하다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 비전(秘傳)"
+  },
+  {
+    "id": "heupseong_daebeop",
+    "name_kr": "흡성대법",
+    "name_hanja": "吸星大法",
+    "alias": [
+      "흡성법(吸星法)"
+    ],
+    "sect_id": "irwol",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「일월신교」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "상대의 내력을 빨아들여 자기 것으로 만드는 심법. 손바닥을 대고 상대의 진기가 흐르는 방향으로 자기 경맥을 열어, 상대의 기가 스스로 흘러들어오게 한다. 빨아들인 내력은 서로 다른 기운이라 몸 안에서 충돌하며, 그것을 눌러 두지 못하면 혈맥이 뒤집힌다.",
+    "techniques": [
+      {
+        "name_kr": "흡성",
+        "name_hanja": "吸星",
+        "description": "손바닥을 대고 경맥을 열어 상대의 진기를 끌어들이는 기본 운용."
+      },
+      {
+        "name_kr": "화공",
+        "name_hanja": "化功",
+        "description": "빨아들인 내력을 단전에서 눌러 자기 기로 바꾸는 과정."
+      },
+      {
+        "name_kr": "역류",
+        "name_hanja": "逆流",
+        "description": "몸 안의 여러 기운을 한꺼번에 몰아 상대에게 되돌려 보내는 위험한 응용."
+      }
+    ],
+    "synergy_note": "상대가 내력을 쓰지 않으면 빨아들일 것이 없다. 또 자기보다 강한 내력을 빨아들이면 눌러 두지 못해 스스로 상한다."
+  },
+  {
+    "id": "cheonmyeon_byeonjang",
+    "name_kr": "천면변장술",
+    "name_hanja": "千面變裝術",
+    "alias": [
+      "천면술(千面術)"
+    ],
+    "sect_id": "haomun",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "기타",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "얼굴은 물론 목소리와 체형까지 바꿔 다른 사람이 되는 술법. 살갗에 붙이는 얇은 막과 근육을 비트는 호흡법을 함께 쓴다. 완전히 다른 사람이 되는 것이 아니라, 상대가 기억하는 '그 사람'의 인상에 맞추는 것이 핵심이다.",
+    "techniques": [
+      {
+        "name_kr": "역용",
+        "name_hanja": "易容",
+        "description": "얇은 막을 붙여 얼굴의 윤곽을 바꾸는 기본 술법."
+      },
+      {
+        "name_kr": "변성",
+        "name_hanja": "變聲",
+        "description": "후두의 긴장을 조절해 다른 사람의 목소리를 흉내 내는 술법."
+      },
+      {
+        "name_kr": "이체",
+        "name_hanja": "移體",
+        "description": "어깨와 골반의 각도를 틀어 키와 체형을 속이는 응용."
+      }
+    ],
+    "synergy_note": "정보 수집과 잠입에 압도적이다. 다만 무공의 버릇은 속일 수 없어, 같은 초식을 두 번 보이면 정체가 드러난다.",
+    "enum_note": "v2.1 분류: category 기문 · 계통 기문(奇門) · 등급 절기(絕技)"
+  },
+  {
+    "id": "jeomhyeolsu",
+    "name_kr": "점혈수",
+    "name_hanja": "點穴手",
+    "alias": [
+      "점혈법(點穴法)"
+    ],
+    "sect_id": "haomun",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "일반",
+    "tier_tag": "신무협",
+    "tier_note": "하오문(신무협 사파)의 점혈수.",
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "손가락으로 혈도(穴道)를 눌러 상대의 움직임을 묶는 수법. 힘으로 누르는 것이 아니라 진기를 한 점에 모아 혈도 안으로 밀어 넣어 기의 흐름을 끊는다. 하오문처럼 정면 승부를 피하는 조직이 가장 즐겨 쓰는 수법이다.",
+    "techniques": [
+      {
+        "name_kr": "일점정혼",
+        "name_hanja": "一點定魂",
+        "description": "목덜미의 혈도를 찍어 순간적으로 몸을 굳히는 기본 점법."
+      },
+      {
+        "name_kr": "쌍점폐맥",
+        "name_hanja": "雙點閉脈",
+        "description": "양손으로 좌우를 동시에 찍어 팔의 맥을 함께 닫는 연계."
+      },
+      {
+        "name_kr": "역점해혈",
+        "name_hanja": "逆點解穴",
+        "description": "묶인 혈도를 반대 방향에서 찍어 푸는 해혈법. 스스로에게도 쓴다."
+      }
+    ],
+    "synergy_note": "내공으로 몸을 지키는 고수에게는 혈도가 닫혀 통하지 않는다. 반대로 내력이 얕은 상대에게는 한 점으로 승부가 끝난다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 지법(指法) · 등급 정통(正統)"
+  },
+  {
+    "id": "nakcho_dobeop",
+    "name_kr": "낙초도법",
+    "name_hanja": "落草刀法",
+    "alias": [
+      "산채도(山寨刀)"
+    ],
+    "sect_id": "nokrim",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "도법",
+    "grade": "일반",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "산에 들어가 초적이 된 자들이 익히는 도법. 정식 문파의 초식처럼 정갈하지 않고, 어둠과 지형을 이용해 한 번에 끝내는 것만을 노린다. 도를 낮게 끌고 들어가 상대의 다리를 먼저 베는 것이 특징이다.",
+    "techniques": [
+      {
+        "name_kr": "낙초일도",
+        "name_hanja": "落草一刀",
+        "description": "도을 땅에 붙여 끌어 올리며 다리를 베는 첫 초식."
+      },
+      {
+        "name_kr": "산채야습",
+        "name_hanja": "山寨夜襲",
+        "description": "어둠 속에서 소리 없이 접근해 목덜미를 노리는 기습."
+      },
+      {
+        "name_kr": "회두참",
+        "name_hanja": "回頭斬",
+        "description": "도망치는 척 돌아서서 되돌아 베는 반전 초식."
+      }
+    ],
+    "synergy_note": "지형과 어둠을 등지면 위력이 배가되지만, 넓고 밝은 평지에서는 정통 도법에 밀린다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 도법(刀法) · 등급 정통(正統)"
+  },
+  {
+    "id": "nokrim_yeonhwanjin",
+    "name_kr": "녹림연환진",
+    "name_hanja": "綠林連環陣",
+    "alias": [
+      "연환진(連環陣)"
+    ],
+    "sect_id": "nokrim",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "진법",
+    "grade": "일반",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "여러 산채가 서로의 등을 지키며 돌아가는 진. 한 채가 공격받으면 옆 채가 뒤에서 치고, 밀려나면 다음 채가 그 자리를 메운다. 개개인의 무공은 낮지만, 진이 돌기 시작하면 수가 줄지 않는다.",
+    "techniques": [
+      {
+        "name_kr": "삼채호각",
+        "name_hanja": "三寨互角",
+        "description": "세 산채가 삼각으로 서로의 사각을 메우는 기본 배치."
+      },
+      {
+        "name_kr": "연환사격",
+        "name_hanja": "連環射擊",
+        "description": "돌아가며 활을 쏘아 끊임없이 화살이 이어지게 하는 사격법."
+      },
+      {
+        "name_kr": "함정유인",
+        "name_hanja": "陷穽誘引",
+        "description": "일부러 길을 열어 두고 상대를 덫이 있는 자리로 끌어들이는 유인책."
+      }
+    ],
+    "synergy_note": "산길과 숲에서 강하고 평지에서는 약하다. 지휘하는 채주를 먼저 치면 진이 흩어진다.",
+    "enum_note": "v2.1 분류: category 진법 · 계통 진법(陣法) · 등급 정통(正統)"
+  },
+  {
+    "id": "suryong_dobeop",
+    "name_kr": "수룡도법",
+    "name_hanja": "水龍刀法",
+    "alias": [
+      "수룡도(水龍刀)"
+    ],
+    "sect_id": "janggang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "도법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "물 위에서 쓰도록 다듬어진 도법. 배가 흔들려도 중심이 흐트러지지 않게 도를 낮게 두고, 파도가 밀려오는 박자에 맞춰 벤다. 뭍에서는 어색하지만 물 위에서는 정파 고수도 함부로 상대하지 못한다.",
+    "techniques": [
+      {
+        "name_kr": "수룡출수",
+        "name_hanja": "水龍出水",
+        "description": "물에서 솟구치듯 아래에서 위로 크게 베어 올리는 첫 초식."
+      },
+      {
+        "name_kr": "파도삼첩",
+        "name_hanja": "波濤三疊",
+        "description": "파도가 세 번 겹치듯 같은 궤적을 세 번 다른 높이로 베는 연격."
+      },
+      {
+        "name_kr": "역랑참",
+        "name_hanja": "逆浪斬",
+        "description": "밀려오는 파도를 거슬러 베듯 상대의 중심을 뒤로 밀어내는 일격."
+      }
+    ],
+    "synergy_note": "물 위에서 위력이 배가되지만 뭍에서는 발이 붙어 초식이 둔해진다. 배를 부수면 전법의 바탕이 사라진다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 도법(刀法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "sujung_jamyeongbeop",
+    "name_kr": "수중잠영법",
+    "name_hanja": "水中潛泳法",
+    "alias": [
+      "잠영술(潛泳術)"
+    ],
+    "sect_id": "janggang",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "일반",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "물속에서 숨을 오래 참고 소리 없이 이동하는 수영법. 진기를 폐에 눌러 두어 한 번의 숨으로 긴 거리를 간다. 배 밑에 붙어 항로를 바꾸거나, 물속에서 배 위의 사람을 끌어내리는 데 쓴다.",
+    "techniques": [
+      {
+        "name_kr": "잠영",
+        "name_hanja": "潛泳",
+        "description": "물속에서 물결을 만들지 않고 미끄러지듯 나아가는 기본 영법."
+      },
+      {
+        "name_kr": "부수",
+        "name_hanja": "浮水",
+        "description": "수면에 몸을 눕혀 오래 떠 있는 법. 물 위에서 기다릴 때 쓴다."
+      },
+      {
+        "name_kr": "파저행",
+        "name_hanja": "波底行",
+        "description": "파도 아래로 파고들어 상대의 눈을 피해 이동하는 응용."
+      }
+    ],
+    "synergy_note": "물에서만 통하는 무예라 뭍에서는 거의 쓸모가 없다. 반대로 배 위에서 이들과 싸우는 것은 정파 고수에게도 두려운 일이다.",
+    "enum_note": "v2.1 분류: category 경공 · 계통 경공(輕功) · 등급 정통(正統)"
+  },
+  {
+    "id": "bingbaek_sinjang",
+    "name_kr": "빙백신장",
+    "name_hanja": "氷白神掌",
+    "alias": [
+      "빙백장(氷白掌)"
+    ],
+    "sect_id": "bukhai",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「북해빙궁」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "북해의 만년 빙정(氷精)에서 끌어낸 한기를 장에 실어 내는 빙궁의 상승 장법. 손바닥이 닿는 순간 상대의 피부가 하얗게 질리고, 그 자리에서 한기가 혈관을 타고 퍼진다. 빙궁 사람이 더위에 민감한 것은 이 무공을 익힌 대가다.",
+    "techniques": [
+      {
+        "name_kr": "빙백일장",
+        "name_hanja": "氷白一掌",
+        "description": "손바닥을 대고 한기를 밀어 넣는 기본형. 맞은 자리가 하얗게 변한다."
+      },
+      {
+        "name_kr": "설화만리",
+        "name_hanja": "雪花萬里",
+        "description": "눈보라가 만리를 덮듯 사방으로 한기를 흩뿌리는 광역 초식."
+      },
+      {
+        "name_kr": "한강동결",
+        "name_hanja": "寒江凍結",
+        "description": "상대의 다리부터 얼려 움직임을 봉하는 마지막 수."
+      }
+    ],
+    "synergy_note": "열기를 다루는 무공과 정면으로 상극이며, 서로 만나면 먼저 기를 다 쓰는 쪽이 진다. 중원의 온화한 기후에서는 위력이 다소 줄어든다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절학(絕學)"
+  },
+  {
+    "id": "hanok_jingi",
+    "name_kr": "한옥진기",
+    "name_hanja": "寒玉眞氣",
+    "alias": [
+      "한옥공(寒玉功)"
+    ],
+    "sect_id": "bukhai",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「북해빙궁」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "차가운 옥을 몸 안에 품는다는 빙궁의 심법. 기를 따뜻하게 데우지 않고 차갑게 응고시켜 단단하게 만든다. 응고된 기는 상처를 빨리 닫고 추위를 견디게 하지만, 기의 순환이 느려 회복이 더디다.",
+    "techniques": [
+      {
+        "name_kr": "한옥생기",
+        "name_hanja": "寒玉生肌",
+        "description": "상처 부위에 한기를 모아 피를 굳혀 지혈하는 응급 운공."
+      },
+      {
+        "name_kr": "빙심결",
+        "name_hanja": "氷心訣",
+        "description": "심박과 호흡을 늦춰 오랫동안 움직이지 않고 버티는 운공."
+      },
+      {
+        "name_kr": "옥골빙근",
+        "name_hanja": "玉骨氷筋",
+        "description": "뼈와 힘줄에 한기를 스며들게 해 타격을 견디는 단련법."
+      }
+    ],
+    "synergy_note": "빙백신장의 바탕이 되며 추위를 견디게 한다. 다만 순환이 느려 큰 상처를 입으면 회복이 오래 걸린다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "daesuin",
+    "name_kr": "대수인",
+    "name_hanja": "大手印",
+    "alias": [
+      "금강대수인(金剛大手印)"
+    ],
+    "sect_id": "potala",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "tier_note": "포달랍궁(세외·신무협)의 장법.",
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "밀종(密宗)의 인(印)을 장법으로 옮긴 무예. 손가락으로 결인(結印)한 뒤 그 인을 그대로 상대에게 밀어 넣는다. 인의 모양이 곧 진기의 형태가 되어, 손바닥이 닿지 않아도 인의 형상대로 충격이 들어간다.",
+    "techniques": [
+      {
+        "name_kr": "금강대수인",
+        "name_hanja": "金剛大手印",
+        "description": "두 손을 크게 벌려 인을 맺고 정면으로 밀어 넣는 기본형."
+      },
+      {
+        "name_kr": "보병인",
+        "name_hanja": "寶甁印",
+        "description": "보병 모양의 인으로 상대의 팔을 감아 움직임을 봉하는 응용."
+      },
+      {
+        "name_kr": "항마인",
+        "name_hanja": "降魔印",
+        "description": "손바닥을 아래로 향한 인으로 상대를 눌러 땅에 붙이는 마지막 수."
+      }
+    ],
+    "synergy_note": "인을 맺는 동작이 커서 선제를 내주기 쉽다. 대신 한 번 들어가면 막기 어려워, 상대의 초식을 받아 낸 뒤에 쓰는 것이 정석이다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 장법(掌法) · 등급 절학(絕學)"
+  },
+  {
+    "id": "miljong_geumganggong",
+    "name_kr": "밀종금강공",
+    "name_hanja": "密宗金剛功",
+    "alias": [
+      "금강공(金剛功)"
+    ],
+    "sect_id": "potala",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": "포달랍궁(세외·신무협)의 내공심법.",
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "몸과 말과 뜻의 세 가지가 하나로 맞는다는 삼밀(三密)에 기대어 내력을 쌓는 심법. 염송(念誦)의 리듬에 호흡을 맞추고, 그 리듬이 흐트러지면 기도 흐트러진다. 중원 불가의 무공과 달리 사이(邪異)한 기운이 섞여 있다고 정파는 말한다.",
+    "techniques": [
+      {
+        "name_kr": "삼밀상응",
+        "name_hanja": "三密相應",
+        "description": "몸의 인과 입의 염송과 뜻의 관상을 하나로 맞추는 기초 수행."
+      },
+      {
+        "name_kr": "금강지신",
+        "name_hanja": "金剛之身",
+        "description": "온몸의 기를 굳혀 칼날과 충격을 견디는 단련법."
+      },
+      {
+        "name_kr": "법안관",
+        "name_hanja": "法眼觀",
+        "description": "눈을 감고 상대의 기의 흐름을 보는 관법. 어둠 속에서도 방향을 안다."
+      }
+    ],
+    "synergy_note": "염송의 리듬이 끊기면 내력이 급격히 흐트러진다. 그래서 소리로 방해하는 음공(音功)에 특히 약하다.",
+    "enum_note": "v2.1 분류: category 내공 · 계통 내공심법(內功心法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "odokjang",
+    "name_kr": "오독장",
+    "name_hanja": "五毒掌",
+    "alias": [
+      "오독수(五毒手)"
+    ],
+    "sect_id": "namman",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "tier_note": "남만야수궁(세외·신무협)의 독장.",
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "뱀·전갈·지네·두꺼비·거미 다섯 독물의 독을 손바닥에 길들여 두고 장에 실어 내는 남만의 장법. 손바닥에 난 상처로 독이 스며들어, 상대의 피부에 닿기만 해도 독이 옮는다. 독에 스스로 익숙해지는 과정이 수련의 전부다.",
+    "techniques": [
+      {
+        "name_kr": "청사수",
+        "name_hanja": "靑蛇手",
+        "description": "뱀이 혀를 내밀듯 손끝을 튕겨 독을 묻히는 초식."
+      },
+      {
+        "name_kr": "갈미장",
+        "name_hanja": "蝎尾掌",
+        "description": "전갈의 꼬리처럼 손목을 뒤로 꺾어 올려 치는 변칙."
+      },
+      {
+        "name_kr": "오독합장",
+        "name_hanja": "五毒合掌",
+        "description": "다섯 독을 한꺼번에 손바닥에 모아 내지르는 마지막 수."
+      }
+    ],
+    "synergy_note": "상처 하나만 나도 독이 옮아 정파가 가장 꺼리는 무공이다. 다만 손바닥에 상처를 내고 기르는 탓에 불과 뜨거운 것에 약하고, 해독제를 미리 쓴 상대에게는 통하지 않는다.",
+    "enum_note": "v2.1 분류: category 독공 · 계통 장법(掌法) · 등급 절기(絕技)"
+  },
+  {
+    "id": "sanghyeong_yasugwon",
+    "name_kr": "상형야수권",
+    "name_hanja": "象形野獸拳",
+    "alias": [
+      "만수권(蠻獸拳)"
+    ],
+    "sect_id": "namman",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "일반",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "밀림의 짐승 여섯 가지 움직임을 그대로 몸에 새긴 권법. 호랑이의 덮치기, 원숭이의 팔놀림, 매의 발톱, 뱀의 꿈틀거림, 코끼리의 밀기, 사슴의 뛰기를 각각 한 초식으로 삼는다. 짐승을 오래 관찰한 자만이 그 형상을 온전히 얻는다.",
+    "techniques": [
+      {
+        "name_kr": "호박",
+        "name_hanja": "虎撲",
+        "description": "호랑이가 먹이를 덮치듯 두 손으로 어깨를 짓누르며 파고드는 초식."
+      },
+      {
+        "name_kr": "원비",
+        "name_hanja": "猿臂",
+        "description": "원숭이의 긴 팔처럼 몸을 비틀어 사거리를 늘리는 연타."
+      },
+      {
+        "name_kr": "응조",
+        "name_hanja": "鷹爪",
+        "description": "매의 발톱처럼 손가락을 세워 할퀴는 근접 공격."
+      }
+    ],
+    "synergy_note": "몸을 크게 쓰므로 좁은 곳에서 약하고, 검과 같은 긴 병기에는 사거리에서 밀린다. 대신 맨몸 대 맨몸에서는 속도가 압도적이다.",
+    "enum_note": "v2.1 분류: category 외공 · 계통 권각(拳腳) · 등급 정통(正統)"
+  },
+  {
+    "id": "yeojo_cheonwangmu",
+    "name_kr": "여조천왕무",
+    "name_hanja": "麗藻天王武",
+    "sect_id": "hwangbo",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "황보세가 직계에만 전해지는 강맹한 권장지각 절학. 꺾이지 않는 직선적 기세로 적의 방어를 정면에서 뚫는다.",
+    "techniques": [
+      {
+        "name_kr": "천왕진압",
+        "name_hanja": "天王鎭壓",
+        "description": "묵직한 장력으로 사방의 기세를 내리누르는 선제 수법."
+      },
+      {
+        "name_kr": "패왕개산",
+        "name_hanja": "覇王開山",
+        "description": "산악을 가를 듯 정면으로 뻗어 나가는 필살의 중권."
+      },
+      {
+        "name_kr": "여조천왕보",
+        "name_hanja": "麗藻天王步",
+        "description": "거구의 신형을 일순에 전진시키는 패도적 보법."
+      }
+    ],
+    "synergy_note": "천왕기단(天王氣緞) 호신강기와 함께 펼치면 근접 백병전에서 위력이 배가됨",
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "namhwa_geomryeongsik",
+    "name_kr": "남화검령식",
+    "name_hanja": "南華劍領式",
+    "sect_id": "hwangbo",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "권곤 위주의 황보세가에서 예외적으로 대성한 직선형 강검 검법. 군더더기 없는 궤적으로 적의 병기를 쳐낸다.",
+    "techniques": [
+      {
+        "name_kr": "남화일섬",
+        "name_hanja": "南華一閃",
+        "description": "단숨에 거리를 좁혀 직선으로 꿰뚫는 쾌검."
+      },
+      {
+        "name_kr": "천왕단강",
+        "name_hanja": "天王斷江",
+        "description": "강물을 가르듯 대검처럼 묵직하게 내리긋는 횡참."
+      },
+      {
+        "name_kr": "십년일검",
+        "name_hanja": "十年一劍",
+        "description": "오랜 수련의 정수를 한 번의 발검에 실어 터뜨리는 결초."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "dokgo_singeom",
+    "name_kr": "독고신검",
+    "name_hanja": "獨孤神劍",
+    "sect_id": "dokgo",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "독고구검의 파초 이치를 가전 검결로 다듬은 독고세가의 궁극 검법. 초식이 변하는 찰나에 허점을 꿰뚫는다.",
+    "techniques": [
+      {
+        "name_kr": "파검일식",
+        "name_hanja": "破劍一式",
+        "description": "상대 검기의 이음새를 정확히 끊어 무력화하는 초식."
+      },
+      {
+        "name_kr": "독고구결",
+        "name_hanja": "獨孤九訣",
+        "description": "아홉 방위의 변화를 찰나에 뒤섞어 퇴로를 막는 연환 검식."
+      },
+      {
+        "name_kr": "무초귀일",
+        "name_hanja": "無招歸一",
+        "description": "정해진 형식을 버리고 기세만으로 제압하는 극의."
+      }
+    ],
+    "synergy_note": "무상검결(無常劍訣) 심법으로 내력을 돌리면 발검 속도가 한층 빨라짐",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "musang_geomgyeol",
+    "name_kr": "무상검결",
+    "name_hanja": "無常劍訣",
+    "sect_id": "dokgo",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "검을 쥔 심신과 단전의 진기를 하나로 묶어 검기(劍氣)의 순도를 극대화하는 독고세가 내공심법.",
+    "techniques": [
+      {
+        "name_kr": "심검합일",
+        "name_hanja": "心劍合一",
+        "description": "마음의 움직임과 동시에 검기가 뻗어 나가게 하는 운공법."
+      },
+      {
+        "name_kr": "무상유전",
+        "name_hanja": "無常流轉",
+        "description": "적의 기세에 맞춰 내력의 성질을 유동적으로 바꾸는 조식법."
+      },
+      {
+        "name_kr": "만검귀종",
+        "name_hanja": "萬劍歸宗",
+        "description": "단전의 모든 진기를 한 자루 검끝으로 모으는 극성 구결."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hangsan_geombeop",
+    "name_kr": "항산검법",
+    "name_hanja": "恒山劍法",
+    "sect_id": "hengshan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "수비를 바탕으로 빈틈없는 검막을 세우는 항산파 정통 검법. 다수 협공과 칠인 검진에 특히 강하다.",
+    "techniques": [
+      {
+        "name_kr": "만화표령",
+        "name_hanja": "萬花飄零",
+        "description": "꽃잎처럼 흩날리는 검망으로 사방의 공격을 받아내는 방어식."
+      },
+      {
+        "name_kr": "금침도겁",
+        "name_hanja": "金針渡劫",
+        "description": "가늘고 빠른 검끝으로 적의 급소를 찌르는 반격 초식."
+      },
+      {
+        "name_kr": "항산칠검진",
+        "name_hanja": "恒山七劍陣",
+        "description": "일곱 제자가 서로 빈틈을 메우며 반격하는 합격 검진."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "myeonri_jangchim",
+    "name_kr": "면리장침",
+    "name_hanja": "綿裏藏針",
+    "sect_id": "hengshan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "부드러운 솜 속에 날카로운 바늘을 감춘다는 뜻의 항산파 성명절기. 적이 강하게 밀어붙일수록 반격이 매섭다.",
+    "techniques": [
+      {
+        "name_kr": "유수수화",
+        "name_hanja": "流水隨花",
+        "description": "상대 강기를 흘려보내며 검선을 엇갈리게 붙이는 유식."
+      },
+      {
+        "name_kr": "장침투갑",
+        "name_hanja": "藏針透甲",
+        "description": "수비 검막 사이로 촌경의 찌르기를 꽂아 넣는 살초."
+      },
+      {
+        "name_kr": "백설도장",
+        "name_hanja": "白雪倒藏",
+        "description": "전진하는 적의 힘을 거꾸로 되돌려 제압하는 후발선제."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "hoepung_nakan_geom",
+    "name_kr": "회풍낙안검",
+    "name_hanja": "回風落雁劍",
+    "sect_id": "henan_hengshan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "기러기가 회풍을 타고 내려앉듯 한 번의 호를 그리며 여러 송이 검화를 피워 내는 형산파 최고 절학.",
+    "techniques": [
+      {
+        "name_kr": "일검낙구안",
+        "name_hanja": "一劍落九雁",
+        "description": "단 일검의 호선으로 아홉 방향의 급소를 동시에 베는 비기."
+      },
+      {
+        "name_kr": "소상야우",
+        "name_hanja": "瀟湘夜雨",
+        "description": "밤비처럼 촘촘하고 은밀하게 떨어지는 연속 검영."
+      },
+      {
+        "name_kr": "백초곡",
+        "name_hanja": "百鳥曲",
+        "description": "호금의 음률에 맞춰 리듬을 교란하는 변칙 검식."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "unmu_sipsamsik",
+    "name_kr": "운무십삼식",
+    "name_hanja": "雲霧十三式",
+    "sect_id": "henan_hengshan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "형산의 안개와 구름처럼 변화가 백출하여 한 초식 속에 열세 가지 후속타가 숨어 있는 검법.",
+    "techniques": [
+      {
+        "name_kr": "운무요롱",
+        "name_hanja": "雲霧繚繞",
+        "description": "안개처럼 시야를 가리듯 검흔을 남기는 교란 초식."
+      },
+      {
+        "name_kr": "백변천환",
+        "name_hanja": "百變千幻",
+        "description": "검결 하나에서 무수한 허실이 교차하는 환검 초식."
+      },
+      {
+        "name_kr": "청산은은",
+        "name_hanja": "靑山隱隱",
+        "description": "구름 사이로 햇살이 비치듯 틈을 찌르는 결정타."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "taesan_sippalban",
+    "name_kr": "태산십팔반",
+    "name_hanja": "泰山十八盤",
+    "sect_id": "taishan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "태산의 험준한 열여덟 굽이 돌계단을 검세로 옮긴 태산파 정통 검법. 한 번 굽이칠 때마다 압력이 배가된다.",
+    "techniques": [
+      {
+        "name_kr": "일선천",
+        "name_hanja": "一線天",
+        "description": "바위 틈을 가르는 듯 좁고 깊은 직선 검강."
+      },
+      {
+        "name_kr": "승운부",
+        "name_hanja": "昇雲步",
+        "description": "산길을 오르듯 고저차를 이용해 내려치는 검식."
+      },
+      {
+        "name_kr": "대봉마검",
+        "name_hanja": "岱峯魔劍",
+        "description": "태산의 중후한 무게감으로 찍어 누르는 최종 비기."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "chilseong_nakjang",
+    "name_kr": "칠성락장",
+    "name_hanja": "七星落長",
+    "sect_id": "taishan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "북두칠성의 방위를 본떠 일곱 차례 연이어 검초를 떨어뜨리는 태산파의 고검(古劍) 절기.",
+    "techniques": [
+      {
+        "name_kr": "탐랑점성",
+        "name_hanja": "貪狼點星",
+        "description": "별을 찍듯 날카롭게 찌르는 선제 검초."
+      },
+      {
+        "name_kr": "파군횡소",
+        "name_hanja": "破軍橫掃",
+        "description": "가로로 쓸어 적의 진형을 무너뜨리는 강초."
+      },
+      {
+        "name_kr": "칠성연주",
+        "name_hanja": "七星連珠",
+        "description": "일곱 번의 검격이 하나의 궤적으로 이어지는 연환식."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "sungsan_geombeop",
+    "name_kr": "숭산검법",
+    "name_hanja": "嵩山劍法",
+    "sect_id": "songshan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "오악검파 중에서도 가장 기세가 웅장하고 대개대합(大開大闔)한 정면 돌파형 검법.",
+    "techniques": [
+      {
+        "name_kr": "자전관홍",
+        "name_hanja": "紫電貫虹",
+        "description": "번개처럼 뻗어 적의 정면을 꿰뚫는 쾌검."
+      },
+      {
+        "name_kr": "만악조종",
+        "name_hanja": "萬嶽朝宗",
+        "description": "천하 뭇 산을 압도하는 숭산의 패기 어린 중검식."
+      },
+      {
+        "name_kr": "천외비선",
+        "name_hanja": "天外飛仙",
+        "description": "높이 뛰어올라 전신의 힘을 실어 내리긋는 결초."
+      }
+    ],
+    "synergy_note": "한빙진기(寒冰眞氣)를 검날에 두르면 상대 검신을 얼어붙게 함",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "hanbing_jingi",
+    "name_kr": "한빙진기",
+    "name_hanja": "寒冰眞氣",
+    "sect_id": "songshan",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "좌냉선이 극음의 내력을 모아 창안한 한빙 심법. 닿는 것마다 살얼음이 맺히고, 흡성대법조차 얼려 역공할 수 있다.",
+    "techniques": [
+      {
+        "name_kr": "한빙신장",
+        "name_hanja": "寒冰神掌",
+        "description": "차디찬 장풍으로 상대의 경맥을 동결시키는 장법."
+      },
+      {
+        "name_kr": "현빙호신",
+        "name_hanja": "玄冰護身",
+        "description": "체표에 서릿발 같은 한기 장막을 두르는 호신법."
+      },
+      {
+        "name_kr": "동결역류",
+        "name_hanja": "凍結逆流",
+        "description": "흡공을 시도하는 적의 경맥 속으로 한기를 역주입하는 비기."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "hyeolma_singong",
+    "name_kr": "혈마신공",
+    "name_hanja": "血魔神功",
+    "sect_id": "blood_sect",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "타인의 생혈과 원기를 흡수해 내공으로 삼는 혈교의 금기 심법. 진기가 붉은 혈기(血氣)를 띠며 회복력이 기이하다.",
+    "techniques": [
+      {
+        "name_kr": "혈하도해",
+        "name_hanja": "血河倒海",
+        "description": "핏빛 기운을 파도처럼 몰아쳐 주위를 잠식하는 광역기."
+      },
+      {
+        "name_kr": "혈혼귀원",
+        "name_hanja": "血魂歸元",
+        "description": "적의 생기를 빨아들여 상처를 급속히 아물게 하는 비술."
+      },
+      {
+        "name_kr": "아수라혈강",
+        "name_hanja": "阿修羅血罡",
+        "description": "짙은 핏빛 호신강기를 몸 밖에 두르는 극성 방어술."
+      }
+    ],
+    "synergy_note": "선기(仙氣) 계열 정종 도가 검기에는 급속 치유가 막히는 상성 약점이 있음",
+    "sources": [
+      {
+        "work": "나무위키 「혈교」",
+        "author": null
+      },
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "hyeolsu_suragyeol",
+    "name_kr": "혈수수라결",
+    "name_hanja": "血手修羅訣",
+    "sect_id": "blood_sect",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "손바닥과 손톱에 핏빛 독기와 살기를 실어 육신을 찢어발기는 혈교의 근접 살상 수법.",
+    "techniques": [
+      {
+        "name_kr": "혈조파심",
+        "name_hanja": "血爪破心",
+        "description": "다섯 손가락의 혈기로 적의 가슴을 파고드는 조법."
+      },
+      {
+        "name_kr": "홍련혈장",
+        "name_hanja": "紅蓮血掌",
+        "description": "핏빛 연화 모양 장풍을 터뜨리는 중거리 살초."
+      },
+      {
+        "name_kr": "수라혈진",
+        "name_hanja": "修羅血陣",
+        "description": "혈교도들이 피를 뿌리며 적의 기력을 갉아먹는 사술진."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「혈교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "paegun_hwanyoung_jang",
+    "name_kr": "패군환영장",
+    "name_hanja": "覇君幻影掌",
+    "sect_id": "maninbang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "패군 장일소가 전장에서 체득한 변칙 장법. 비단 소매와 화려한 몸짓 뒤에 뱀처럼 교활하고 묵직한 살초를 감춘다.",
+    "techniques": [
+      {
+        "name_kr": "백안혼천",
+        "name_hanja": "白眼混天",
+        "description": "화려한 장영으로 상대의 눈을 현혹한 뒤 급소를 치는 초식."
+      },
+      {
+        "name_kr": "소리장도",
+        "name_hanja": "笑裏藏刀",
+        "description": "미소 짓는 여유 속에 일격 필살의 암경(暗勁)을 심는 수법."
+      },
+      {
+        "name_kr": "패군군림",
+        "name_hanja": "覇君君臨",
+        "description": "사방의 사기(邪氣)를 한데 모아 폭발시키는 압도적 장풍."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      },
+      {
+        "work": "나무위키 「장일소」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "paedo_samgwang_sal",
+    "name_kr": "패도삼광살",
+    "name_hanja": "覇道三狂殺",
+    "sect_id": "maninbang",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "사파 특유의 거칠고 광폭한 살기를 억누르지 않고 오히려 내력의 추진력으로 삼는 만인방 무력대의 핵심 심법.",
+    "techniques": [
+      {
+        "name_kr": "광사폭주",
+        "name_hanja": "狂邪暴走",
+        "description": "순간적으로 혈맥을 끓여 근력과 속도를 한계까지 끌어올리는 법."
+      },
+      {
+        "name_kr": "만인쇄골",
+        "name_hanja": "萬人碎骨",
+        "description": "상대 방어를 부수며 밀고 들어가는 파괴적 발경법."
+      },
+      {
+        "name_kr": "흑조압진",
+        "name_hanja": "黑鳥壓陣",
+        "description": "다수가 일제히 살기를 토해 전장을 짓누르는 합공 운기법."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "changhae_geombeop",
+    "name_kr": "창해검법",
+    "name_hanja": "滄海劍法",
+    "sect_id": "hainan",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "끝없이 밀려드는 남해 파도의 연쇄와 기세를 본뜬 해남파의 대표 검법. 한 번 밀리기 시작하면 끝없이 몰아친다.",
+    "techniques": [
+      {
+        "name_kr": "파도연쇄",
+        "name_hanja": "波濤連鎖",
+        "description": "첫 검이 막히면 곧바로 두 번째 물결처럼 이어지는 연격."
+      },
+      {
+        "name_kr": "창해일성",
+        "name_hanja": "滄海一聲",
+        "description": "거대한 해일처럼 묵직하게 내리꽂는 수직 강검."
+      },
+      {
+        "name_kr": "조석회귀",
+        "name_hanja": "潮汐回歸",
+        "description": "밀물과 썰물의 호흡으로 적의 검세를 되돌리는 수비 초식."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "parang_joseok_gong",
+    "name_kr": "파랑조석공",
+    "name_hanja": "波浪潮汐功",
+    "sect_id": "hainan",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "밀물과 썰물의 주기처럼 진기를 축적하고 방출하는 해남파 정통 내공심법. 지구력과 수전 적응력이 탁월하다.",
+    "techniques": [
+      {
+        "name_kr": "만조축기",
+        "name_hanja": "滿潮蓄氣",
+        "description": "단전에 수기(水氣) 성질의 내력을 가득 채우는 토납법."
+      },
+      {
+        "name_kr": "격랑발경",
+        "name_hanja": "激浪發勁",
+        "description": "모아 둔 진기를 파도처럼 몇 겹으로 나눠 터뜨리는 경법."
+      },
+      {
+        "name_kr": "수면보행",
+        "name_hanja": "水面步行",
+        "description": "발끝에 내력을 실어 거친 물결 위를 디뎌 나가는 경공."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "taeyang_singong",
+    "name_kr": "태양신공",
+    "name_hanja": "太陽神功",
+    "sect_id": "nanhai_sun",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "남해의 작열하는 태양 정기를 단전에 담아 극한의 양기(陽氣)를 연성하는 남해태양궁의 근본 신공.",
+    "techniques": [
+      {
+        "name_kr": "일륜승천",
+        "name_hanja": "日輪昇天",
+        "description": "타오르는 태양처럼 주변 공기를 달구며 내력을 끌어올리는 법."
+      },
+      {
+        "name_kr": "적염호신",
+        "name_hanja": "赤炎護身",
+        "description": "한빙·독기 계열 공격을 열기로 태워 튕겨 내는 호신강기."
+      },
+      {
+        "name_kr": "구양폭렬",
+        "name_hanja": "九陽爆裂",
+        "description": "체내 양기를 일시에 폭발시켜 전장을 초토화하는 비기."
+      }
+    ],
+    "synergy_note": "북해빙궁의 한빙 무공과 상극을 이룸",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      },
+      {
+        "work": "나무위키 「무공/목록」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "yeoryang_yeomjang",
+    "name_kr": "열양염장",
+    "name_hanja": "烈陽炎掌",
+    "sect_id": "nanhai_sun",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "태양신공의 작열하는 내력을 손바닥에 모아 불꽃 같은 장풍으로 뿜어내는 남해태양궁의 대표 장법.",
+    "techniques": [
+      {
+        "name_kr": "염황쇄암",
+        "name_hanja": "炎黃碎岩",
+        "description": "바위도 녹일 듯한 고열을 실어 내리치는 직격 장법."
+      },
+      {
+        "name_kr": "화우만천",
+        "name_hanja": "火雨滿天",
+        "description": "수십 갈래 불꽃 장영을 비처럼 쏟아내는 광역 초식."
+      },
+      {
+        "name_kr": "태양낙진",
+        "name_hanja": "太陽落盡",
+        "description": "하늘에서 태양이 떨어지듯 전력을 실어 찍어 누르는 결초."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "seomjeon_sipsamroe",
+    "name_kr": "섬전십삼뢰",
+    "name_hanja": "閃電十三雷",
+    "sect_id": "nangong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "번개가 내리치는 듯한 쾌속의 연환 검격 열세 수를 찰나에 퍼붓는 남궁세가 비전 쾌검.",
+    "techniques": [
+      {
+        "name_kr": "초뢰일섬",
+        "name_hanja": "初雷一閃",
+        "description": "발검과 동시에 뇌광처럼 거리를 좁히는 선제 쾌검."
+      },
+      {
+        "name_kr": "구천낙뢰",
+        "name_hanja": "九天落雷",
+        "description": "공중에서 수직으로 내리꽂아 적의 검막을 깨뜨리는 강검식."
+      },
+      {
+        "name_kr": "십삼뢰연환",
+        "name_hanja": "十三雷連環",
+        "description": "열세 번의 뇌전이 쉼 없이 이어져 피할 틈을 주지 않는 결초."
+      }
+    ],
+    "synergy_note": "천뢰제왕신공과 함께 운용하면 검날에 뇌전 강기가 실림",
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "muae_cheongryu_sinbo",
+    "name_kr": "무애청류신보",
+    "name_hanja": "無涯淸流神步",
+    "sect_id": "nangong",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "막힘없는 맑은 물줄기처럼 전장의 틈을 가볍게 미끄러져 나가는 남궁세가의 보법.",
+    "techniques": [
+      {
+        "name_kr": "청류답파",
+        "name_hanja": "淸流踏波",
+        "description": "발끝에 가벼운 진기를 실어 수면이나 험지를 밟고 지나는 보법."
+      },
+      {
+        "name_kr": "무한전신",
+        "name_hanja": "無限轉身",
+        "description": "검세를 끊지 않은 채 측면으로 방향을 트는 회피 신법."
+      },
+      {
+        "name_kr": "창천질주",
+        "name_hanja": "蒼天疾走",
+        "description": "단숨에 수십 장을 주파해 일격을 꽂아 넣는 돌진 보법."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "hoepung_mugung_seonbeop",
+    "name_kr": "회풍무궁선법",
+    "name_hanja": "會風無窮扇法",
+    "sect_id": "jegal",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "기타",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "철선(鐵扇)의 부챗살마다 경력을 맺히게 해 돌개바람을 일으키고 적의 병기를 빗겨내는 제갈세가 선법.",
+    "techniques": [
+      {
+        "name_kr": "백학전시",
+        "name_hanja": "白鶴展翅",
+        "description": "부채를 활짝 펼쳐 사방에서 날아드는 암기와 검기를 막아내는 수비식."
+      },
+      {
+        "name_kr": "열풍절맥",
+        "name_hanja": "烈風截脈",
+        "description": "접힌 철선 끝으로 적의 혈도와 관절을 치는 점혈 선법."
+      },
+      {
+        "name_kr": "자웅신편",
+        "name_hanja": "雌雄神鞭",
+        "description": "부채의 깃이 갈라지며 벼락 같은 강기로 뻗어 나가는 절기."
+      }
+    ],
+    "synergy_note": "제갈세가 진법(기문진식) 안에서 시전하면 바람의 방위가 배가됨",
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "bohwa_singong",
+    "name_kr": "보화신공",
+    "name_hanja": "普化神功",
+    "sect_id": "jegal",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "제갈세가 직계가 술법진과 뇌전 경력을 다루기 위해 닦는 심법. 맑은 정신과 정밀한 기감(氣感)을 길러 준다.",
+    "techniques": [
+      {
+        "name_kr": "천기조식",
+        "name_hanja": "天機調息",
+        "description": "난전 속에서도 심박과 진기를 고요히 다스리는 운공법."
+      },
+      {
+        "name_kr": "뇌전공명",
+        "name_hanja": "雷電共鳴",
+        "description": "주변 진법의 기운과 단전 내력을 공명시켜 위력을 증폭하는 법."
+      },
+      {
+        "name_kr": "구운열염관",
+        "name_hanja": "九雲烈焰冠",
+        "description": "술법진의 기운으로 몸 주위에 호신강기를 짜 올리는 방어결."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "yuseong_geom",
+    "name_kr": "유성검",
+    "name_hanja": "流星劍",
+    "sect_id": "moyong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "검법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "밤하늘을 가르는 별똥별처럼 거칠고 빠르게 쏟아져 내리는 모용세가의 대표 검법.",
+    "techniques": [
+      {
+        "name_kr": "유성만천",
+        "name_hanja": "流星滿天",
+        "description": "수십 개의 검영이 하늘을 메우듯 쏟아지는 광역 검식."
+      },
+      {
+        "name_kr": "흑성은진",
+        "name_hanja": "黑星隱進",
+        "description": "검파로 내리치는 척하며 칼날을 비틀어 찌르는 변칙 초식."
+      },
+      {
+        "name_kr": "굉성만검우",
+        "name_hanja": "宏星滿劍雨",
+        "description": "지면에 가까워질수록 경파가 증폭되는 무형검을 떨어뜨리는 비기."
+      }
+    ],
+    "synergy_note": "환천신기와 함께 운용하면 연환 검우의 밀도가 높아짐",
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "hwancheon_singi",
+    "name_kr": "환천신기",
+    "name_hanja": "奐天神氣",
+    "sect_id": "moyong",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "연나라 황족 계보의 비전 내공으로, 맑고 강인한 호신강기를 몸 밖에 두르고 타 문파 무공의 기운을 흉내 내는 데 능하다.",
+    "techniques": [
+      {
+        "name_kr": "환천호신",
+        "name_hanja": "奐天護身",
+        "description": "은빛 선명한 강기 막을 둘러 기습을 막아내는 호신법."
+      },
+      {
+        "name_kr": "별진운기",
+        "name_hanja": "星辰運氣",
+        "description": "별자리의 흐름처럼 경맥을 빠르게 순환시키는 내공 결."
+      },
+      {
+        "name_kr": "만성검진호응",
+        "name_hanja": "萬星劍陣呼應",
+        "description": "모용 검대 다수의 진기를 하나로 엮는 합공 심법."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "yuga_singong",
+    "name_kr": "유가신공",
+    "name_hanja": "喩伽神功",
+    "sect_id": "hebei_peng",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "거구인 하북팽가 무사들이 관절과 근육을 자유자재로 늘리고 접어 대도의 가동 범위를 극대화하는 축골·유연 공법.",
+    "techniques": [
+      {
+        "name_kr": "신골축신",
+        "name_hanja": "伸骨縮身",
+        "description": "관절을 비틀어 예상 밖의 각도에서 대도를 휘두르는 신법."
+      },
+      {
+        "name_kr": "금강반석",
+        "name_hanja": "金剛磐石",
+        "description": "근골을 단단히 조여 적의 타격을 튕겨 내는 외공 수비."
+      },
+      {
+        "name_kr": "완력폭발",
+        "name_hanja": "腕力爆發",
+        "description": "전신의 근섬유를 한 번에 수축시켜 도력을 배가시키는 발경."
+      }
+    ],
+    "synergy_note": "오호단문도의 중후한 대도 초식과 결합하면 사각이 사라짐",
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "danmun_jin",
+    "name_kr": "단문진",
+    "name_hanja": "斷門陣",
+    "sect_id": "hebei_peng",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "진법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "하북팽가 도수들이 대열을 짜고 번갈아 쾌도를 휘둘러 성문과 진영을 정면으로 돌파하는 합격 도진.",
+    "techniques": [
+      {
+        "name_kr": "오호합격",
+        "name_hanja": "五虎合擊",
+        "description": "다섯 명의 도수가 다각도로 퇴로를 끊는 합공진."
+      },
+      {
+        "name_kr": "철벽도막",
+        "name_hanja": "鐵壁刀幕",
+        "description": "두꺼운 대도로 빈틈없는 방어벽을 세우는 수성진."
+      },
+      {
+        "name_kr": "파문돌진",
+        "name_hanja": "破門突進",
+        "description": "전열이 일제히 도강을 뿜으며 적진을 가르는 돌파진."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "banwon_samyanggong",
+    "name_kr": "반원삼양공",
+    "name_hanja": "反原三陽功",
+    "sect_id": "sichuan_tang",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "세 가지 성질의 독기를 몸 안에 다스리며 암기 단조와 용독(用毒)의 정밀한 기감을 길러 주는 사천당가 비전 심법.",
+    "techniques": [
+      {
+        "name_kr": "삼독귀일",
+        "name_hanja": "三毒歸一",
+        "description": "서로 다른 세 독기를 상쇄 없이 단전에 갈무리하는 법."
+      },
+      {
+        "name_kr": "만독감지",
+        "name_hanja": "萬毒感知",
+        "description": "먼 거리에서도 공기 중 약물과 독의 성질을 가려내는 기감술."
+      },
+      {
+        "name_kr": "월공단조",
+        "name_hanja": "越功鍛造",
+        "description": "미세한 암기 바늘에 내력을 실어 벼려 내는 단조 심법."
+      }
+    ],
+    "synergy_note": "만천화우와 폭우이화침의 발사 각도와 독성 유지에 필수",
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "cheontae_gugung_sinbeop",
+    "name_kr": "천태구궁신법",
+    "name_hanja": "天跆九穹身法",
+    "sect_id": "sichuan_tang",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "근접전을 피하고 적정한 사거리를 유지하며 암기를 흩뿌리기 위해 고안된 사천당가 특유의 회피·잠입 보법.",
+    "techniques": [
+      {
+        "name_kr": "미영보",
+        "name_hanja": "迷影步",
+        "description": "잔상을 남기며 거리를 벌리는 후퇴 보법."
+      },
+      {
+        "name_kr": "은잠무형",
+        "name_hanja": "隱潛無形",
+        "description": "발소리와 기척을 지우고 어둠 속에 스며드는 잠행술."
+      },
+      {
+        "name_kr": "비침도약",
+        "name_hanja": "飛針跳躍",
+        "description": "공중에서 몸을 비틀며 사방으로 암기를 던지는 공중 신법."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "yeojo_cheonwanggyeong",
+    "name_kr": "여조천왕경",
+    "name_hanja": "麗藻天王經",
+    "sect_id": "hwangbo",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "황보세가 직계만 익히는 직선 고속 경공. 무거운 체격에도 바람을 찢는 듯한 추진력을 낸다.",
+    "techniques": [
+      {
+        "name_kr": "질풍천왕",
+        "name_hanja": "疾風天王",
+        "description": "정면을 향해 거침없이 내달리는 직선 질주."
+      },
+      {
+        "name_kr": "답진비도",
+        "name_hanja": "踏塵飛渡",
+        "description": "땅을 박차는 반동으로 단숨에 장애물을 넘는 도약술."
+      },
+      {
+        "name_kr": "천왕기단",
+        "name_hanja": "天王氣緞",
+        "description": "돌진 중 몸에 비단 같은 호신강기를 둘러 충격을 막는 법."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "dokgo_sinbo",
+    "name_kr": "독고신보",
+    "name_hanja": "獨孤身步",
+    "sect_id": "dokgo",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "상대 공격의 사각과 초식 사이의 빈틈으로 최소한의 보폭만 움직여 파고드는 독고세가의 실전 보법.",
+    "techniques": [
+      {
+        "name_kr": "촌보필살",
+        "name_hanja": "寸步必殺",
+        "description": "반 걸음만 옮겨 치명상을 피하고 반격 거리를 잡는 미보."
+      },
+      {
+        "name_kr": "무흔전신",
+        "name_hanja": "無痕轉身",
+        "description": "발자국조차 남기지 않고 검의 사각으로 돌아드는 신법."
+      },
+      {
+        "name_kr": "일영추격",
+        "name_hanja": "一影追擊",
+        "description": "도주하는 적의 그림자를 끝까지 밟고 따라붙는 추격술."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "chwipalseon_gwon",
+    "name_kr": "취팔선권",
+    "name_hanja": "醉八仙拳",
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "술에 취해 비틀거리는 여덟 신선의 몸짓을 본뜬 개방의 변칙 권법. 궤도를 예측하기 어려워 난전에 강하다.",
+    "techniques": [
+      {
+        "name_kr": "여동빈취검",
+        "name_hanja": "呂洞賓醉劍",
+        "description": "취한 듯 몸을 젖히며 두 손가락으로 찌르는 변칙 수법."
+      },
+      {
+        "name_kr": "이철괴호로",
+        "name_hanja": "李鐵拐葫蘆",
+        "description": "한쪽 다리를 절뚝이는 척하다 급소를 걷어차는 기습 각법."
+      },
+      {
+        "name_kr": "조국구경배",
+        "name_hanja": "曹國舅敬杯",
+        "description": "잔을 올리는 자세로 적의 주먹을 흘려보내며 턱을 치는 초식."
+      }
+    ],
+    "synergy_note": "취팔선보(醉八仙步)와 함께 쓰면 회피와 반격이 한 흐름으로 이어짐",
+    "sources": [
+      {
+        "work": "나무위키 「개방(무협)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "chwipalseon_bo",
+    "name_kr": "취팔선보",
+    "name_hanja": "醉八仙步",
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "경공",
+    "weapon_type": "경공",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "동으로 기울었다 서로 꺾이며 쓰러질 듯 절대 넘어지지 않는 개방의 기묘한 보법.",
+    "techniques": [
+      {
+        "name_kr": "취보요란",
+        "name_hanja": "醉步搖亂",
+        "description": "불규칙한 보폭으로 상대의 조준과 거리 감각을 흐트러뜨리는 보법."
+      },
+      {
+        "name_kr": "만리추풍",
+        "name_hanja": "萬里追風",
+        "description": "바람에 실린 낙엽처럼 지치지 않고 장거리를 주파하는 행보."
+      },
+      {
+        "name_kr": "도주환신",
+        "name_hanja": "倒走換身",
+        "description": "뒤로 넘어지는 척하다 반동으로 적의 등 뒤로 튀어 오르는 탈출술."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「개방(무협)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "baekgyeol_yeonhwa_singong",
+    "name_kr": "백결연화신공",
+    "name_hanja": "百結蓮花神功",
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "누더기 옷 백 조각을 기워 입듯 소박하고 질긴 생명력을 단전에 쌓는 한국 무협 통설의 개방 내공심법.",
+    "techniques": [
+      {
+        "name_kr": "연화조식",
+        "name_hanja": "蓮花調息",
+        "description": "진흙 속 연꽃처럼 열악한 환경에서도 맑은 내기를 모으는 호흡법."
+      },
+      {
+        "name_kr": "백결호신",
+        "name_hanja": "百結護身",
+        "description": "끈질긴 내력으로 외상을 버텨 내는 내공 방어."
+      },
+      {
+        "name_kr": "강룡운기",
+        "name_hanja": "降龍運氣",
+        "description": "단전의 순양 진기를 두 손바닥으로 끌어올려 항룡장을 받치는 결."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「개방(무협)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "tagujin",
+    "name_kr": "타구진",
+    "name_hanja": "打狗陣",
+    "sect_id": "gaibang",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "진법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "origin_and_principle": "개방 제자들이 대나무 봉과 막대기를 들고 무리를 지어 사나운 짐승이나 절정 고수를 포위·제압하는 실전 합동진.",
+    "techniques": [
+      {
+        "name_kr": "봉망포위",
+        "name_hanja": "棒網包圍",
+        "description": "사방에서 봉을 얽어 상대의 경공 도주로를 봉쇄하는 진형."
+      },
+      {
+        "name_kr": "교대연타",
+        "name_hanja": "交代連打",
+        "description": "앞줄이 물러나면 뒷줄이 곧바로 타격해 틈을 주지 않는 순환식."
+      },
+      {
+        "name_kr": "대진압박",
+        "name_hanja": "大陣壓迫",
+        "description": "수십 명 이상의 방도가 파도처럼 좁혀 들며 내력을 소진시키는 진법."
+      }
+    ],
+    "synergy_note": "타구봉법의 얽고 거는 초식과 어우러지면 다수전에서 극대화됨",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "mihonhyang_monghanyak",
+    "name_kr": "미혼향·몽한약",
+    "name_hanja": "迷魂香·蒙汗藥",
+    "sect_id": "haomun",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "기타",
+    "grade": "일반",
+    "tier_tag": "신무협",
+    "origin_and_principle": "정면 무공 대신 객잔 창호지 너머로 불어 넣는 연기와 술에 타는 마취약으로 상대를 쓰러뜨리는 하오문·흑점의 대표 하삼람 수법.",
+    "techniques": [
+      {
+        "name_kr": "창호취연",
+        "name_hanja": "窓戶吹煙",
+        "description": "방 문풍지에 구멍을 뚫고 대롱으로 만다라화 연기를 불어 넣는 법."
+      },
+      {
+        "name_kr": "취선몽한",
+        "name_hanja": "醉仙蒙汗",
+        "description": "술이나 차에 무색·무취의 가루를 타서 의식을 잃게 하는 수법."
+      },
+      {
+        "name_kr": "야간약탈",
+        "name_hanja": "夜間掠奪",
+        "description": "잠든 투숙객의 행장과 서찰을 흔적 없이 빼내는 뒷수습."
+      }
+    ],
+    "synergy_note": "투술과 결합하면 무공이 높은 고수도 방심한 틈에 당할 수 있음",
+    "sources": [
+      {
+        "work": "나무위키 「하오문」",
+        "author": null
+      },
+      {
+        "work": "수호전(水滸傳)",
+        "author": "시내암"
+      }
+    ]
+  },
+  {
+    "id": "tusul_myosugonggong",
+    "name_kr": "투술·묘수공공",
+    "name_hanja": "偷術·妙手空空",
+    "sect_id": "haomun",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "기타",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "소매치기와 밤도둑의 손재주를 극한까지 끌어올려 옷깃 스치는 찰나에 품속 밀서나 보물을 빼내는 하오문의 기예.",
+    "techniques": [
+      {
+        "name_kr": "탐낭취물",
+        "name_hanja": "探囊取物",
+        "description": "상대가 눈치채지 못하게 품속 물건을 꺼내 오는 기본 수법."
+      },
+      {
+        "name_kr": "이화접목",
+        "name_hanja": "移花接木",
+        "description": "진짜 물건을 빼내면서 같은 무게의 돌이나 가짜를 바꿔치기하는 법."
+      },
+      {
+        "name_kr": "귀식잠행",
+        "name_hanja": "龜息潛行",
+        "description": "숨을 거북처럼 가늘게 줄이고 지붕과 담장을 넘는 야행술."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「하오문」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "baekjeon_sipdangong",
+    "name_kr": "백전십단공",
+    "name_hanja": "白電十段功",
+    "sect_id": "haomun",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "절학",
+    "tier_tag": "신무협",
+    "origin_and_principle": "『광마회귀』에서 점소이 출신 광마 이자하가 하오문에 전수한 뇌기(雷氣) 내공심법. 열 단계로 나뉘어 시정잡배도 체계적인 무공을 닦게 했다.",
+    "techniques": [
+      {
+        "name_kr": "초전축기",
+        "name_hanja": "初電蓄氣",
+        "description": "단전에 하얀 뇌전 기운을 처음으로 점화하는 1~3단 입문결."
+      },
+      {
+        "name_kr": "뇌전발경",
+        "name_hanja": "雷電發勁",
+        "description": "손끝과 병기에 찌릿한 뇌기를 실어 타격하는 중급 운용."
+      },
+      {
+        "name_kr": "십단극성",
+        "name_hanja": "十段極成",
+        "description": "열 단계를 모두 열어 하오문 무력이 일류 정파에 필적하게 하는 극의."
+      }
+    ],
+    "synergy_note": null,
+    "sources": [
+      {
+        "work": "광마회귀(狂魔回歸)",
+        "author": "유진성"
+      },
+      {
+        "work": "나무위키 「하오문」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "haomun_jeongbomang",
+    "name_kr": "하오문 점조직 첩보술",
+    "name_hanja": "下汚門 點組織 諜報術",
+    "sect_id": "haomun",
+    "lineage": null,
+    "category": "기문",
+    "weapon_type": "기타",
+    "grade": "상승",
+    "tier_tag": "신무협",
+    "origin_and_principle": "차·선·점·각·아(마부·뱃사공·점소이·짐꾼·중개업자) 다섯 생업에 흩어진 점조직이 일상 소문을 모아 위기를 피하고 정보를 파는 비술.",
+    "techniques": [
+      {
+        "name_kr": "오업탐문",
+        "name_hanja": "五業探問",
+        "description": "객잔과 나루터, 마차 길목에서 오가는 객들의 말을 흘려듣고 기록하는 법."
+      },
+      {
+        "name_kr": "단미구생",
+        "name_hanja": "斷尾求生",
+        "description": "하부 조직이 발각돼도 상부 추적을 끊고 다른 고장에서 생업으로 위장하는 법."
+      },
+      {
+        "name_kr": "암호전달",
+        "name_hanja": "暗號傳達",
+        "description": "문 앞 분필 표시나 객잔 술값 장부로 은밀히 첩보를 주고받는 수법."
+      }
+    ],
+    "synergy_note": "개방의 직접 탐문과 대조하면 천하의 소식을 놓치지 않음",
+    "sources": [
+      {
+        "work": "나무위키 「하오문」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hwagong_daebeop",
+    "name_kr": "화공대법",
+    "name_hanja": "化功大法",
+    "alias": [],
+    "sect_id": "xingxiu",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "내공심법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「성수파」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "손바닥에 독을 머금어 상대 몸에 닿는 순간 경맥의 내력을 흩어 녹여 버리는 독공. 상대가 쌓아 온 공력을 없애기 때문에 강호에서 가장 꺼리는 무공의 하나로 꼽혔다.",
+    "techniques": [],
+    "synergy_note": "스스로 독을 몸에 쌓아야 하므로 해독과 독 관리가 수련의 절반이다."
+  },
+  {
+    "id": "yeongung_samcho",
+    "name_kr": "영웅삼초",
+    "name_hanja": "英雄三招",
+    "alias": [],
+    "sect_id": "shenlong",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "녹정기(鹿鼎記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "origin_and_principle": "신룡교주 홍안통이 만든 세 가지 맨손 초식. 붙잡히거나 몰린 상태에서 몸을 빼 역습하는 데 쓰며, 교주 부인이 만든 미인삼초와 짝을 이룬다.",
+    "techniques": [],
+    "synergy_note": null
+  },
+  {
+    "id": "hyeoldo_dobeop",
+    "name_kr": "혈도도법",
+    "name_hanja": "血刀刀法",
+    "alias": [],
+    "sect_id": "xuedao",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "도법",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "연성결(連城訣)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「혈도문」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "혈도문 비급 『혈도경』에 실린 도법. 얇고 휘는 붉은 칼을 몸에 감듯 휘둘러 예측하기 어려운 각도에서 베어 들어간다.",
+    "techniques": [],
+    "synergy_note": "『혈도경』에는 도법과 함께 독특한 내공 수련법이 실려 있어 둘을 함께 익힌다."
+  },
+  {
+    "id": "cheoljang_gong",
+    "name_kr": "철장공",
+    "name_hanja": "鐵掌功",
+    "alias": [
+      "철장장법(鐵掌掌法)"
+    ],
+    "sect_id": "tiezhang",
+    "lineage": null,
+    "category": "외공",
+    "weapon_type": "권각",
+    "grade": "상승",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「철장방」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "철장방의 대표 장법. 손바닥을 쇠처럼 단련해 내려치는 힘으로 상대를 부순다. 방주 구천인은 이 장법과 물 위를 달리는 경공으로 '철장수상표(鐵掌水上漂)'라 불렸다.",
+    "techniques": [],
+    "synergy_note": null
+  },
+  {
+    "id": "hamagong",
+    "name_kr": "합마공",
+    "name_hanja": "蛤蟆功",
+    "alias": [],
+    "sect_id": "baituo",
+    "lineage": null,
+    "category": "내공",
+    "weapon_type": "권각",
+    "grade": "절학",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구양봉」",
+        "author": null
+      }
+    ],
+    "origin_and_principle": "두꺼비처럼 몸을 웅크리고 기를 모았다가 상대가 공격해 오는 순간 한꺼번에 내뿜어 되받아치는 무공. 고요히 웅크린 자세에서 폭발하는 힘이 특징이다.",
+    "techniques": [],
+    "synergy_note": null
+  }
+]

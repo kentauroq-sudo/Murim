@@ -1,0 +1,36 @@
+{
+  "name": "murim-yeojido",
+  "version": "0.4.0",
+  "private": true,
+  "description": "무림여지도(武林輿地圖) — 정통 무협 문파·무공·인물·기물을 수묵 고지도 위에서 탐색하는 정적 웹 아카이브 (스키마 v3.0)",
+  "scripts": {
+    "dev": "next dev",
+    "validate": "node scripts/validate-data.mjs",
+    "prebuild": "npm run validate",
+    "build": "next build",
+    "typecheck": "tsc --noEmit",
+    "preview": "npx --yes serve out -l 3000",
+    "hash-password": "node scripts/hash-password.mjs --secret"
+  },
+  "dependencies": {
+    "fuse.js": "7.5.0",
+    "leaflet": "1.9.4",
+    "lucide-react": "1.79.0",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-leaflet": "5.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.2.4",
+    "@types/leaflet": "^1.9.20",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "4.2.4",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}

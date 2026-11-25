@@ -1,0 +1,8 @@
+# 로컬에서 관리자 화면을 시험할 때만 사용 (npx wrangler pages dev out)
+# 복사해서 .dev.vars 로 저장. 절대 깃허브에 올리지 마세요 (.gitignore에 추가).
+ADMIN_ID=kentauro
+ADMIN_PASSWORD_HASH=
+SESSION_SECRET=
+GITHUB_TOKEN=
+GITHUB_REPO=내아이디/murim-yeojido
+GITHUB_BRANCH=main

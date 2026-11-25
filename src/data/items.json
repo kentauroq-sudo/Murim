@@ -1,0 +1,281 @@
+[
+  {
+    "id": "yitian_jian",
+    "name_kr": "의천검",
+    "name_hanja": "倚天劍",
+    "type": "신병",
+    "sect_id": "emei",
+    "holders": [
+      { "figure_id": "gwak_yang", "note": "아미파 개파조사, 초창기 보관" },
+      { "figure_id": "myeoljeol_satae", "note": "아미파 장문인" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "의천도룡기(倚天屠龍記)", "author": "김용(金庸)" }
+    ],
+    "description": "도룡도(屠龍刀)와 짝을 이루는 절세의 보검. 현철중검(玄鐵重劍)을 녹여 서방 정금과 합주했으며, 검신 안에 구음진경과 십팔장 요결이 봉인돼 있었다."
+  },
+  {
+    "id": "tulong_dao",
+    "name_kr": "도룡도",
+    "name_hanja": "屠龍刀",
+    "type": "신병",
+    "sect_id": null,
+    "holders": [
+      { "figure_id": "gwak_jeong", "note": "황용과 함께 주조해 후세에 남김" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "의천도룡기(倚天屠龍記)", "author": "김용(金庸)" },
+      { "work": "신조협려(神鵰俠侶)", "author": "김용(金庸)" }
+    ],
+    "description": "무림지존(武林至尊)의 상징으로 불린 중도. 곽정과 황용 부부가 양과의 현철중검을 녹여 만들고 악비(岳飛)의 무목유서(武穆遺書)를 안에 감췄다."
+  },
+  {
+    "id": "hyeoncheol_junggeom",
+    "name_kr": "현철중검",
+    "name_hanja": "玄鐵重劍",
+    "type": "신병",
+    "sect_id": null,
+    "holders": [
+      { "figure_id": "pung_cheongyang", "note": "독고구패의 중검 계보를 이은 전대 고수" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "신조협려(神鵰俠侶)", "author": "김용(金庸)" }
+    ],
+    "description": "독고구패(獨孤求敗)가 마흔 전까지 쓰던 날 없는 검은 대검. 무게가 여든 근에 달해 중검무봉 대교불공(重劍無鋒 大巧不工)의 경지를 상징한다."
+  },
+  {
+    "id": "tagubong",
+    "name_kr": "타구봉",
+    "name_hanja": "打狗棒",
+    "type": "신병",
+    "sect_id": "gaibang",
+    "holders": [
+      { "figure_id": "hong_chilgong", "note": "개방 18대 방주, 곽정·황용에게 전승" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "사조영웅전(射鵰英雄傳)", "author": "김용(金庸)" },
+      { "work": "천룡팔부(天龍八部)", "author": "김용(金庸)" }
+    ],
+    "description": "개방 방주의 신물인 푸른 대나무 지팡이. 겉은 소박하나 질기고 단단해 어떠한 병기에도 부러지지 않으며, 개방의 지휘권과 정통성을 상징한다."
+  },
+  {
+    "id": "seonghwaryeong",
+    "name_kr": "성화령",
+    "name_hanja": "聖火令",
+    "type": "신병",
+    "sect_id": "myeonggyo",
+    "holders": [
+      { "figure_id": "jang_mugi", "note": "페르시아 총교단에서 되찾아 소지" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "의천도룡기(倚天屠龍記)", "author": "김용(金庸)" }
+    ],
+    "description": "백금현철과 금강사를 합주해 불에도 녹지 않는 열두 자루의 명교 성물. 삼대령·오소령 계율과 산중노인의 성화령 신공이 새겨져 있다."
+  },
+  {
+    "id": "cheonggang_geom",
+    "name_kr": "청강검",
+    "name_hanja": "靑鋼劍",
+    "type": "신병",
+    "sect_id": "nangong",
+    "holders": [
+      { "figure_id": "namgung_hyeok", "note": "남궁세가 가주" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 무협물 용어 정리", "author": null }
+    ],
+    "description": "푸른 빛을 띠는 정강(精鋼)으로 벼린 명검의 통칭. 창천검기(蒼天劍氣)를 실어 내보내는 남궁세가 직계 검수들이 애용하는 가전 보검으로 그려진다."
+  },
+  {
+    "id": "gueum_jingeong",
+    "name_kr": "구음진경",
+    "name_hanja": "九陰眞經",
+    "type": "비급",
+    "sect_id": null,
+    "holders": [
+      { "figure_id": "wang_jungyang", "note": "손에 넣었으나 익히지 않고 봉인" },
+      { "figure_id": "gwak_jeong", "note": "의천검·도룡도에 넣어 후세에 남김" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "사조영웅전(射鵰英雄傳)", "author": "김용(金庸)" },
+      { "work": "신조협려(神鵰俠侶)", "author": "김용(金庸)" }
+    ],
+    "description": "송대 황상(黃裳)이 도장(道藏)을 통독하고 지은 도가 무학의 결정체. 화산론검 뒤 왕중양이 봉인했으나 훗날 강호 혈풍의 씨앗이 되었다."
+  },
+  {
+    "id": "guyang_singong_book",
+    "name_kr": "구양진경",
+    "name_hanja": "九陽眞經",
+    "type": "비급",
+    "sect_id": "shaolin",
+    "holders": [
+      { "figure_id": "gwak_yang", "note": "각원대사의 암송에서 일부를 전수" },
+      { "figure_id": "jang_mugi", "note": "곤륜산 흰 원숭이 뱃속에서 완본 습득" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "의천도룡기(倚天屠龍記)", "author": "김용(金庸)" }
+    ],
+    "description": "소림 능가경(楞伽經) 행간에 범어로 적혀 있던 양강(陽剛) 내공 비급. 소림·무당·아미 세 갈래의 구양공으로 나뉘고 장무기가 완본을 익혔다."
+  },
+  {
+    "id": "yeokgeun_gyeong_book",
+    "name_kr": "역근경",
+    "name_hanja": "易筋經",
+    "type": "비급",
+    "sect_id": "shaolin",
+    "holders": [
+      { "figure_id": "dalma", "note": "면벽 구 년 끝에 남겼다고 전함" },
+      { "figure_id": "mumyeong_noseung", "note": "장경각에서 수호" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "소오강호(笑傲江湖)", "author": "김용(金庸)" },
+      { "work": "천룡팔부(天龍八部)", "author": "김용(金庸)" }
+    ],
+    "description": "힘줄과 경맥을 거듭 단련해 탈태환골을 이루는 소림 최고의 내공 보전. 세수경(洗髓經)과 짝을 이루며 천하 불문(佛門) 내공의 정수로 꼽힌다."
+  },
+  {
+    "id": "gyuhwa_bojeon",
+    "name_kr": "규화보전",
+    "name_hanja": "葵花寶典",
+    "type": "비급",
+    "sect_id": "irwol",
+    "holders": [
+      { "figure_id": "im_ahaeng", "note": "교주 시절 얻어 동방불패에게 넘김" },
+      { "figure_id": "dongbang_bulpae", "note": "자궁(自宮) 후 극성으로 연마" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "소오강호(笑傲江湖)", "author": "김용(金庸)" }
+    ],
+    "description": "궁중 환관 고수가 남긴 기서로, 신공을 익히려면 스스로 거세해야 한다는 극단적 금기를 품었다. 화산파와의 혈전 끝에 일월신교로 흘러갔다."
+  },
+  {
+    "id": "dokgo_gugeom_bo",
+    "name_kr": "독고구검 검보",
+    "name_hanja": "獨孤九劍 劍譜",
+    "type": "비급",
+    "sect_id": "huashan",
+    "holders": [
+      { "figure_id": "pung_cheongyang", "note": "구결로 영호충에게 직접 구전" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "소오강호(笑傲江湖)", "author": "김용(金庸)" }
+    ],
+    "description": "유초승무초(有招勝無招)의 검리를 담은 아홉 갈래 파초식 구결. 책자가 아니라 풍청양의 구전으로 이어져 파검·파도·파기·파장식 등을 포괄한다."
+  },
+  {
+    "id": "manbok_dokgyeong",
+    "name_kr": "만독비전",
+    "name_hanja": "萬毒秘典",
+    "type": "비급",
+    "sect_id": "sichuan_tang",
+    "holders": [
+      { "figure_id": "dang_cheonung", "note": "사천당가 가주 계보 비전" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 무협물 용어 정리", "author": null }
+    ],
+    "description": "사천당가의 용독(用毒)·해독(解毒)과 암기 제작 비술을 집대성한 가전 비급. 당가 직계 외에는 단 한 장도 유출을 금한다."
+  },
+  {
+    "id": "daehwandan",
+    "name_kr": "대환단",
+    "name_hanja": "大還丹",
+    "type": "영약",
+    "sect_id": "shaolin",
+    "holders": [
+      { "figure_id": "mumyeong_noseung", "note": "소림사 진파 영단 보관" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 「영약」", "author": null }
+    ],
+    "description": "소림사 비전의 최고급 영단. 중한 내상을 곧바로 다스리고 일갑자에 가까운 내공을 순수하게 북돋워 정파 무림의 보물로 불린다."
+  },
+  {
+    "id": "sohwandan",
+    "name_kr": "소환단",
+    "name_hanja": "小還丹",
+    "type": "영약",
+    "sect_id": "shaolin",
+    "holders": [
+      { "figure_id": "mumyeong_noseung", "note": "소림 공적 승려에게 하사" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 「영약」", "author": null }
+    ],
+    "description": "대환단의 하위 영단으로, 소림사에서 공을 세운 제자나 중상을 입은 고수에게 내려 약 이십 년 안팎의 내력을 보태어 준다."
+  },
+  {
+    "id": "heugok_dansokgo",
+    "name_kr": "흑옥단속고",
+    "name_hanja": "黑玉斷續膏",
+    "type": "영약",
+    "sect_id": null,
+    "holders": [
+      { "figure_id": "jang_mugi", "note": "서역 금강문 비약을 구해 유대암·은리정 치료" }
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      { "work": "의천도룡기(倚天屠龍記)", "author": "김용(金庸)" }
+    ],
+    "description": "서역 금강문의 비전 외상약. 부러진 뼈와 끊어진 근맥을 다시 잇는 신효를 지녔으나, 가짜를 바르면 살이 썩는 치명적 함정이 뒤따른다."
+  },
+  {
+    "id": "jasodan",
+    "name_kr": "자소단",
+    "name_hanja": "紫霄丹",
+    "type": "영약",
+    "sect_id": "huashan",
+    "holders": [
+      { "figure_id": "ak_bulgun", "note": "화산파 비장 영단" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 「영약」", "author": null }
+    ],
+    "description": "화산파가 전승하는 도가 연단. 자하신공 수련 중 기혈이 엉키거나 내상을 입었을 때 막힌 경맥을 뚫어 주는 보혈 단약이다."
+  },
+  {
+    "id": "mannyeon_seolsam",
+    "name_kr": "만년설삼",
+    "name_hanja": "萬年雪蔘",
+    "type": "영약",
+    "sect_id": "bukhai",
+    "holders": [
+      { "figure_id": "seol_cheon_sang", "note": "북해 빙원에서 채취해 보관" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 「영물」·「영약」", "author": null }
+    ],
+    "description": "만년 빙설의 극음 정기를 머금고 자란 전설의 설삼. 한빙 내공을 닦는 이에게는 천금으로도 바꾸기 어려운 기연의 영약이다."
+  },
+  {
+    "id": "baekpal_yeomju",
+    "name_kr": "백팔염주",
+    "name_hanja": "百八念珠",
+    "type": "기물",
+    "sect_id": "emei",
+    "holders": [
+      { "figure_id": "myeoljeol_satae", "note": "아미파 장문 신물" }
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      { "work": "나무위키 무협물 용어 정리", "author": null }
+    ],
+    "description": "서천 보살자로 엮었다고 전하는 아미파 장문인의 신물. 평시에는 불도를 닦는 염주이나 위급할 때는 강호 호령의 징표가 된다."
+  }
+]

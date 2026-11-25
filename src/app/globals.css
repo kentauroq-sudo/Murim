@@ -1,0 +1,250 @@
+@import "tailwindcss";
+
+/* ── 디자인 토큰 v3.6 (01_architecture.md 2절 + 의미 토큰)
+   컴포넌트에서는 opacity-60 같은 임시값 대신 ink-soft / ink-muted / line / accent 를 쓴다.
+   대비(한지 바탕): ink 15.4:1 · ink-soft 8.4:1 · ink-muted 5.4:1 · accent 6.2:1 ──────── */
+@theme static {
+  --color-hanji: #f5f2eb;
+  --color-hanji-deep: #ede7d9;
+  --color-ink: #1c1b18;
+  --color-ink-soft: #4a463d;
+  --color-ink-muted: #625c4f;
+  --color-paper: #e8e2d2;
+  --color-line: #d6cebb;
+  --color-line-strong: #b9af97;
+
+  /* 강조: 인주(印朱) — 선택·포커스·주요 행동 */
+  --color-accent: #a3312a;
+  --color-accent-hover: #8a2721;
+  --color-accent-soft: #f4e3df;
+
+  --color-place: #7a5a2b;
+  --color-place-bg: #fbf3e2;
+
+  --color-orthodox: #1c3a27;
+  --color-orthodox-accent: #d4af37;
+  --color-unorthodox: #3a1c1c;
+  --color-unorthodox-accent: #b22222;
+  --color-demonic: #2b1838;
+  --color-demonic-accent: #8e44ad;
+  --color-outer: #1c2b3a;
+  --color-outer-accent: #5b8db8;
+  --color-neutral-sect: #3a3528;
+  --color-neutral-sect-accent: #a89f86;
+
+  --font-serif: "Noto Serif KR", "Noto Serif SC", "Nanum Myeongjo", "Apple SD Gothic Neo",
+    "Malgun Gothic", serif;
+
+  --shadow-panel: 0 8px 28px -6px rgb(28 27 24 / 0.28), 0 2px 6px rgb(28 27 24 / 0.12);
+}
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body {
+  background-color: var(--color-hanji);
+  color: var(--color-ink);
+}
+
+@layer base {
+  body {
+    line-height: 1.65;
+    word-break: keep-all; /* 한국어 어절 단위 줄바꿈 */
+    overflow-wrap: anywhere;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.75rem;
+  top: -4rem;
+  z-index: 2000;
+  padding: 0.5rem 1rem;
+  background: var(--color-ink);
+  color: var(--color-hanji);
+  border-radius: 0.375rem;
+}
+.skip-link:focus {
+  top: 0.75rem;
+}
+
+/* 한지 질감: 아주 옅은 얼룩을 겹쳐 종이 느낌만 낸다 */
+.paper-grain {
+  background-image: radial-gradient(rgba(28, 27, 24, 0.045) 1px, transparent 1px),
+    radial-gradient(rgba(28, 27, 24, 0.03) 1px, transparent 1px);
+  background-size: 7px 7px, 13px 13px;
+  background-position: 0 0, 3px 5px;
+}
+
+/* Leaflet 기본 divIcon 흰 상자 제거 */
+.wuxia-marker {
+  background: transparent;
+  border: 0;
+}
+
+/* 지도 위 글자가 배경에 묻히지 않도록 */
+.leaflet-container {
+  background: var(--color-paper);
+  font-family: var(--font-serif);
+}
+
+.leaflet-control-attribution {
+  background: rgba(245, 242, 235, 0.85) !important;
+  color: var(--color-ink-muted) !important;
+  font-size: 11px !important;
+}
+
+/* 확대·축소 버튼: 44px 터치 크기 */
+.leaflet-bar {
+  border: 1px solid var(--color-line-strong) !important;
+  box-shadow: var(--shadow-panel) !important;
+}
+.leaflet-bar a {
+  width: 44px !important;
+  height: 44px !important;
+  line-height: 44px !important;
+  font-size: 20px !important;
+  background: var(--color-hanji) !important;
+  color: var(--color-ink) !important;
+}
+
+/* ── 지도 확대·축소 버튼 (WuxiaMap의 MapControls) */
+.map-controls {
+  position: absolute;
+  right: 12px;
+  bottom: 24px;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1.5px solid var(--color-ink-soft);
+  border-radius: 10px;
+  background: var(--color-hanji);
+  box-shadow: var(--shadow-panel);
+  transition: right 200ms ease, bottom 200ms ease;
+}
+.map-controls button {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  font-size: 26px;
+  line-height: 1;
+  color: var(--color-ink);
+  background: var(--color-hanji);
+  cursor: pointer;
+}
+.map-controls button + button { border-top: 1px solid var(--color-line-strong); }
+.map-controls button:hover { background: var(--color-hanji-deep); }
+.map-controls button:disabled { color: var(--color-line-strong); cursor: not-allowed; background: var(--color-hanji); }
+.map-controls .map-controls__fit { font-size: 13px; font-weight: 700; }
+/* 상세 패널이 열리면 가리지 않게 비켜 선다: 데스크톱 = 오른쪽 패널(420px) 왼쪽, 모바일 = 하단 시트(62%) 위 */
+@media (min-width: 768px) {
+  main[data-drawer="open"] .map-controls { right: calc(420px + 12px); }
+}
+@media (max-width: 767px) {
+  .map-controls { bottom: 72px; } /* 하단 요약 줄과 겹치지 않게 */
+  /* 하단 시트 위 공간이 좁으므로 가로로 눕혀 높이를 줄인다 */
+  main[data-drawer="open"] .map-controls { bottom: calc(62dvh + 12px); flex-direction: row; }
+  main[data-drawer="open"] .map-controls button + button { border-top: 0; border-left: 1px solid var(--color-line-strong); }
+}
+
+/* ── 문파 마커 (WuxiaMap divIcon) */
+.sect-marker {
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translate(-50%, -50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  white-space: nowrap;
+  padding: 0.3125rem 0.625rem 0.3125rem 0.5rem;
+  border: 1.5px var(--m-style, solid) var(--m-accent);
+  border-radius: 999px;
+  background: var(--m-bg);
+  color: var(--color-hanji);
+  font-family: var(--font-serif);
+  font-size: 0.875rem;
+  line-height: 1.2;
+  box-shadow: 0 2px 6px rgb(0 0 0 / 0.35);
+  cursor: pointer;
+  transition: transform 120ms ease;
+}
+.sect-marker:hover { transform: translate(-50%, -50%) scale(1.06); }
+.sect-marker__dot { width: 0.5rem; height: 0.5rem; border-radius: 999px; background: var(--m-accent); flex: none; }
+.sect-marker__hanja { opacity: 0.75; font-size: 0.75rem; }
+.sect-marker.is-selected {
+  outline: 3px solid var(--color-hanji);
+  box-shadow: 0 0 0 6px var(--m-accent), 0 6px 16px rgb(0 0 0 / 0.45);
+}
+.leaflet-marker-icon:focus-visible .sect-marker { outline: 3px solid var(--color-accent); outline-offset: 3px; }
+/* 세력: 색 + 테두리 모양(실선·점선)으로 구분 — 색을 구별하기 어려운 사람도 알아보게 */
+.sect-marker[data-faction="orthodox"] { --m-bg: var(--color-orthodox); --m-accent: var(--color-orthodox-accent); }
+.sect-marker[data-faction="unorthodox"] { --m-bg: var(--color-unorthodox); --m-accent: var(--color-unorthodox-accent); }
+.sect-marker[data-faction="demonic"] { --m-bg: var(--color-demonic); --m-accent: var(--color-demonic-accent); --m-style: dashed; }
+.sect-marker[data-faction="outer"] { --m-bg: var(--color-outer); --m-accent: var(--color-outer-accent); --m-style: dotted; }
+.sect-marker[data-faction="neutral"] { --m-bg: var(--color-neutral-sect); --m-accent: var(--color-neutral-sect-accent); }
+
+/* 줌 단계별 라벨 밀도: far = 점만, mid = 한글 이름, near = 한글+한자. 이름표 끄기(data-labels=off)도 점만 */
+.leaflet-container[data-zoom="far"] .sect-marker,
+.leaflet-container[data-labels="off"] .sect-marker { padding: 0.3125rem; gap: 0; }
+.leaflet-container[data-zoom="far"] .sect-marker__name,
+.leaflet-container[data-zoom="far"] .sect-marker__hanja,
+.leaflet-container[data-labels="off"] .sect-marker__name,
+.leaflet-container[data-labels="off"] .sect-marker__hanja,
+.leaflet-container[data-zoom="mid"] .sect-marker__hanja { display: none; }
+.leaflet-container[data-zoom="far"] .sect-marker__dot,
+.leaflet-container[data-labels="off"] .sect-marker__dot { width: 0.625rem; height: 0.625rem; }
+.leaflet-container .sect-marker.is-selected .sect-marker__name { display: inline; margin-left: 0.25rem; }
+
+/* 초식 펼침 표시 */
+details > summary {
+  cursor: pointer;
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* ── 광고 슬롯 (components 레이어: Tailwind 유틸리티로 여백을 덮어쓸 수 있게) */
+@layer components {
+  .ad-slot {
+    margin-block: 2rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--color-line);
+  }
+  .ad-slot__label {
+    margin-bottom: 0.375rem;
+    font-size: 0.6875rem;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-muted);
+  }
+  .ad-slot__placeholder {
+    display: grid;
+    place-items: center;
+    border: 1.5px dashed var(--color-line-strong);
+    border-radius: 0.5rem;
+    background: repeating-linear-gradient(-45deg, transparent 0 10px, rgb(28 27 24 / 0.03) 10px 20px);
+    color: var(--color-ink-muted);
+    font-size: 0.8125rem;
+  }
+  /* 채울 광고가 없으면 라벨까지 통째로 숨겨 빈 칸을 남기지 않는다 */
+  .ad-slot:has(ins.adsbygoogle[data-ad-status="unfilled"]) {
+    display: none;
+  }
+}

@@ -1,0 +1,586 @@
+[
+  {
+    "id": "janggyeonggak",
+    "name_kr": "장경각",
+    "name_hanja": "藏經閣",
+    "type": "명소",
+    "province": "하남성(河南省) 정주시 등봉시(鄭州市 登封市)",
+    "map_position": {
+      "x": 1840,
+      "y": 1025
+    },
+    "geo": {
+      "lat": 34.5071,
+      "lng": 112.9357
+    },
+    "related_sects": [
+      "shaolin"
+    ],
+    "related_figures": [
+      "dalma",
+      "mumyeong_noseung"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "image": "/images/places/janggyeonggak.png",
+    "description": "소림사의 불경과 칠십이절기(七十二絕技) 비급을 보관하는 전각. 무명노승이 묵묵히 먼지를 쓸며 원한을 씻어 주던 곳이다."
+  },
+  {
+    "id": "dalmadong",
+    "name_kr": "달마동",
+    "name_hanja": "達磨洞",
+    "type": "명소",
+    "province": "하남성(河南省) 정주시 등봉시(鄭州市 登封市)",
+    "map_position": {
+      "x": 1838,
+      "y": 1022
+    },
+    "geo": {
+      "lat": 34.512,
+      "lng": 112.932
+    },
+    "related_sects": [
+      "shaolin"
+    ],
+    "related_figures": [
+      "dalma"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "나무위키 「소림사」",
+        "author": null
+      }
+    ],
+    "description": "달마대사가 숭산 오유봉 중턱에서 구 년 동안 면벽 참선했다는 석굴. 역근경·세수경 전승이 서린 소림의 성지다."
+  },
+  {
+    "id": "jasogung",
+    "name_kr": "자소궁",
+    "name_hanja": "紫霄宮",
+    "type": "명소",
+    "province": "호북성(湖北省) 십언시 단강구시(十堰市 丹江口市)",
+    "map_position": {
+      "x": 1757,
+      "y": 1130
+    },
+    "geo": {
+      "lat": 32.4008,
+      "lng": 111.0044
+    },
+    "related_sects": [
+      "wudang"
+    ],
+    "related_figures": [
+      "jang_sam_bong",
+      "song_wongyo"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "image": "/images/places/jasogung.png",
+    "description": "무당산 천주봉 아래 자리한 무당파의 중심 도관. 산문 앞 해검지(解劍池)에 칼을 풀고 올라야 하는 예법이 전해진다."
+  },
+  {
+    "id": "siguoya",
+    "name_kr": "사과애",
+    "name_hanja": "思過崖",
+    "type": "명소",
+    "province": "섬서성(陝西省) 위남시 화음시(渭南市 華陰市)",
+    "map_position": {
+      "x": 1718,
+      "y": 1027
+    },
+    "geo": {
+      "lat": 34.4772,
+      "lng": 110.0811
+    },
+    "related_sects": [
+      "huashan"
+    ],
+    "related_figures": [
+      "pung_cheongyang",
+      "ak_bulgun"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "image": "/images/places/siguoya.png",
+    "description": "화산파 제자가 잘못을 뉘우치며 근신하는 절벽. 검종 고수 풍청양이 이곳에 은거해 영호충에게 독고구검을 전했다."
+  },
+  {
+    "id": "oknyeo_bong",
+    "name_kr": "옥녀봉",
+    "name_hanja": "玉女峰",
+    "type": "명산",
+    "province": "섬서성(陝西省) 위남시 화음시(渭南市 華陰市)",
+    "map_position": {
+      "x": 1720,
+      "y": 1029
+    },
+    "geo": {
+      "lat": 34.481,
+      "lng": 110.09
+    },
+    "related_sects": [
+      "huashan"
+    ],
+    "related_figures": [
+      "ak_bulgun"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "화산 중봉에 자리한 명소로 연화봉·낙안봉과 함께 화산파 제자들의 검술 수련처이자 화산논검의 무대로 자주 등장한다."
+  },
+  {
+    "id": "hwalsadong",
+    "name_kr": "활사동",
+    "name_hanja": "活死人墓",
+    "type": "명소",
+    "province": "섬서성(陝西省) 서안시 장안구(西安市 長安區)",
+    "map_position": {
+      "x": 1662,
+      "y": 1057
+    },
+    "geo": {
+      "lat": 34.033,
+      "lng": 108.95
+    },
+    "related_sects": [
+      "zhongnan"
+    ],
+    "related_figures": [
+      "wang_jungyang",
+      "gu_cheogi"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "종남산의 옛 석실 무덤. 왕중양이 항금 거병에 패한 뒤 이곳에 은거했고, 훗날 임조영과 고묘파의 거처가 되었다."
+  },
+  {
+    "id": "emei_geumjeong",
+    "name_kr": "아미 금정",
+    "name_hanja": "峨嵋 金頂",
+    "type": "명산",
+    "province": "사천성(四川省) 러산시 아미산시(樂山市 峨眉山市)",
+    "map_position": {
+      "x": 1429,
+      "y": 1274
+    },
+    "geo": {
+      "lat": 29.5204,
+      "lng": 103.3372
+    },
+    "related_sects": [
+      "emei"
+    ],
+    "related_figures": [
+      "gwak_yang",
+      "myeoljeol_satae"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "image": "/images/places/emei_geumjeong.png",
+    "description": "구름바다 위로 솟은 아미산 최고봉. 아미파 제자들이 금정면장을 연마하고 곽양의 유업을 기리던 성지다."
+  },
+  {
+    "id": "qingcheng_sangcheonggung",
+    "name_kr": "상청궁",
+    "name_hanja": "上淸宮",
+    "type": "명소",
+    "province": "사천성(四川省) 성도시 도강언시(成都市 都江堰市)",
+    "map_position": {
+      "x": 1436,
+      "y": 1201
+    },
+    "geo": {
+      "lat": 30.903,
+      "lng": 103.562
+    },
+    "related_sects": [
+      "qingcheng"
+    ],
+    "related_figures": [
+      "yeo_changhae"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "청성산 제일봉 중턱의 도관 송림 속에 자리한 청성파의 본산. 송풍검법과 최심장을 닦던 여창해의 거처다."
+  },
+  {
+    "id": "gaibang_chongta",
+    "name_kr": "개방 총타",
+    "name_hanja": "丐幫 總舵",
+    "type": "성시",
+    "province": "하남성(河南省) 개봉시(開封市)",
+    "map_position": {
+      "x": 1899,
+      "y": 1010
+    },
+    "geo": {
+      "lat": 34.7972,
+      "lng": 114.3076
+    },
+    "related_sects": [
+      "gaibang"
+    ],
+    "related_figures": [
+      "hong_chilgong",
+      "gwak_jeong"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "천하 거지들이 모이는 중원 요충지. 황하·회수·강남의 정보가 타구봉의 호령 아래 집결하는 강호 제일의 정보망이다."
+  },
+  {
+    "id": "sichuan_mandokrim",
+    "name_kr": "만독림",
+    "name_hanja": "萬毒林",
+    "type": "명소",
+    "province": "사천성(四川省) 성도시(成都市)",
+    "map_position": {
+      "x": 1462,
+      "y": 1220
+    },
+    "geo": {
+      "lat": 30.6586,
+      "lng": 104.0648
+    },
+    "related_sects": [
+      "sichuan_tang"
+    ],
+    "related_figures": [
+      "dang_cheonung",
+      "dang_soha"
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 무협물 용어 정리",
+        "author": null
+      }
+    ],
+    "description": "사천당가 외곽에 독초와 기관·진법으로 둘러싸인 금역. 허락 없이 발을 들인 외부인은 천라지망과 독기에 가로막힌다."
+  },
+  {
+    "id": "gwangmyeongjeong",
+    "name_kr": "광명정",
+    "name_hanja": "光明頂",
+    "type": "명산",
+    "province": "신강 위구르자치구(新疆維吾爾自治區)",
+    "map_position": {
+      "x": 471,
+      "y": 985
+    },
+    "geo": {
+      "lat": 36.1,
+      "lng": 81.0
+    },
+    "related_sects": [
+      "myeonggyo"
+    ],
+    "related_figures": [
+      "jang_mugi",
+      "yang_so"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "image": "/images/places/gwangmyeongjeong.png",
+    "description": "서역 곤륜산맥 깊숙이 자리한 명교의 총단. 육대문파 포위전 당시 장무기가 건곤대나이로 일전을 막아내며 명교 교주에 올랐다."
+  },
+  {
+    "id": "heukmokae",
+    "name_kr": "흑목애",
+    "name_hanja": "黑木崖",
+    "type": "명산",
+    "province": "산서성(山西省) 양천시 평정현(陽泉市 平定縣)",
+    "map_position": {
+      "x": 1870,
+      "y": 860
+    },
+    "geo": {
+      "lat": 37.8,
+      "lng": 113.6
+    },
+    "related_sects": [
+      "irwol"
+    ],
+    "related_figures": [
+      "dongbang_bulpae",
+      "im_ahaeng"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "깎아지른 절벽 위에 바구니 도르래로만 오를 수 있는 일월신교의 요새. 동방불패가 성덕전을 장악하고 천하를 호령하던 곳이다."
+  },
+  {
+    "id": "cheonmajeon",
+    "name_kr": "천마전",
+    "name_hanja": "天魔殿",
+    "type": "명소",
+    "province": "신강 위구르자치구(新疆維吾爾自治區)",
+    "map_position": {
+      "x": 720,
+      "y": 595
+    },
+    "geo": {
+      "lat": 43.0,
+      "lng": 86.8
+    },
+    "related_sects": [
+      "cheonma"
+    ],
+    "related_figures": [
+      "cheonma_cho",
+      "cheonma_singun"
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「천마신교」",
+        "author": null
+      }
+    ],
+    "description": "십만대산(또는 톈산) 설봉 위에 세워진 천마신교의 대전. 검은 현무암 기둥과 천마의 옥좌가 서역 마교의 패도를 상징한다."
+  },
+  {
+    "id": "mannyeon_binggul",
+    "name_kr": "만년빙굴",
+    "name_hanja": "萬年氷窟",
+    "type": "명소",
+    "province": "러시아 부랴트 공화국(바이칼호 남단)",
+    "map_position": {
+      "x": 1637,
+      "y": 75
+    },
+    "geo": {
+      "lat": 53.5,
+      "lng": 108.2
+    },
+    "related_sects": [
+      "bukhai"
+    ],
+    "related_figures": [
+      "seol_cheon_sang",
+      "seol_mu_han"
+    ],
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「북해빙궁」",
+        "author": null
+      }
+    ],
+    "image": "/images/places/binggul.png",
+    "description": "바이칼 호수 북쪽 빙원 아래 펼쳐진 북해빙궁의 심장부. 만년 한기와 빙정(氷精)이 응결해 한빙 내공을 극한으로 끌어올린다."
+  },
+  {
+    "id": "yeojao",
+    "name_kr": "연자오",
+    "name_hanja": "燕子塢",
+    "type": "수계",
+    "province": "요녕성(遼寧省) 심양시(瀋陽市)",
+    "map_position": {
+      "x": 2290,
+      "y": 660
+    },
+    "geo": {
+      "lat": 41.8057,
+      "lng": 123.4315
+    },
+    "related_sects": [
+      "moyong"
+    ],
+    "related_figures": [
+      "moyong_bak",
+      "moyong_bok"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "모용세가의 비밀 서고 환시수각(還施水閣)이 자리한 수향 거점. 천하 각파의 무공 비급을 모아 이지도신(以彼之道 還施彼身)을 닦았다."
+  },
+  {
+    "id": "hangsan_hyeonongsa",
+    "name_kr": "현공사",
+    "name_hanja": "懸空寺",
+    "type": "명소",
+    "province": "산서성(山西省) 대동시 혼원현(大同市 渾源縣)",
+    "map_position": {
+      "x": 1873,
+      "y": 767
+    },
+    "geo": {
+      "lat": 39.66,
+      "lng": 113.708
+    },
+    "related_sects": [
+      "hengshan"
+    ],
+    "related_figures": [
+      "jeongil_satae"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "나무위키 「항산파」",
+        "author": null
+      }
+    ],
+    "description": "북악 항산의 깎아지른 절벽에 매달리듯 세워진 고찰. 항산파 제자들이 속세를 떠나 도를 닦던 험준한 성지다."
+  },
+  {
+    "id": "hyeongsan_chukyungbong",
+    "name_kr": "축융봉",
+    "name_hanja": "祝融峯",
+    "type": "명산",
+    "province": "호남성(湖南省) 형양시 남악구(衡陽市 南嶽區)",
+    "map_position": {
+      "x": 1830,
+      "y": 1385
+    },
+    "geo": {
+      "lat": 27.295,
+      "lng": 112.695
+    },
+    "related_sects": [
+      "henan_hengshan"
+    ],
+    "related_figures": [
+      "makdae_seonsaeng",
+      "yoo_jeongpung"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "나무위키 「형산파」",
+        "author": null
+      }
+    ],
+    "description": "남악 형산의 최고봉. 운해가 출렁이는 절경 아래 형산파가 음률과 검을 함께 수련하던 거점이다."
+  },
+  {
+    "id": "taesan_okhwangjeong",
+    "name_kr": "옥황정",
+    "name_hanja": "玉皇頂",
+    "type": "명산",
+    "province": "산동성(山東省) 태안시(泰安市)",
+    "map_position": {
+      "x": 2019,
+      "y": 937
+    },
+    "geo": {
+      "lat": 36.256,
+      "lng": 117.101
+    },
+    "related_sects": [
+      "taishan"
+    ],
+    "related_figures": [
+      "cheonmun_doin"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "동악 태산의 정상. 열여덟 굽이 돌계단 끝에 솟아 있어 태산파의 중후한 검세가 시작된 곳으로 꼽힌다."
+  },
+  {
+    "id": "sungsan_bongseondae",
+    "name_kr": "봉선대",
+    "name_hanja": "封禪臺",
+    "type": "명소",
+    "province": "하남성(河南省) 정주시 등봉시(鄭州市 登封市)",
+    "map_position": {
+      "x": 1845,
+      "y": 1026
+    },
+    "geo": {
+      "lat": 34.485,
+      "lng": 113.04
+    },
+    "related_sects": [
+      "songshan",
+      "huashan"
+    ],
+    "related_figures": [
+      "jwa_naengseon",
+      "ak_bulgun"
+    ],
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "description": "중악 숭산 태실산의 거대한 제단. 오악검파 오파가 모여 맹주를 가릴 때 좌냉선과 악불군이 대결을 벌인 역사적 무대다."
+  }
+]

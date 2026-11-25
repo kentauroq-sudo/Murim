@@ -1,0 +1,2215 @@
+[
+  {
+    "id": "dalma",
+    "name_kr": "달마",
+    "name_hanja": "菩提達磨",
+    "alias": [
+      "보리달마(菩提達磨)",
+      "달마대사(達磨大師)"
+    ],
+    "title": "소림사 개파조사·선종 초조",
+    "sect_id": "shaolin",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yigeunjing",
+      "nahangwon"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "중국어 위키백과 「嵩山少林寺」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "biography": "남천축(南天竺) 향지국(香至國)의 왕자로 태어나 출가한 뒤, 6세기 초 중국에 건너와 숭산 소림사에서 면벽구년(面壁九年)을 했다. 벽을 마주하고 앉은 채 몸이 움직이지 않아 새들이 어깨에 둥지를 틀었다는 이야기가 전한다. 그 사이 굳어진 몸을 풀기 위해 남긴 열두 자세가 훗날 역근경(易筋經)의 뿌리가 되었다고 소림은 말한다. 실제 역사에서 그가 소림에 머물렀는지는 사료마다 엇갈리며, 무학의 시조로 세워진 것은 후대 선종의 서사다.",
+    "era_note": "v2.1 분류: 개파조사"
+  },
+  {
+    "id": "mumyeong_noseung",
+    "name_kr": "무명노승",
+    "name_hanja": "無名老僧",
+    "alias": [
+      "소소승(掃灑僧)",
+      "장경각 노승"
+    ],
+    "title": "소림사 장경각 소소(掃灑) 노승",
+    "sect_id": "shaolin",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yigeunjing",
+      "geumgang_banyajang"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "biography": "수십 년 동안 소림 장경각을 쓸고 닦기만 한 이름 없는 노승. 강호의 어느 명부에도 오르지 않았으나, 소봉(蕭峯)과 모용박(慕容博)이 맞붙는 자리에 나타나 두 사람의 원한을 한 번에 잠재웠다. 겉으로 드러난 초식은 한 번도 없었고, 소봉의 항룡십팔장이 그의 갈비뼈를 부러뜨린 것이 그가 받은 유일한 상처로 기록된다. 무학의 정점이 초식이 아니라 오래 쌓은 내력에 있음을 보여 주는 인물로 꼽힌다."
+  },
+  {
+    "id": "jang_sam_bong",
+    "name_kr": "장삼봉",
+    "name_hanja": "張三丰",
+    "alias": [
+      "장군보(張君寶)",
+      "태극조사(太極祖師)"
+    ],
+    "title": "무당파 개파조사",
+    "sect_id": "wudang",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "현경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "taegeukgwon",
+      "taegeukgeom",
+      "jewunjong"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "biography": "원말명초(元末明初)의 도사. 소림에서 잡일을 하던 소년 시절 각원(覺遠)에게 내공을 배웠고, 그 뒤 무당산에 들어가 홀로 도를 닦으며 태극(太極)의 이치를 권과 검으로 옮겼다. 백 살이 넘어서도 제자들과 손을 맞잡고 겨루었고, 강호에서는 '천하제일인'으로 꼽히면서도 정작 본인은 산을 떠난 적이 거의 없다. 실제 역사에서 장삼봉은 원·명 교체기의 도사로 전하며, 무당파와 태극권을 그가 세웠다는 것은 후대의 전승이다.",
+    "era_note": "v2.1 분류: 개파조사"
+  },
+  {
+    "id": "song_wongyo",
+    "name_kr": "송원교",
+    "name_hanja": "宋遠橋",
+    "alias": [
+      "무당칠협의 수석"
+    ],
+    "title": "무당칠협 대제자",
+    "sect_id": "wudang",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "taegeukgwon",
+      "taegeukgeom"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "장삼봉의 대제자로 무당칠협(武當七俠)의 맏이다. 성품이 온화하고 예를 갖추는 데 엄격하여, 스승이 장문인 자리를 물려주려 했으나 사양하고 동생들에게 맡겼다. 아들 송청서(宋青書)가 문중을 배신했을 때 스스로 사죄하고 자리에서 물러났다. 무공은 무당 제자 중 가장 안정되어 있다는 평을 들으며, 태극권의 원리를 설명하는 데 능했다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "pung_cheongyang",
+    "name_kr": "풍청양",
+    "name_hanja": "風清揚",
+    "alias": [
+      "화산검종 태상장로"
+    ],
+    "title": "화산파 검종(劍宗) 태상장로",
+    "sect_id": "huashan",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "dokgo_gugeom",
+      "maehwa_geombeop",
+      "hwasan_geombeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "매화검법은 신무협 설정이며, 원작 인물인 풍청양의 연마 무공에 문파 전승으로 함께 적었다.",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "화산 기종(氣宗)과 검종(劍宗)이 문중의 주도권을 다투던 시절, 검종의 마지막 태상장로였다. 기종이 승리한 뒤 사사봉(思過崖)에 은거하며 이름을 감추었고, 문중에서는 그가 죽었다고 알았다. 검을 잡지 않아도 상대의 초식이 흘러가는 길이 보인다 하여, 독고구검(獨孤九劍)의 총결을 영호충(令狐沖)에게 전하고 다시 산중으로 사라졌다."
+  },
+  {
+    "id": "ak_bulgun",
+    "name_kr": "악불군",
+    "name_hanja": "岳不群",
+    "alias": [
+      "군자검(君子劍)"
+    ],
+    "title": "화산파 기종(氣宗) 장문인",
+    "sect_id": "huashan",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "jaha_singong",
+      "hwasan_geombeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "겉으로는 군자의 예를 갖추고 문도를 이끄는 화산 장문인이었으나, 실제로는 문파를 일으키기 위해 딸과 제자를 수단으로 썼다. 복위표국(福威驃局)의 벽사검법(辟邪劍法)을 얻으려 온갖 술수를 부렸고, 결국 자신이 가장 경멸하던 길을 걸었다. 자하신공을 익혀 안색이 자줏빛으로 변하는 모습은 문도들에게는 장문인의 위엄으로 보였고, 독자에게는 위선의 표식으로 남았다."
+  },
+  {
+    "id": "wang_jungyang",
+    "name_kr": "왕중양",
+    "name_hanja": "王重陽",
+    "alias": [
+      "중신통(中神通)"
+    ],
+    "title": "전진교(全眞敎) 개조·종남파 조사",
+    "sect_id": "zhongnan",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "jeonjin_geombeop",
+      "cheongang_bukdujin"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "금(金)나라 초기의 도사로, 무공을 버리고 종남산 활사동(活死人墓)에서 도를 닦았다고 전한다. 화산론검(華山論劍)에서 동서남북 사절(四絕)을 모두 꺾고 중신통(中神通)의 자리에 올랐다. 구음진경(九陰眞經)을 손에 넣었으나 자신은 익히지 않고 봉인했으며, 그 봉인이 훗날 강호의 온갖 다툼의 씨앗이 되었다. 실제 역사에서 왕중양은 전진교를 세운 도사로, 생몰은 1112~1170년으로 전한다.",
+    "era_note": "v2.1 분류: 개파조사"
+  },
+  {
+    "id": "gu_cheogi",
+    "name_kr": "구처기",
+    "name_hanja": "丘處機",
+    "alias": [
+      "장춘자(長春子)"
+    ],
+    "title": "전진칠자(全眞七子)의 한 사람",
+    "sect_id": "zhongnan",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "jeonjin_geombeop",
+      "cheongang_bukdujin"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "왕중양의 제자로 전진칠자의 한 사람. 검을 크게 쓰고 성미가 급해, 강호의 시비에 자주 뛰어들었다. 사형 마옥(馬鈺)이 조용히 도를 닦는 것과 달리 그는 세상일에 적극적이었고, 그래서 전진교의 이름을 강호에 널리 알린 것도 그였다. 실제 역사의 구처기는 1220년대 몽골로 가 칭기즈 칸을 만나 도를 설했고, 그 기록이 『장춘진인서유기(長春眞人西遊記)』로 남았다."
+  },
+  {
+    "id": "gwak_yang",
+    "name_kr": "곽양",
+    "name_hanja": "郭襄",
+    "alias": [
+      "소동사(小東邪)"
+    ],
+    "title": "아미파 개파조사",
+    "sect_id": "emei",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "ami_geombeop",
+      "geumjeong_myeonjang"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "곽정(郭靖)과 황용(黃蓉)의 둘째 딸. 어려서부터 집안의 무학과 황약사(黃藥師)의 기예를 두루 익혀 별호를 소동사라 했다. 16세 생일을 전후해 양과(楊過)를 만나 평생 잊지 못했고, 그를 찾아 사천 일대를 떠돌다 아미산에 들어가 문파를 세웠다. 아미파가 여승 중심의 문파가 된 것은 그녀가 세운 문규에서 비롯했다고 전한다.",
+    "era_note": "v2.1 분류: 개파조사"
+  },
+  {
+    "id": "myeoljeol_satae",
+    "name_kr": "멸절사태",
+    "name_hanja": "滅絶師太",
+    "alias": [
+      "아미 장문인"
+    ],
+    "title": "아미파 장문인",
+    "sect_id": "emei",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "ami_geombeop",
+      "geumjeong_myeonjang"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      }
+    ],
+    "biography": "아미파의 장문인으로, 검 하나에 평생을 걸었다. 성정이 강직하고 사파를 용서하지 않아 강호에서 두려움의 대상이었으며, 정파의 다른 문파들도 그녀 앞에서는 말을 골랐다. 제자 주지약(周芷若)에게 문파의 비전과 함께 무거운 유언을 남겼고, 그 유언이 의천검과 도룡도를 둘러싼 뒤의 사건들을 불렀다. 그녀가 죽은 뒤 아미파는 강호에서 가장 빠르게 흔들린 문파가 되었다."
+  },
+  {
+    "id": "dan_cheong",
+    "name_kr": "단청",
+    "name_hanja": "段靑",
+    "alias": [
+      "검후(劍侯)"
+    ],
+    "title": "점창파 장문인·검후",
+    "sect_id": "diancang",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "jeomchang_geombeop",
+      "hoepung_geombeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「점창파」",
+        "author": null
+      }
+    ],
+    "biography": "대리국(大理國) 단씨(段氏)의 먼 일족으로, 왕족의 신분을 버리고 점창산에 들어가 검을 잡았다. 검을 뽑은 뒤 한 번도 옆으로 돌리지 않는 찌르기만으로 강호의 이름을 얻어 '검후'라 불렸다. 대리국과 점창파가 맺은 옛 약조를 지키는 일에 집착하며, 남만과의 국경 분쟁에서 앞장섰다. 창작 인물이며, 점창파가 실제 대리국과 밀접했다는 역사적 배경 위에 세워졌다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "wi_mu",
+    "name_kr": "위무",
+    "name_hanja": "衛武",
+    "alias": [
+      "창응(蒼鷹)"
+    ],
+    "title": "점창파 장로",
+    "sect_id": "diancang",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "jeomchang_geombeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「점창파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ],
+    "biography": "점창산의 매를 직접 길들이며 그 사냥법을 검에 옮긴 장로. 높은 곳에서 낮은 곳으로 내리꽂히는 찌르기 하나만으로 문중의 인정을 받았다. 성미가 거칠어 장문인 단청과 자주 부딪쳤으나, 남만과의 충돌에서는 누구보다 앞에 섰다. 점창파의 검법이 '찌르기'로 정리된 데 그가 남긴 몫이 크다고 전한다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "yeo_changhae",
+    "name_kr": "여창해",
+    "name_hanja": "余滄海",
+    "alias": [
+      "청성 장문인"
+    ],
+    "title": "청성파 장문인",
+    "sect_id": "qingcheng",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "cheongpung_geombeop",
+      "choesimjang"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「청성파」",
+        "author": null
+      }
+    ],
+    "biography": "청성파의 장문인으로, 복위표국의 벽사검법을 빼앗기 위해 임진남(林震南) 부부를 죽음으로 몰았다. 자신의 아들이 화산파 문하에 들어갔다는 말에 기뻐할 만큼 문파에 대한 집착이 강했으나, 그 집착이 곧 파멸의 길이 되었다. 위선자인 악불군보다 한 수 아래로 그려져, 나쁜 짓을 하면서도 명분조차 만들지 못하는 인물로 남았다. 실제 청성파가 이 묘사에 항의해 김용과 갈등을 빚었다가 2004년에 화해한 일화가 유명하다."
+  },
+  {
+    "id": "cheongpung_doin",
+    "name_kr": "청풍도인",
+    "name_hanja": "淸風道人",
+    "alias": [],
+    "title": "청성파 전대 장문인",
+    "sect_id": "qingcheng",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "cheongpung_geombeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「청성파」",
+        "author": null
+      }
+    ],
+    "biography": "청성산 상청궁(上清宮)에서 사십 년을 지내며 청풍검법의 세 갈래 검결을 하나로 합친 장문인. 제자들에게 검을 빼앗기면 그 자리에서 목숨을 끊으라는 문규를 세운 것으로 전한다. 강호에 나선 일이 거의 없어 이름은 낮으나, 청성의 검풍이 오늘날의 모습을 갖춘 것은 그의 손에서다. 창작 인물이다."
+  },
+  {
+    "id": "gwan_neung",
+    "name_kr": "관능",
+    "name_hanja": "關能",
+    "alias": [
+      "공동오로의 수석"
+    ],
+    "title": "공동파 공동오로(崆峒五老)의 수석",
+    "sect_id": "kongtong",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "chilsanggwon",
+      "bokma_geombeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「공동파」",
+        "author": null
+      }
+    ],
+    "biography": "공동오로의 맏으로, 칠상권(七傷拳)의 정통 전수를 이어받은 몇 안 되는 인물. 칠상권이 자기 몸을 상하게 하는 무학임을 알면서도 문파의 상징이라 버리지 못했다. 광명정(光明頂) 공방에서 명교를 치러 갔다가 장무기(張無忌)에게 패하고, 그 뒤로는 그를 은인으로 대했다. 성급하고 독선적인 공동파의 문풍을 대표하는 인물로 그려진다."
+  },
+  {
+    "id": "jong_yuhyeop",
+    "name_kr": "종유협",
+    "name_hanja": "宗維俠",
+    "alias": [],
+    "title": "공동파 공동오로의 한 사람",
+    "sect_id": "kongtong",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "bokma_geombeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "한국어 위키백과 「의천도룡기」",
+        "author": null
+      }
+    ],
+    "biography": "공동오로의 한 사람으로, 복마검법을 가장 충실히 익힌 검객. 광명정 전투에서 명교 토벌을 막아서는 장무기를 치려다 오히려 그에게 치료를 받고 감화되었다. 이후 공동파 안에서 명교를 상대로 강경책을 주장하는 이들과 부딪히면서도, 은혜를 갚는 일에는 물러서지 않았다. 공동파가 정파 안에서 입지를 잃지 않은 데 그와 같은 인물들이 있었다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "ha_jokdo",
+    "name_kr": "하족도",
+    "name_hanja": "何足道",
+    "alias": [
+      "곤륜삼성(崑崙三聖)"
+    ],
+    "title": "곤륜파 전대 고수·곤륜삼성",
+    "sect_id": "kunlun",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yangui_geombeop",
+      "ulyong_daepalsik"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "운룡대팔식은 신무협 창작 설정이며, 곤륜파 전승으로 함께 적었다.",
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「곤륜파」",
+        "author": null
+      }
+    ],
+    "biography": "거문고와 바둑과 검에 모두 통달해 곤륜삼성이라 불린 인물. 곤륜산 삼성요(三聖坳)의 분지에서 홀로 수련하며, 검을 쓸 때 거문고 소리를 함께 냈다는 이야기가 전한다. 소림사를 찾아가 자기 기예를 자랑하려다 각원(覺遠)과 만나 뜻을 꺾었고, 그 뒤로는 산으로 돌아가 다시 세상에 나오지 않았다. 곤륜파가 검법과 신법을 함께 중시하는 문풍은 그의 영향으로 설명된다."
+  },
+  {
+    "id": "ha_taechung",
+    "name_kr": "하태충",
+    "name_hanja": "何太沖",
+    "alias": [
+      "철금선생(鐵琴先生)"
+    ],
+    "title": "곤륜파 장문인",
+    "sect_id": "kunlun",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yangui_geombeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「하태충」",
+        "author": null
+      },
+      {
+        "work": "한국어 위키백과 「의천도룡기」",
+        "author": null
+      }
+    ],
+    "biography": "곤륜파의 장문인으로 별호는 철금선생. 스승 백록자(白鹿子)가 명교 고수와 겨루다 죽은 뒤 장문인 자리를 두고 다툼이 벌어졌을 때, 항렬이 높은 사저 반숙한(班淑嫻)의 도움으로 자리에 올랐다. 그 대가로 반숙한과 혼인했고, 이후 문중의 실권은 아내에게 있었다. 성품이 옹졸하고 색을 밝혀, 다섯째 첩을 살려 준 장무기에게 오히려 해를 가하려 했다. 소림 영웅대회에서 주지약의 구음백골조에 부상당한 것이 오히려 화를 면한 계기가 되었다."
+  },
+  {
+    "id": "hong_chilgong",
+    "name_kr": "홍칠공",
+    "name_hanja": "洪七公",
+    "alias": [
+      "북개(北丐)"
+    ],
+    "title": "개방 전대 방주·천하오절의 북개",
+    "sect_id": "gaibang",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hangryong_sippaljang",
+      "tagu_bongbeop",
+      "soyoyu",
+      "tagujin",
+      "chwipalseon_gwon"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "김용 원작 인물이나 개방 통설 대표 권법인 취팔선권을 함께 참조함",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「홍칠공」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「항룡십팔장」",
+        "author": null
+      }
+    ],
+    "biography": "개방의 방주이자 천하오절(天下五絕)의 한 사람으로 북개라 불렸다. 맛난 음식 앞에서는 무엇이든 잊는 성미였고, 황용이 요리로 그를 꾀어 곽정에게 항룡십팔장 열다섯 초를 전하게 만들었다. 평생 사(邪)를 미워했으나 사람을 미워하지는 않아, 구양봉(歐陽鋒)과도 서로의 무공을 인정하는 사이였다. 개방의 진방절기 두 가지를 모두 갖춘 마지막 방주 계보로 꼽힌다."
+  },
+  {
+    "id": "gwak_jeong",
+    "name_kr": "곽정",
+    "name_hanja": "郭靖",
+    "alias": [
+      "북협(北俠)"
+    ],
+    "title": "개방 방주·천하오절의 북협",
+    "sect_id": "gaibang",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hangryong_sippaljang",
+      "soyoyu"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「항룡십팔장」",
+        "author": null
+      }
+    ],
+    "biography": "몽골 초원에서 자란 뒤 중원으로 들어와 홍칠공에게 항룡십팔장을, 주백통(周伯通)에게 공명권(空明拳)을 배웠다. 재주가 둔했으나 배운 것을 잊지 않아, 같은 초식을 누구보다 오래 다듬었다. 아내 황용과 함께 의천검과 도룡도를 만들고 그 안에 악비(岳飛)의 병서와 구음진경을 넣어 후세에 남겼다. 개방 방주 자리를 아내에게 넘겼다는 점에서, 실질적인 개방의 진방절기는 타구봉법이라는 해석이 따른다."
+  },
+  {
+    "id": "namgung_hyeok",
+    "name_kr": "남궁혁",
+    "name_hanja": "南宮赫",
+    "alias": [
+      "검왕(劍王)"
+    ],
+    "title": "남궁세가 가주(家主)",
+    "sect_id": "nangong",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "changung_muae_geombeop",
+      "cheonnoe_jewang_singong",
+      "seomjeon_sipsamroe",
+      "muae_cheongryu_sinbo"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「남궁세가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "biography": "남궁세가의 가주로, 세가연맹의 맹주 자리를 지키는 인물. 검을 뽑지 않고도 상대의 사거리를 재는 버릇이 있어 '검왕'이라 불린다. 천뢰제왕신공을 익혀 검이 부딪히는 소리만으로 상대의 손목을 저리게 한다. 가문의 이름을 세우는 일에는 냉정하고, 자식에게도 같은 기준을 들이댄다. 창작 인물이며, 남궁세가를 '검의 명가'로 그리는 통설 위에 세워졌다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "namgung_so",
+    "name_kr": "남궁소",
+    "name_hanja": "南宮昭",
+    "alias": [
+      "소검왕(小劍王)"
+    ],
+    "title": "남궁세가 소가주",
+    "sect_id": "nangong",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "changung_muae_geombeop",
+      "jewang_geomhyeong"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「남궁세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ],
+    "biography": "남궁세가의 소가주로, 아버지의 검을 그대로 물려받되 초식을 더 크게 벌리는 쪽을 택했다. 제왕검형을 익혀 걸음마다 검기의 벽을 세우는 전법을 쓰며, 그 때문에 같은 문중 검객들과 자주 겨룬다. 가문의 체면을 앞세우는 아버지와 달리 강호의 사정을 직접 보려 나서는 편이다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "jegal_hyeon",
+    "name_kr": "제갈현",
+    "name_hanja": "諸葛玄",
+    "alias": [
+      "신기(神機)"
+    ],
+    "title": "제갈세가 가주",
+    "sect_id": "jegal",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "gimun_jinsik",
+      "pangwan_pilbeop",
+      "hoepung_mugung_seonbeop",
+      "bohwa_singong"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「제갈세가」",
+        "author": null
+      }
+    ],
+    "biography": "제갈세가의 가주로, 무공보다 지형과 배치를 읽는 눈이 앞서는 인물. 팔진도(八陣圖)의 옛 그림을 산과 물에 맞게 다시 그려 진식을 세우는 일에 평생을 썼다. 정면 승부에서는 문중 고수에게 밀리지만, 진 안에서는 그를 이기는 이가 없다. 창작 인물이며, 제갈세가를 '무림맹의 군사'로 두는 통설을 따른 설정이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "jegal_yu",
+    "name_kr": "제갈유",
+    "name_hanja": "諸葛瑜",
+    "alias": [
+      "군사(軍師)"
+    ],
+    "title": "무림맹 군사·제갈세가 장로",
+    "sect_id": "jegal",
+    "era_type": "당대",
+    "realm": {
+      "level": "이류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "gimun_jinsik"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「제갈세가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "biography": "무림맹의 군사 자리를 맡은 제갈세가의 장로. 무공은 문중에서도 낮은 편이나, 정파 연합의 진형을 짜는 일에서는 누구도 그를 대신하지 못한다. 남궁세가와 맹 내부의 주도권을 두고 은근히 견제하며, 문서와 약조를 무기로 쓴다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "moyong_bak",
+    "name_kr": "모용박",
+    "name_hanja": "慕容博",
+    "alias": [
+      "연왕(燕王)의 후예"
+    ],
+    "title": "모용세가 전대 가주",
+    "sect_id": "moyong",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "dujeonseong_i",
+      "chamhapji"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "biography": "선비족 모용씨, 연(燕)나라 왕족의 후예로 스스로를 그렇게 칭했다. 연나라를 다시 세우려는 야심에 소봉(蕭峯)의 아버지 소원산(蕭遠山)을 끌어들여 일을 꾸몄고, 그 원한이 수십 년 뒤 강호 전체를 뒤흔들었다. 두전성이(斗轉星移)로 상대의 무공을 그대로 돌려주어, 강호에서는 그와 맞붙은 이들이 자기 무공에 쓰러지는 일이 잦았다. 결국 소림 장경각에서 소원산과 마주앉아 원한을 내려놓고 출가했다."
+  },
+  {
+    "id": "moyong_bok",
+    "name_kr": "모용복",
+    "name_hanja": "慕容復",
+    "alias": [
+      "남모용(南慕容)"
+    ],
+    "title": "모용세가 가주",
+    "sect_id": "moyong",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "dujeonseong_i",
+      "chamhapji",
+      "yuseong_geom",
+      "hwancheon_singi"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "김용 원작 인물이나 한국 무협 세가 계보의 유성검·환천신기를 함께 참조함",
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「모용세가」",
+        "author": null
+      }
+    ],
+    "biography": "아버지의 야심을 그대로 물려받아 연나라 재건에 모든 것을 걸었다. 강호에서 소봉과 함께 '북교봉 남모용(北喬峯 南慕容)'으로 불릴 만큼 이름이 높았으나, 이름을 얻은 것은 실력보다 문벌 덕이 컸다. 뜻을 이루기 위해 수단을 가리지 않다가 결국 모든 것을 잃고, 왕어언(王語嫣)을 곁에 둔 채 허물어진 꿈속에서 살았다. 두전성이를 익혔으나 자기 무공의 뿌리를 갖지 못한 것이 한계로 꼽힌다."
+  },
+  {
+    "id": "paeng_ak",
+    "name_kr": "팽악",
+    "name_hanja": "彭岳",
+    "alias": [
+      "철도(鐵刀)"
+    ],
+    "title": "하북팽가 가주",
+    "sect_id": "hebei_peng",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "ohodanmundo",
+      "honwon_byeokryeok_singong",
+      "yuga_singong",
+      "danmun_jin"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「하북팽가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "biography": "하북팽가의 가주로, 오호단문도를 익혀 도를 땅에 박아 버리는 것으로 강호에 이름이 났다. 혼원벽력신공으로 온몸을 근육 덩어리처럼 만들어, 정면에서 그와 부딪친 검은 대개 부러졌다. 머리보다 몸이 먼저 나가는 가풍 그대로라 사파의 계략에 자주 넘어간다. 세가연맹에서 남궁세가를 따르면서도, 정작 자기 가문의 몫을 챙기는 데는 누구보다 엄격하다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "paeng_ho",
+    "name_kr": "팽호",
+    "name_hanja": "彭虎",
+    "alias": [
+      "호도(虎刀)"
+    ],
+    "title": "하북팽가 차남·도객",
+    "sect_id": "hebei_peng",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "ohodanmundo"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「하북팽가」",
+        "author": null
+      }
+    ],
+    "biography": "팽가의 차남으로, 형보다 도를 크게 쓰는 것을 즐긴다. 오호단문도의 한 박자 쉬는 틈을 메우기 위해 스스로 망호귀림(猛虎歸林)을 덧붙여 초식을 늘렸다. 이 때문에 문중 장로들에게 문법을 어겼다는 질책을 듣지만, 실전에서는 그 덧붙인 한 수가 목숨을 구한 적이 여러 번이다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "dang_cheonung",
+    "name_kr": "당천웅",
+    "name_hanja": "唐天雄",
+    "alias": [
+      "독수(毒叟)"
+    ],
+    "title": "사천당가 가주",
+    "sect_id": "sichuan_tang",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "mancheon_hwau",
+      "muhyeong_jidok",
+      "banwon_samyanggong",
+      "cheontae_gugung_sinbeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「사천당가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ],
+    "biography": "사천당가의 가주로, 평생을 독과 침의 조제에 바쳤다. 만천화우(滿天花雨)를 한 손에서 수십 갈래로 흩뿌리는 솜씨는 당가에서도 그를 마지막으로 끊겼다는 말이 돈다. 정파의 회합에는 좀처럼 나오지 않지만, 사파의 독공으로 정파가 무너질 때마다 해독방을 보내 명문정파의 자리를 지켜 왔다. 은원을 반드시 갚는다는 가훈을 몸으로 보여 주는 인물. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "dang_soha",
+    "name_kr": "당소하",
+    "name_hanja": "唐素霞",
+    "alias": [
+      "이화(梨花)"
+    ],
+    "title": "사천당가 독방(毒房) 당수",
+    "sect_id": "sichuan_tang",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "pokwu_ihwachim",
+      "muhyeong_jidok"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「사천당가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ],
+    "biography": "당가의 독방을 맡은 여인으로, 폭우이화침(暴雨梨花針)의 장전과 조제를 담당한다. 무공보다 독을 다루는 솜씨로 문중의 신임을 얻었고, 가문의 폐쇄적인 혼인 규칙 때문에 평생을 당가 안에서 살았다. 정파의 다른 문파들이 그녀의 이름을 들으면 대개 말을 낮춘다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "cheonma_cho",
+    "name_kr": "천마",
+    "name_hanja": "天魔",
+    "alias": [
+      "만마의 종주(萬魔之宗主)"
+    ],
+    "title": "천마신교 초대 교주",
+    "sect_id": "cheonma",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "현경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "cheonma_singong"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「천마(무협)」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      }
+    ],
+    "biography": "천마신교를 세운 초대 교주. 이름도 얼굴도 전하지 않고, 오직 '천마'라는 호만 남았다. 강자존(强者尊)의 교리를 세워 힘 있는 자가 곧 교주가 되는 체제를 만들었고, 그 체제는 오늘날까지 교단을 유지시키는 뼈대가 되었다. 정파의 기록에는 그를 마신(魔神)으로 적었으나, 교단 안에서는 세계를 다시 세운 자로 전한다. 창작 인물이며, 한국 신무협이 공유하는 '천마' 상징을 초대 교주로 배치한 설정이다.",
+    "era_note": "v2.1 분류: 개파조사"
+  },
+  {
+    "id": "cheonma_singun",
+    "name_kr": "천마신군",
+    "name_hanja": "天魔神君",
+    "alias": [
+      "교주(敎主)"
+    ],
+    "title": "천마신교 교주",
+    "sect_id": "cheonma",
+    "era_type": "당대",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "cheonma_singong",
+      "cheonma_gunrimbo"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "강호지 무협백과 「천마신교」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      }
+    ],
+    "biography": "천마신교의 현 교주. 소교주 시절 혈맥을 뒤집는 역혈삼전(逆血三轉)을 세 번이나 써서 살아남은 것으로 유명하다. 천마군림보로 상대의 정면을 피하지 않고 걸어 들어가는 전법을 즐기며, 물러서는 것을 교단에서 가장 큰 수치로 여긴다. 교주 자리를 두고 소교주들 사이의 다툼을 방관하는 것이 그의 통치 방식이다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "jang_mugi",
+    "name_kr": "장무기",
+    "name_hanja": "張無忌",
+    "alias": [
+      "명교 교주"
+    ],
+    "title": "명교 제34대 교주",
+    "sect_id": "myeonggyo",
+    "era_type": "당대",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "geongon_daenai",
+      "taegeukgwon",
+      "taegeukgeom",
+      "ohaenggi_jeonbeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ],
+    "biography": "무당 장취산(張翠山)의 아들로, 어려서 부모를 잃고 곤륜산 무당협(武當峽) 골짜기에서 구양신공(九陽神功)을 익혔다. 광명정에서 육대문파의 공격을 되돌려 보이고 명교의 교주가 되었으나, 교주 자리를 탐하지 않고 정파와 사파의 오해를 푸는 데 힘썼다. 건곤대나이 7층을 완성한 이는 그가 처음이며, 창안자도 상상으로 적어 둔 19구의 오류를 걸러 냈다. 장삼봉에게 태극권과 태극검을 전수받아 무당의 무학을 명교에 이은 인물이기도 하다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "yang_so",
+    "name_kr": "양소",
+    "name_hanja": "楊逍",
+    "alias": [
+      "광명좌사(光明左使)"
+    ],
+    "title": "명교 광명좌사",
+    "sect_id": "myeonggyo",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "seonghwaryeong_mugong",
+      "hanbing_myeonjang"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ],
+    "biography": "명교의 광명좌사로, 교주가 비는 동안 교단을 실질적으로 이끌었다. 성화령에 새겨진 페르시아의 무공을 익혀 동쪽을 가리키며 서쪽을 치는 수법을 썼고, 한빙면장으로 맞은 이의 혈맥을 얼렸다. 오만한 성정으로 정파와 자주 부딪혔으나, 교단에 대한 충성만은 끝까지 변하지 않았다. 장무기가 교주가 된 뒤에도 그를 받들어 명교가 중원에서 자리 잡는 데 힘을 보탰다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "dongbang_bulpae",
+    "name_kr": "동방불패",
+    "name_hanja": "東方不敗",
+    "alias": [
+      "일월신교 교주"
+    ],
+    "title": "일월신교 교주",
+    "sect_id": "irwol",
+    "era_type": "당대",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "gyuhwabojeon"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「일월신교」",
+        "author": null
+      }
+    ],
+    "biography": "임아행(任我行)을 끌어내리고 일월신교의 교주 자리에 올랐다. 규화보전(葵花寶典)을 익혀 속도와 감각이 상식을 벗어났고, 바늘이 떨어지는 소리도 듣는다 하여 흑목애(黑木崖)의 정점에 섰다. 교주가 된 뒤에는 정무를 내려놓고 수를 놓으며 지냈고, 그 사이 교단은 그 이름만으로 강호를 눌렀다. 정파가 '마교'라 부르는 대상의 실체를 보여 주는 인물이자, 권력의 정점이 얼마나 외로운지를 보여 주는 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "im_ahaeng",
+    "name_kr": "임아행",
+    "name_hanja": "任我行",
+    "alias": [
+      "전대 교주"
+    ],
+    "title": "일월신교 전대 교주",
+    "sect_id": "irwol",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "heupseong_daebeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "강호지 무협백과 「일월신교」",
+        "author": null
+      }
+    ],
+    "biography": "일월신교의 전대 교주로, 흡성대법(吸星大法)을 익혀 상대의 내력을 빨아들였다. 동방불패에게 교주 자리를 빼앗기고 서호(西湖) 아래 감옥에 갇혀 십여 년을 지냈으나, 영호충의 도움으로 나와 자리를 되찾았다. 빨아들인 내력들이 몸 안에서 충돌해 발작이 잦았고, 그 발작이 그의 죽음의 원인이 되었다. 강호를 다시 손에 넣으려는 집념이 마지막까지 그를 움직였다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "dam_yeohae",
+    "name_kr": "담여해",
+    "name_hanja": "譚與海",
+    "alias": [
+      "천면수사(千面秀士)",
+      "사파제일수(邪派第一手)"
+    ],
+    "title": "하오문 문주",
+    "sect_id": "haomun",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "cheonmyeon_byeonjang",
+      "jeomhyeolsu",
+      "tusul_myosugonggong",
+      "haomun_jeongbomang"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "biography": "하오문의 문주로, 극한의 변장술로 얼굴은 물론 목소리와 체형까지 바꿔 '천면수사'라 불렸다. 얼굴과 진명은 충성을 바친 상대를 제외하면 누구도 모른다. 소림의 일장로 법계(法戒)와 호각으로 겨룰 만큼 강하면서도, 사파 수장들 가운데 가장 잔혹한 인물로 꼽힌다. 다만 항복한 정파를 조롱하는 다른 수장들과 달리 그들을 각박하다고 평하고 최소한의 예를 갖추는 면도 있다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "ma_chil",
+    "name_kr": "마칠",
+    "name_hanja": "馬七",
+    "alias": [
+      "열수(熱手)"
+    ],
+    "title": "하오문 낙양 분타 두목",
+    "sect_id": "haomun",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "jeomhyeolsu",
+      "mihonhyang_monghanyak",
+      "baekjeon_sipdangong"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ],
+    "biography": "낙양 저잣거리의 하오문 분타를 맡은 두목. 점소이와 마부 사이에 섞여 지내며 강호의 소문을 모으고, 값이 나가는 소문은 정파에도 판다. 점혈수 하나로는 문주를 따르지 못하지만, 낙양 성안에서 그를 피해 다니는 사람이 더 많다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "nokrimwang",
+    "name_kr": "녹림왕",
+    "name_hanja": "綠林王",
+    "alias": [
+      "총채주(總寨主)",
+      "총표파자(總瓢把子)"
+    ],
+    "title": "녹림칠십이채 총채주",
+    "sect_id": "nokrim",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "nakcho_dobeop",
+      "nokrim_yeonhwanjin"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "biography": "칠십이개 산채를 하나로 묶은 총채주. 본명은 전하지 않고 녹림왕으로만 불린다. 낙초도법의 낮게 끌어 베는 초식과, 채와 채를 이어 붙이는 연환진으로 수백 명의 산적을 통제한다. 정파가 토벌에 나서면 산을 버리고 흩어졌다가 돌아오는 전법을 써서, 지금까지 문파 하나를 온전히 잃은 적이 없다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "du_man",
+    "name_kr": "두만",
+    "name_hanja": "杜滿",
+    "alias": [
+      "산군(山君)"
+    ],
+    "title": "녹림 제3채 채주",
+    "sect_id": "nokrim",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "nakcho_dobeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "biography": "녹림 제3채의 채주로, 산길에 능해 토벌대를 산속으로 끌어들여 길을 잃게 만드는 데 재주가 있다. 도를 낮게 끌어 다리를 베는 초식만 고집해 문중에서 '한 초식 채주'라 놀림받는다. 그래도 그 한 초식에 걸린 표국은 아직 없었다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "jeok_segwang",
+    "name_kr": "적세광",
+    "name_hanja": "狄世光",
+    "alias": [
+      "흑룡왕(黑龍王)"
+    ],
+    "title": "장강수로십팔채 총채주",
+    "sect_id": "janggang",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "suryong_dobeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "biography": "장강수로십팔채의 총채주로 검은 수염과 검은 옷이 표식이다. 큰 언월도를 들고 배 위에서 수룡도법을 펼쳐, 남궁세가의 가주와도 호각으로 겨룰 만한 실력자로 그려진다. 자존심이 강해 정파의 제안을 번번이 물리치고, 그 자존심이 결국 목숨을 잃는 원인이 되었다. 배 위에서는 정파 대방파도 함부로 그를 건드리지 못한다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "jin_so",
+    "name_kr": "진소",
+    "name_hanja": "陳沼",
+    "alias": [
+      "파도수(波濤手)"
+    ],
+    "title": "장강 제7채 채주",
+    "sect_id": "janggang",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "sujung_jamyeongbeop"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "biography": "장강 제7채를 맡은 여인으로, 물속에서 한 번의 숨으로 먼 거리를 가는 잠영술의 명수다. 배 밑에 붙어 항로를 바꾸거나, 물 위의 사람을 발목부터 끌어내리는 일을 도맡는다. 뭍에서는 거의 힘을 쓰지 못해 정파의 검객들에게 얕보이지만, 배 위에서 그녀를 만난 이는 다시 배에 오르지 않는다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "seol_cheon_sang",
+    "name_kr": "설천상",
+    "name_hanja": "雪川上",
+    "alias": [
+      "빙궁주(氷宮主)"
+    ],
+    "title": "북해빙궁 궁주",
+    "sect_id": "bukhai",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "bingbaek_sinjang",
+      "hanok_jingi"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「북해빙궁」",
+        "author": null
+      }
+    ],
+    "biography": "십여 년 전 형을 몰아내고 빙궁주 자리에 올랐다. 본래 성정이 편협해 북해인의 지지를 얻지 못했고, 그 열등감이 그를 마교와 손잡게 만들었다. 빙궁에서 캐는 빙정(氷精)을 모두 마교에 조공하고, 북해인이 마교의 의식에 끌려가는 것도 방관했다. 빙궁주만이 익힐 수 있는 비전을 익혀 북해 제일의 고수라 불렸으나, 실전 경험의 부족으로 정면 승부에서 무너졌다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "seol_mu_han",
+    "name_kr": "설무한",
+    "name_hanja": "雪無限",
+    "alias": [
+      "전대 빙궁주"
+    ],
+    "title": "북해빙궁 전대 궁주",
+    "sect_id": "bukhai",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "bingbaek_sinjang"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「북해빙궁」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "biography": "설천상의 형으로, 동생에게 자리를 빼앗겨 빙원 깊은 곳으로 쫓겨났다. 빙백신장을 동생보다 한층 더 깊이 익혀, 손바닥이 닿지 않아도 한기가 옷깃을 타고 흐르게 했다. 북해인들이 그를 다시 궁주로 세우려 했으나, 본인은 빙원에서 나오는 것을 거부했다. 창작 인물이다."
+  },
+  {
+    "id": "gonggak",
+    "name_kr": "공각",
+    "name_hanja": "貢覺",
+    "alias": [
+      "법왕(法王)"
+    ],
+    "title": "포달랍궁 법왕(法王)",
+    "sect_id": "potala",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "daesuin",
+      "miljong_geumganggong"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ],
+    "biography": "포달랍궁의 법왕으로, 밀종금강공을 익혀 온몸을 금강처럼 굳혔다. 법안관(法眼觀)으로 눈을 감고도 상대의 기의 흐름을 읽어, 어둠 속에서 벌어지는 승부에서 유독 강하다. 중원 불가의 무공을 사이(邪異)하다고 여기지 않고 오히려 배울 것을 배우는 태도를 지녀, 정파의 고승들과도 대화가 통한다. 창작 인물이며, 실제 종교 인물을 특정하지 않도록 이름과 행적을 새로 지었다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "roe_deok",
+    "name_kr": "뢰덕",
+    "name_hanja": "賴德",
+    "alias": [
+      "금강호법(金剛護法)"
+    ],
+    "title": "포달랍궁 호법",
+    "sect_id": "potala",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "daesuin"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      }
+    ],
+    "biography": "포달랍궁의 호법으로, 법왕의 명을 받아 궁의 문을 지킨다. 대수인의 항마인(降魔印)으로 상대를 땅에 붙이는 수법을 쓰며, 인을 맺는 동작이 느린 대신 한 번 들어가면 막을 수 없다. 중원의 말을 배우지 않아 정파와의 회담에서는 늘 말없이 서 있다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "maeng_so",
+    "name_kr": "맹소",
+    "name_hanja": "孟嘯",
+    "alias": [
+      "수왕(獸王)"
+    ],
+    "title": "남만야수궁 궁주",
+    "sect_id": "namman",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "odokjang",
+      "sanghyeong_yasugwon"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ],
+    "biography": "남만 밀림의 수왕으로, 호랑이와 표범을 길들여 함께 싸운다. 상형야수권의 여섯 형상을 모두 갖추었고, 오독장으로 상처 하나만 내도 독이 옮게 한다. 점창파와의 국경 다툼에서 반드시 앞에 서는 인물이며, 중원의 예법을 알면서도 따르지 않는다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "odok_dongja",
+    "name_kr": "오독동자",
+    "name_hanja": "五毒童子",
+    "alias": [
+      "독동(毒童)"
+    ],
+    "title": "남만야수궁 독방(毒房) 주인",
+    "sect_id": "namman",
+    "era_type": "당대",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "odokjang"
+    ],
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ],
+    "biography": "다섯 독물을 한 몸에 기르는 독방의 주인. 나이는 젊으나 오독장의 마지막 수인 오독합장(五毒合掌)을 쓸 수 있는 몇 안 되는 인물이다. 독을 기르는 대가로 손바닥의 살이 녹아내려, 늘 장갑을 끼고 다닌다. 사천당가가 남만의 독공을 견제하는 이유가 이 인물과 그의 방에 있다. 창작 인물이다.",
+    "era_note": "v2.1 분류: 당대 고수"
+  },
+  {
+    "id": "hwangbo_seong",
+    "name_kr": "황보성",
+    "name_hanja": "皇甫成",
+    "title": "황보세가 가주",
+    "sect_id": "hwangbo",
+    "era_type": "당대",
+    "realm": {
+      "level": "현경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yeojo_cheonwangmu"
+    ],
+    "biography": "황보세가의 당대 가주이자 정의맹의 중진. 하북팽가의 전횡을 견제하며 암천(暗踐) 첩보망을 조율했다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "괴력 난신(怪力亂神)",
+        "author": "한중월야"
+      }
+    ]
+  },
+  {
+    "id": "hwangbo_taeyeom",
+    "name_kr": "황보태염",
+    "name_hanja": "皇甫太炎",
+    "title": "황보세가 천왕검",
+    "sect_id": "hwangbo",
+    "era_type": "후기지수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "namhwa_geomryeongsik",
+      "yeojo_cheonwangmu",
+      "yeojo_cheonwanggyeong"
+    ],
+    "biography": "황보세가 직계 후기지수. 증조부가 대성한 남화검령식을 이어받아 산동 무림에 이름을 떨쳤다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "dokgo_won",
+    "name_kr": "독고원",
+    "name_hanja": "獨孤元",
+    "title": "독고세가 가주",
+    "sect_id": "dokgo",
+    "era_type": "당대",
+    "realm": {
+      "level": "현경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "dokgo_singeom",
+      "musang_geomgyeol",
+      "dokgo_sinbo"
+    ],
+    "biography": "은거한 독고세가(獨孤世家)의 가주. 파초식의 정수를 체득해 검 한 자루로 천하 강호의 균형을 지켜봤다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "dokgo_cheon",
+    "name_hanja": "獨孤天",
+    "name_kr": "독고천",
+    "title": "독고세가 태상장로",
+    "sect_id": "dokgo",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "생사경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "dokgo_singeom",
+      "musang_geomgyeol"
+    ],
+    "biography": "독고세가의 전대 고수. 무초(無招)의 경지에 올라 평생 단 한 번도 패한 적이 없는 전설적 검객으로 전해진다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "jeongil_satae",
+    "name_kr": "정일사태",
+    "name_hanja": "定逸師太",
+    "title": "항산파 장문인",
+    "sect_id": "hengshan",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hangsan_geombeop",
+      "myeonri_jangchim"
+    ],
+    "biography": "항산파 삼정(三定) 중 한 사람으로 장문을 맡아 강직하게 문파를 지켰다. 숭산파의 야욕에 끝까지 맞선 인걸이다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "uirim",
+    "name_kr": "의림",
+    "name_hanja": "儀琳",
+    "title": "항산파 소사매",
+    "sect_id": "hengshan",
+    "era_type": "후기지수",
+    "realm": {
+      "level": "일류",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hangsan_geombeop"
+    ],
+    "biography": "정일사태의 애제자. 맑고 순수한 심성으로 강호의 험악함 속에서도 자비를 잃지 않고 영호충을 도왔다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "makdae_seonsaeng",
+    "name_kr": "막대선생",
+    "name_hanja": "莫大先生",
+    "title": "소상야우·형산파 장문인",
+    "sect_id": "henan_hengshan",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hoepung_nakan_geom",
+      "unmu_sipsamsik"
+    ],
+    "biography": "늘 낡은 호금을 들고 다니며 처량한 소상야우 곡조를 타던 은거 고수. 호금 속에 감춘 백련검으로 일순에 적을 베었다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "yoo_jeongpung",
+    "name_kr": "유정풍",
+    "name_hanja": "劉正風",
+    "title": "형산파 명숙",
+    "sect_id": "henan_hengshan",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hoepung_nakan_geom"
+    ],
+    "biography": "일월신교의 곡양과 소오강호(笑傲江湖) 합주로 교류하다 숭산파의 압박 속에 금분세수(金盆洗手)를 선언하고 비극적 최후를 맞았다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "cheonmun_doin",
+    "name_kr": "천문도인",
+    "name_hanja": "天門道人",
+    "title": "태산파 장문인",
+    "sect_id": "taishan",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "taesan_sippalban",
+      "chilseong_nakjang"
+    ],
+    "biography": "성격이 불같고 강직한 태산파 장문인. 오악 병합 회의에서 원로들의 배신과 숭산파의 음모에 맞서다 장렬히 스러졌다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "okgi_sanin",
+    "name_kr": "옥기산인",
+    "name_hanja": "玉磯子",
+    "title": "태산파 원로",
+    "sect_id": "taishan",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "chilseong_nakjang"
+    ],
+    "biography": "천문도인의 사숙뻘 원로. 숭산파의 회유에 넘어가 장문인의 권위를 흔들며 태산파 내분의 도화선이 되었다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "jwa_naengseon",
+    "name_kr": "좌냉선",
+    "name_hanja": "左冷禪",
+    "title": "숭산파 장문인·오악맹주",
+    "sect_id": "songshan",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "sungsan_geombeop",
+      "hanbing_jingi"
+    ],
+    "biography": "오악검파를 하나로 합쳐 천하 패권을 쥐려 했던 야심가. 한빙진기를 연성했으나 숭산 봉선대에서 악불군에게 눈을 잃었다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "bi_bin",
+    "name_kr": "비빈",
+    "name_hanja": "費彬",
+    "title": "대숭양수·숭산태보",
+    "sect_id": "songshan",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "sungsan_geombeop"
+    ],
+    "biography": "좌냉선의 오른팔인 숭산 십삼태보의 한 사람. 형산 유정풍의 금분세수 자리를 피바다로 물들였다가 막대선생에게 베였다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "hyeolma",
+    "name_kr": "혈마",
+    "name_hanja": "血魔",
+    "title": "혈교 교주",
+    "sect_id": "blood_sect",
+    "era_type": "전대 고수",
+    "realm": {
+      "level": "생사경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hyeolma_singong",
+      "hyeolsu_suragyeol"
+    ],
+    "biography": "한국 무협에서 피의 교단을 이끄는 절대악의 상징. 정파는 물론 마교와도 맞서는 핏빛 공포로 그려진다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「혈교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hyeolgungju",
+    "name_kr": "혈궁주",
+    "name_hanja": "血宮主",
+    "title": "마라혈궁 궁주",
+    "sect_id": "blood_sect",
+    "era_type": "당대",
+    "realm": {
+      "level": "현경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hyeolma_singong"
+    ],
+    "biography": "『화산귀환』에서 온몸을 붉은 붕대로 감고 사패련에 가담한 마라혈궁의 수장. 정사대전에서 백천의 피를 노리다 패망했다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "jang_ilso",
+    "name_kr": "장일소",
+    "name_hanja": "長一笑",
+    "title": "패군·사패련주",
+    "sect_id": "maninbang",
+    "era_type": "당대",
+    "realm": {
+      "level": "생사경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "paegun_hwanyoung_jang",
+      "paedo_samgwang_sal"
+    ],
+    "biography": "화려한 비단 옷과 미소 속에 무서운 야망을 감춘 만인방주이자 사패련주. 난세를 일으켜 천하 무림의 판을 뒤엎으려 했다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      },
+      {
+        "work": "나무위키 「장일소」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "ho_gamyeong",
+    "name_kr": "호가명",
+    "name_hanja": "胡家明",
+    "title": "독심나찰·만인방 군사",
+    "sect_id": "maninbang",
+    "era_type": "당대",
+    "realm": {
+      "level": "절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "paedo_samgwang_sal"
+    ],
+    "biography": "장일소의 수족이자 사패련의 대군사. 냉혹한 셈법으로 천우맹과 구파일방을 수세로 몰아넣었다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "hyeonun_doin",
+    "name_kr": "현운도인",
+    "name_hanja": "玄雲道人",
+    "title": "해남파 장문인",
+    "sect_id": "hainan",
+    "era_type": "당대",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "changhae_geombeop",
+      "parang_joseok_gong"
+    ],
+    "biography": "해남도의 오랜 고립을 깨고 문파를 지켜낸 해남파 장문인. 화산파와의 인연으로 천우맹에 합류해 중원 전선에 섰다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "hae_mujin",
+    "name_kr": "해무진",
+    "name_hanja": "海無盡",
+    "title": "해남파 수석장로",
+    "sect_id": "hainan",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "changhae_geombeop"
+    ],
+    "biography": "거친 남해 풍랑 속에서 검을 벼린 해남파 원로. 파도처럼 끊이지 않는 연환 검초로 사패련의 침공을 막아냈다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "jin_pyeong",
+    "name_kr": "진평",
+    "name_hanja": "陳平",
+    "title": "태양존자·남해태양궁주",
+    "sect_id": "nanhai_sun",
+    "era_type": "당대",
+    "realm": {
+      "level": "현경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "taeyang_singong",
+      "yeoryang_yeomjang"
+    ],
+    "biography": "남해태양궁을 이끄는 극양의 절대고수. 사패련의 요청으로 중원 정벌에 참전해 천우맹 고수들과 치열한 혈전을 벌였다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "taeyang_saja",
+    "name_kr": "태양사자",
+    "name_hanja": "太陽使者",
+    "title": "남해태양궁 수석호법",
+    "sect_id": "nanhai_sun",
+    "era_type": "당대",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yeoryang_yeomjang"
+    ],
+    "biography": "진평의 명을 받아 남해 열도 무사들을 지휘한 선봉장. 작열하는 염열 장풍으로 중원 정파를 압박했다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "jeong_chunchu",
+    "name_kr": "정춘추",
+    "name_hanja": "丁春秋",
+    "alias": [
+      "성수노선(星宿老仙)"
+    ],
+    "title": "성수노괴(星宿老怪)",
+    "sect_id": "xingxiu",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hwagong_daebeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "경지는 원작에 없는 체계라 한국 신무협 관습에 따라 환산한 값.",
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「성수파」",
+        "author": null
+      }
+    ],
+    "biography": "본래 소요파 문하였으나 스승을 해치고 달아나 서역 성수해에 성수파를 열었다. 제자들에게 '성수노선'이라 떠받들게 하며 화공대법과 독으로 강호를 휘저었으나, 끝내 소요파의 후계자에게 제압되어 소림사에 갇힌다."
+  },
+  {
+    "id": "hong_antong",
+    "name_kr": "홍안통",
+    "name_hanja": "洪安通",
+    "alias": [],
+    "title": "신룡교주",
+    "sect_id": "shenlong",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "yeongung_samcho"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "경지는 원작에 없는 체계라 한국 신무협 관습에 따라 환산한 값.",
+    "sources": [
+      {
+        "work": "녹정기(鹿鼎記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「신룡교」",
+        "author": null
+      }
+    ],
+    "biography": "신룡도의 교주. 교도들에게 자신을 신처럼 찬양하게 하고 독약으로 충성을 묶어 두었다. 영웅삼초를 만들어 부인 소전의 미인삼초와 함께 교의 비기로 삼았다."
+  },
+  {
+    "id": "nam_bonghwang",
+    "name_kr": "남봉황",
+    "name_hanja": "藍鳳凰",
+    "alias": [],
+    "title": "오독교 교주",
+    "sect_id": "wudu",
+    "era_type": "당대",
+    "realm": null,
+    "mastered_arts": [],
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「오독교」",
+        "author": null
+      }
+    ],
+    "biography": "운남 오독교의 교주. 『소오강호』에서 임영영을 따르는 무리의 하나로 등장해, 다친 영호충을 위해 독물로 만든 약을 바치는 등 정이 많은 면을 보인다."
+  },
+  {
+    "id": "hyeoldo_nojo",
+    "name_kr": "혈도노조",
+    "name_hanja": "血刀老祖",
+    "alias": [],
+    "title": "혈도문 장문",
+    "sect_id": "xuedao",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hyeoldo_dobeop"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "경지는 원작에 없는 체계라 한국 신무협 관습에 따라 환산한 값.",
+    "sources": [
+      {
+        "work": "연성결(連城訣)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「혈도문」",
+        "author": null
+      }
+    ],
+    "biography": "서장 혈도문의 장문. 붉은 칼을 쓰는 노승으로, 중원에 들어와 악행을 저지르다 설산에서 중원 고수들과 맞붙는다."
+  },
+  {
+    "id": "gu_cheonin",
+    "name_kr": "구천인",
+    "name_hanja": "裘千仞",
+    "alias": [
+      "자은(慈恩)"
+    ],
+    "title": "철장수상표(鐵掌水上漂)",
+    "sect_id": "tiezhang",
+    "era_type": "당대",
+    "realm": {
+      "level": "초절정",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "cheoljang_gong"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "경지는 원작에 없는 체계라 한국 신무협 관습에 따라 환산한 값.",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「철장방」",
+        "author": null
+      }
+    ],
+    "biography": "철장방 방주. 철장과 경공으로 천하오절 다음가는 고수로 꼽혔으나 금나라와 결탁해 악명을 남겼다. 『신조협려』에서는 지난 죄를 뉘우치고 승려가 된다."
+  },
+  {
+    "id": "guyang_bong",
+    "name_kr": "구양봉",
+    "name_hanja": "歐陽鋒",
+    "alias": [],
+    "title": "서독(西毒)",
+    "sect_id": "baituo",
+    "era_type": "당대",
+    "realm": {
+      "level": "화경",
+      "basis": "신무협환산"
+    },
+    "mastered_arts": [
+      "hamagong"
+    ],
+    "tier_tag": "정통고증",
+    "tier_note": "경지는 원작에 없는 체계라 한국 신무협 관습에 따라 환산한 값.",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구양봉」",
+        "author": null
+      }
+    ],
+    "biography": "백타산의 주인이자 천하오절의 한 사람. 『구음진경』을 노리다 거꾸로 익힌 탓에 정신이 흐려지며, 마지막에는 평생의 적수 홍칠공과 겨루다 함께 웃으며 숨을 거둔다."
+  }
+]

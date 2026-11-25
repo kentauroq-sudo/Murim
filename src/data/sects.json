@@ -1,0 +1,3412 @@
+[
+  {
+    "id": "shaolin",
+    "name_kr": "소림사",
+    "name_hanja": "少林寺",
+    "alias": [
+      "천하무학의 본산(天下武學之本山)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "하남성(河南省) 정주시 등봉시(鄭州市 登封市)",
+      "mountain": "중악 숭산(中嶽 嵩山) 소실산(少室山)",
+      "map_position": {
+        "x": 1840,
+        "y": 1025
+      },
+      "geo": {
+        "lat": 34.5071,
+        "lng": 112.9357
+      },
+      "coord_note": "숭산 소실산 기슭 소림사 상주(常住) 좌표. 숭산 최고봉 연천봉은 해발 1,512m."
+    },
+    "philosophy": "선무일여(禪武一如)",
+    "signature_arts": [
+      "yigeunjing",
+      "geumgang_banyajang",
+      "nahangwon"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "dalma",
+        "role": "개파조사"
+      },
+      {
+        "figure_id": "mumyeong_noseung",
+        "role": "장경각 소소(掃灑) 노승"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "wudang",
+        "type": "경쟁",
+        "note": "정파의 양대 산맥. 불가(佛家)와 도가(道家)의 대표"
+      },
+      {
+        "sect_id": "gaibang",
+        "type": "동맹",
+        "note": "정마대전에서 무림맹의 앞뒤를 나눠 맡는 오랜 동맹"
+      },
+      {
+        "sect_id": "myeonggyo",
+        "type": "숙적",
+        "note": "광명정 공방으로 인한 오해와 원한"
+      },
+      {
+        "sect_id": "taiwu_fulong",
+        "type": "적대",
+        "note": "『태오회권』 설정상 적대 문파"
+      }
+    ],
+    "summary": "중악 숭산(嵩山) 소실산(少室山) 기슭의 선종(禪宗) 조정(祖庭). 무학의 본산으로 불리며, 칠십이절예(七十二絕藝)라 불리는 방대한 무공을 문중에 축적해 왔다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "중국어 위키백과 「嵩山少林寺」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "wudang",
+    "name_kr": "무당파",
+    "name_hanja": "武當派",
+    "alias": [
+      "태화산파(太和山派)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "호북성(湖北省) 십언시 단강구시(十堰市 丹江口市)",
+      "mountain": "무당산(武當山) 천주봉(天柱峰)",
+      "map_position": {
+        "x": 1757,
+        "y": 1130
+      },
+      "geo": {
+        "lat": 32.4008,
+        "lng": 111.0039
+      },
+      "coord_note": "무당산 주봉 천주봉(해발 1,612m) 기준. 한수(漢水) 남안, 대파산맥 동단."
+    },
+    "philosophy": "후발제인(後發制人) · 이정제동(以靜制動)",
+    "signature_arts": [
+      "taegeukgwon",
+      "taegeukgeom",
+      "jewunjong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jang_sam_bong",
+        "role": "개파조사"
+      },
+      {
+        "figure_id": "song_wongyo",
+        "role": "무당칠협 수석"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "shaolin",
+        "type": "경쟁",
+        "note": "정파의 양대 산맥. 도가의 정통을 자임"
+      },
+      {
+        "sect_id": "emei",
+        "type": "동맹",
+        "note": "구양진경(九陽眞經) 계보로 이어진 인연"
+      },
+      {
+        "sect_id": "myeonggyo",
+        "type": "숙적",
+        "note": "광명정 포위와 장무기의 구원으로 얽힌 관계"
+      },
+      {
+        "sect_id": "taiwu_jieqing",
+        "type": "적대",
+        "note": "『태오회권』 설정상 적대 문파"
+      }
+    ],
+    "summary": "호북 무당산(武當山)에 자리한 도가(道家) 최고 문파. 강한 힘으로 누르기보다 상대의 힘을 받아 돌리는 것을 문훈으로 삼는다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "중국어 위키백과 「武當山」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "huashan",
+    "name_kr": "화산파",
+    "name_hanja": "華山派",
+    "alias": [
+      "서악검파(西嶽劍派)",
+      "화산검종(華山劍宗)·화산기종(華山氣宗)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": "오악검파(五嶽劍派)",
+    "alignment_note": null,
+    "region": {
+      "province": "섬서성(陝西省) 위남시 화음시(渭南市 華陰市)",
+      "mountain": "서악 화산(西嶽 華山) 남봉 낙안봉(南峰 落雁峰)",
+      "map_position": {
+        "x": 1718,
+        "y": 1027
+      },
+      "geo": {
+        "lat": 34.4633,
+        "lng": 110.0808
+      },
+      "coord_note": "화산 남봉 낙안봉(해발 2,154.9m) 기준. 오악(五嶽) 중 서악."
+    },
+    "philosophy": "기검병중(氣劍並重)",
+    "signature_arts": [
+      "jaha_singong",
+      "maehwa_geombeop",
+      "hwasan_geombeop",
+      "dokgo_gugeom"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "pung_cheongyang",
+        "role": "검종 태상장로"
+      },
+      {
+        "figure_id": "ak_bulgun",
+        "role": "기종 장문인"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "zhongnan",
+        "type": "경쟁",
+        "note": "같은 섬서의 검파. 수시로 검을 논하는 라이벌"
+      },
+      {
+        "sect_id": "shaolin",
+        "type": "동맹",
+        "note": "오악검파 병합 음모에 맞선 정파 연대"
+      },
+      {
+        "sect_id": "qingcheng",
+        "type": "숙적",
+        "note": "복위표국(福威驃局) 사건으로 얽힌 원한"
+      }
+    ],
+    "summary": "섬서 화산(華山)의 도가 검파. 기(氣)와 검(劍) 중 무엇을 앞세울 것인가를 두고 문내가 갈렸던 역사가 문파의 성격을 만들었다.",
+    "tier_tag": "정통고증",
+    "tier_note": "매화검법(maehwa_geombeop)은 한국 무협에서 정착한 신무협 설정이다. 원작 고증 무공과 함께 대표 무공으로 둔다.",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "zhongnan",
+    "name_kr": "종남파",
+    "name_hanja": "終南派",
+    "alias": [
+      "전진교(全眞敎) 후예"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "섬서성(陝西省) 서안시 장안구(西安市 長安區)",
+      "mountain": "종남산(終南山)",
+      "map_position": {
+        "x": 1662,
+        "y": 1057
+      },
+      "geo": {
+        "lat": 33.8514,
+        "lng": 108.7836
+      },
+      "coord_note": "친링 종남산 세계지질공원 중심(동경 108°47′, 북위 33°51′). 서안 시내에서 남쪽 25km."
+    },
+    "philosophy": "청정무위(淸靜無爲) · 진양련기(眞陽鍊氣)",
+    "signature_arts": [
+      "jeonjin_geombeop",
+      "cheongang_bukdujin"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "wang_jungyang",
+        "role": "전진교 개조"
+      },
+      {
+        "figure_id": "gu_cheogi",
+        "role": "전진칠자"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "경쟁",
+        "note": "섬서 제일문 자리를 다투는 검파 라이벌"
+      },
+      {
+        "sect_id": "wudang",
+        "type": "동맹",
+        "note": "도가 문파로서의 혈연. 장삼봉의 사승 계보"
+      }
+    ],
+    "summary": "섬서 종남산(終南山)의 도가 문파. 전진교(全眞敎)의 법통을 이어받아 진법(陣法)과 검법을 함께 닦는 것으로 유명하다.",
+    "tier_tag": "정통고증",
+    "tier_note": "전진교(全眞敎) 계열로 김용 원작에 등장하는 문파. 문파 자체는 정통고증.",
+    "sources": [
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "emei",
+    "name_kr": "아미파",
+    "name_hanja": "峨嵋派",
+    "alias": [
+      "아미검파(峨嵋劍派)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "사천성(四川省) 러산시 아미산시(樂山市 峨眉山市)",
+      "mountain": "아미산(峨眉山) 금정(金頂)",
+      "map_position": {
+        "x": 1429,
+        "y": 1274
+      },
+      "geo": {
+        "lat": 29.5197,
+        "lng": 103.3325
+      },
+      "coord_note": "아미산 만불정(萬佛頂, 해발 3,099m) 기준. 금정 화장사는 해발 3,077m."
+    },
+    "philosophy": "자비제악(慈悲制惡)",
+    "signature_arts": [
+      "geumjeong_myeonjang",
+      "ami_geombeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "gwak_yang",
+        "role": "개파조사"
+      },
+      {
+        "figure_id": "myeoljeol_satae",
+        "role": "장문인"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "shaolin",
+        "type": "동맹",
+        "note": "불가 문파로서 소림과 보좌 관계"
+      },
+      {
+        "sect_id": "wudang",
+        "type": "동맹",
+        "note": "구양진경 계보의 인연"
+      },
+      {
+        "sect_id": "qingcheng",
+        "type": "경쟁",
+        "note": "사천 안에서 검파의 서열을 다툼"
+      },
+      {
+        "sect_id": "taiwu_jingang",
+        "type": "적대",
+        "note": "『태오회권』 설정상 적대 문파"
+      }
+    ],
+    "summary": "사천 아미산(峨眉山)의 불가(佛家) 문파. 여승이 중심이 된 문파로, 부드러운 장법과 단정한 검법이 문파의 표식이다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "diancang",
+    "name_kr": "점창파",
+    "name_hanja": "點蒼派",
+    "alias": [
+      "창산검파(蒼山劍派)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "운남성(雲南省) 대리바이족자치주 대리시(大理市)",
+      "mountain": "점창산(點蒼山) 마룡봉(馬龍峰)",
+      "map_position": {
+        "x": 1290,
+        "y": 1468
+      },
+      "geo": {
+        "lat": 25.649,
+        "lng": 100.098
+      },
+      "coord_note": "점창산 마룡봉(해발 4,122m) 기준. 동쪽으로 이하이(洱海)를 끼고 있다."
+    },
+    "philosophy": "일검관일(一劍貫日) · 쾌검제선(快劍制先)",
+    "signature_arts": [
+      "jeomchang_geombeop",
+      "hoepung_geombeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "dan_cheong",
+        "role": "검후(劍侯)"
+      },
+      {
+        "figure_id": "wi_mu",
+        "role": "창응(蒼鷹)"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "emei",
+        "type": "동맹",
+        "note": "사천·운남의 남방 방벽을 함께 지는 사이"
+      },
+      {
+        "sect_id": "namman",
+        "type": "숙적",
+        "note": "남만과 맞닿은 국경에서 벌어지는 영역 다툼"
+      }
+    ],
+    "summary": "운남 대리(大理) 점창산(點蒼山)의 검파. 베기보다 찌르기를 앞세우며, 짧고 빠른 검으로 상대의 호흡을 끊는 검풍을 지녔다.",
+    "tier_tag": "정통고증",
+    "tier_note": "김용 원작에 등장하는 검파(劍派). 문파 자체는 정통고증.",
+    "sources": [
+      {
+        "work": "나무위키 「구파일방」",
+        "author": null
+      },
+      {
+        "work": "중국어 위키백과 「點蒼山」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「점창파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "qingcheng",
+    "name_kr": "청성파",
+    "name_hanja": "靑城派",
+    "alias": [
+      "청성검파(靑城劍派)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "사천성(四川省) 성도시 도강언시(成都市 都江堰市)",
+      "mountain": "청성산(靑城山)",
+      "map_position": {
+        "x": 1436,
+        "y": 1201
+      },
+      "geo": {
+        "lat": 30.9733,
+        "lng": 103.5156
+      },
+      "coord_note": "청성산 주봉 노소정(老霄頂, 해발 1,600m) 기준. 성도 서남 68km."
+    },
+    "philosophy": "검재인재(劍在人在) · 청정수진(淸靜守眞)",
+    "signature_arts": [
+      "cheongpung_geombeop",
+      "choesimjang"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "yeo_changhae",
+        "role": "장문인"
+      },
+      {
+        "figure_id": "cheongpung_doin",
+        "role": "전대 장문인"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "숙적",
+        "note": "복위표국 사건과 장문인 간의 원한"
+      },
+      {
+        "sect_id": "emei",
+        "type": "경쟁",
+        "note": "사천 안 검파 서열 다툼"
+      }
+    ],
+    "summary": "사천 청성산(靑城山)의 도가 검파. 후한(後漢) 장도릉(張道陵)이 오두미도(五斗米道)를 일으킨 땅에 뿌리를 두어 도교의 정통성을 자부한다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「청성파」",
+        "author": null
+      },
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "중국어 위키백과 「靑城山」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "kongtong",
+    "name_kr": "공동파",
+    "name_hanja": "崆峒派",
+    "alias": [
+      "공동검파(崆峒劍派)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "감숙성(甘肅省) 평량시 공동구(平涼市 崆峒區)",
+      "mountain": "공동산(崆峒山) 취병봉(翠屛峰)",
+      "map_position": {
+        "x": 1565,
+        "y": 973
+      },
+      "geo": {
+        "lat": 35.5494,
+        "lng": 106.5202
+      },
+      "coord_note": "공동산 주봉 취병봉(해발 2,123m) 기준. 평량 시내 서쪽 11km, 육반산(六盤山) 지맥."
+    },
+    "philosophy": "도법자연(道法自然) · 이강극강(以剛克剛)",
+    "signature_arts": [
+      "chilsanggwon",
+      "bokma_geombeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "gwan_neung",
+        "role": "공동오로(崆峒五老)의 수석"
+      },
+      {
+        "figure_id": "jong_yuhyeop",
+        "role": "공동오로"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "kunlun",
+        "type": "동맹",
+        "note": "서북 정파의 두 방벽. 마교 침공을 함께 받는다"
+      },
+      {
+        "sect_id": "cheonma",
+        "type": "숙적",
+        "note": "천산과 마주하여 정마대전마다 최전선에 선다"
+      }
+    ],
+    "summary": "감숙 평량(平涼) 공동산(崆峒山)의 도가 문파. 황제(黃帝)가 광성자(廣成子)에게 도를 물었다는 산에 자리하여 '천하도교제일산'의 이름을 함께 쓴다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「공동파」",
+        "author": null
+      },
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "공동산 지형도 자료",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "kunlun",
+    "name_kr": "곤륜파",
+    "name_hanja": "崑崙派",
+    "alias": [
+      "서역검파(西域劍派)"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "청해성(靑海省) 곤륜산맥(崑崙山脈)",
+      "mountain": "곤륜산(崑崙山) 삼성요(三聖坳)",
+      "map_position": {
+        "x": 1031,
+        "y": 968
+      },
+      "geo": {
+        "lat": 35.65,
+        "lng": 94.06
+      },
+      "coord_note": "곤륜산구(崑崙山口, 해발 4,760m) 일대를 기준점으로 삼았다. 작품 속 삼성요(三聖坳)는 가상의 분지다."
+    },
+    "philosophy": "이유제강(以柔制剛) · 신법위선(身法爲先)",
+    "signature_arts": [
+      "yangui_geombeop",
+      "ulyong_daepalsik"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "ha_jokdo",
+        "role": "곤륜삼성(崑崙三聖)"
+      },
+      {
+        "figure_id": "ha_taechung",
+        "role": "장문인"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "kongtong",
+        "type": "동맹",
+        "note": "서북 정파의 두 방벽"
+      },
+      {
+        "sect_id": "cheonma",
+        "type": "숙적",
+        "note": "중원으로 들어오는 마교를 가장 먼저 맞는 위치"
+      },
+      {
+        "sect_id": "myeonggyo",
+        "type": "숙적",
+        "note": "광명정이 곤륜산 안에 있다는 설정으로 인한 영역 갈등"
+      }
+    ],
+    "summary": "청해 곤륜산맥(崑崙山脈)의 폐쇄적 도가 문파. 중원에서 가장 서쪽에 있어 정마대전이 나면 가장 먼저 소식이 끊기는 곳으로 그려진다.",
+    "tier_tag": "정통고증",
+    "tier_note": "운룡대팔식(ulyong_daepalsik)은 신무협 창작 설정이다. 원작 고증 무공과 함께 대표 무공으로 둔다.",
+    "sources": [
+      {
+        "work": "나무위키 「곤륜파」",
+        "author": null
+      },
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "신조협려(神鵰俠侶)",
+        "author": "김용(金庸)"
+      }
+    ]
+  },
+  {
+    "id": "gaibang",
+    "name_kr": "개방",
+    "name_hanja": "丐幫",
+    "alias": [
+      "천하제일방(天下第一幇)",
+      "거지방"
+    ],
+    "faction": "정파",
+    "sub_faction": "구파일방",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "하남성(河南省) 개봉시(開封市)",
+      "mountain": "개봉(開封) 본타(本舵)",
+      "map_position": {
+        "x": 1899,
+        "y": 1010
+      },
+      "geo": {
+        "lat": 34.797,
+        "lng": 114.3072
+      },
+      "coord_note": "개방 총타(總舵)가 두는 곳으로 통용되는 개봉 기준. 실제 개방은 전국에 분타를 두고 방주가 순행한다."
+    },
+    "philosophy": "의협제세(義俠濟世)",
+    "signature_arts": [
+      "hangryong_sippaljang",
+      "tagu_bongbeop",
+      "soyoyu",
+      "chwipalseon_gwon",
+      "chwipalseon_bo",
+      "baekgyeol_yeonhwa_singong",
+      "tagujin"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "hong_chilgong",
+        "role": "전대 방주"
+      },
+      {
+        "figure_id": "gwak_jeong",
+        "role": "방주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "shaolin",
+        "type": "동맹",
+        "note": "정파 연대의 양대 축"
+      },
+      {
+        "sect_id": "haomun",
+        "type": "숙적",
+        "note": "도시 하층 정보망을 두고 벌이는 신경전"
+      },
+      {
+        "sect_id": "nokrim",
+        "type": "숙적",
+        "note": "산채와 수채의 통행세 문제로 상시 충돌"
+      }
+    ],
+    "summary": "천하 거지들이 모인 정파의 유일한 방회(幇會). 허리에 맨 새끼줄 매듭(결·結)으로 백의개부터 구결(九結) 용두방주까지 위계를 나누며, 오의파(汚衣派)와 청의파(淸衣派)로 기풍이 갈리기도 한다. 전국 걸인들의 결속력을 바탕으로 하오문과 정보력 양대산맥을 이룬다.",
+    "tier_tag": "정통고증",
+    "tier_note": "김용 원작 설정(항룡십팔장·타구봉법·타구진)을 근간으로 하되 한국 무협 통설의 취팔선권·취팔선보·백결연화신공을 함께 수록함",
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「항룡십팔장」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「개방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "nangong",
+    "name_kr": "남궁세가",
+    "name_hanja": "南宮世家",
+    "alias": [
+      "천하제일검가(天下第一劍家)"
+    ],
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": "무림맹(武林盟)",
+    "alignment_note": null,
+    "region": {
+      "province": "안휘성(安徽省) 안경시 첨산시(安慶市 潛山市)",
+      "mountain": "천주산(天柱山)",
+      "map_position": {
+        "x": 1991,
+        "y": 1214
+      },
+      "geo": {
+        "lat": 30.7167,
+        "lng": 116.45
+      },
+      "coord_note": "안휘 천주산 기준. 남궁세가의 연고지는 작품마다 갈리며, 안휘 천주산설·합비설이 통용된다. 실제 남궁씨 집성촌은 하북 형태시 남궁시(南宮市)다."
+    },
+    "philosophy": "검무불승(劍無不勝) · 명가자중(名家自重)",
+    "signature_arts": [
+      "changung_muae_geombeop",
+      "jewang_geomhyeong",
+      "cheonnoe_jewang_singong",
+      "seomjeon_sipsamroe",
+      "muae_cheongryu_sinbo"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "namgung_hyeok",
+        "role": "가주(家主)"
+      },
+      {
+        "figure_id": "namgung_so",
+        "role": "소가주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "jegal",
+        "type": "경쟁",
+        "note": "무림맹 내 주도권을 두고 벌이는 오랜 견제"
+      },
+      {
+        "sect_id": "huashan",
+        "type": "동맹",
+        "note": "몰락기 화산과 손잡은 세가연맹의 축"
+      },
+      {
+        "sect_id": "haomun",
+        "type": "숙적",
+        "note": "표국 이권과 정보망 충돌"
+      }
+    ],
+    "summary": "오대세가의 맹주 격. 검 하나로 가문의 이름을 세웠으며, 무림맹주를 배출하는 자리로 통한다.",
+    "tier_tag": "신무협",
+    "tier_note": "오대세가(五大世家) 체계는 한국 무협 관습. 가문 구성·인물은 신무협.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「남궁세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "jegal",
+    "name_kr": "제갈세가",
+    "name_hanja": "諸葛世家",
+    "alias": [
+      "신기제갈(神機諸葛)"
+    ],
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": "무림맹(武林盟)",
+    "alignment_note": null,
+    "region": {
+      "province": "호북성(湖北省) 양양시 양성구(襄陽市 襄城區)",
+      "mountain": "융중(隆中)",
+      "map_position": {
+        "x": 1803,
+        "y": 1151
+      },
+      "geo": {
+        "lat": 31.983,
+        "lng": 112.06
+      },
+      "coord_note": "양양 융중 기준. 제갈량(諸葛亮)이 은거한 곳으로 전해지는 지역. 본관(本貫)은 산동 낭야(琅邪, 현 린이시)."
+    },
+    "philosophy": "모정후동(謀定後動)",
+    "signature_arts": [
+      "gimun_jinsik",
+      "pangwan_pilbeop",
+      "hoepung_mugung_seonbeop",
+      "bohwa_singong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jegal_hyeon",
+        "role": "가주"
+      },
+      {
+        "figure_id": "jegal_yu",
+        "role": "무림맹 군사(軍師)"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "nangong",
+        "type": "경쟁",
+        "note": "무림맹 주도권 경쟁. 전략가와 검가의 대비"
+      },
+      {
+        "sect_id": "moyong",
+        "type": "경쟁",
+        "note": "책략 대 책략. 서로의 속을 읽으려는 사이"
+      }
+    ],
+    "summary": "제갈량(諸葛亮)의 후예를 자처하는 세가. 무공보다 기문진식(奇門陣式)·기관(機關)·병법으로 이름을 얻어 무림맹의 군사 자리를 도맡는다.",
+    "tier_tag": "신무협",
+    "tier_note": "오대세가 체계는 한국 무협 관습. 기문·기관 설정도 신무협.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「제갈세가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "moyong",
+    "name_kr": "모용세가",
+    "name_hanja": "慕容世家",
+    "alias": [
+      "연왕후예(燕王後裔)"
+    ],
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "요녕성(遼寧省) 심양시(瀋陽市)",
+      "mountain": "심양(瀋陽) 연왕부(燕王府) 옛터",
+      "map_position": {
+        "x": 2290,
+        "y": 660
+      },
+      "geo": {
+        "lat": 41.805,
+        "lng": 123.431
+      },
+      "coord_note": "북연(北燕)의 수도였던 심양 기준. 김용 『천룡팔부』의 모용씨는 강남 소주(蘇州) 연자오(燕子塢)에 산다고 설정되어 있다."
+    },
+    "philosophy": "이피지도 환시피신(以彼之道 還施彼身)",
+    "signature_arts": [
+      "dujeonseong_i",
+      "chamhapji",
+      "yuseong_geom",
+      "hwancheon_singi"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "moyong_bak",
+        "role": "전대 가주"
+      },
+      {
+        "figure_id": "moyong_bok",
+        "role": "가주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "jegal",
+        "type": "경쟁",
+        "note": "계략과 설계로 서로를 견제한다"
+      },
+      {
+        "sect_id": "gaibang",
+        "type": "숙적",
+        "note": "천룡팔부의 원한. 모용복과 소봉의 대립"
+      },
+      {
+        "sect_id": "bukhai",
+        "type": "중립",
+        "note": "선비족 계보로 새외 세력과 정서적으로 가깝다"
+      }
+    ],
+    "summary": "선비족(鮮卑族) 모용씨, 북연(北燕) 왕족의 후예를 자처하는 세가. 상대의 무공을 그대로 돌려주는 두전성이(斗轉星移)로 강호에 이름이 높다.",
+    "tier_tag": "정통고증",
+    "tier_note": "김용 『천룡팔부』 고소 모용씨 설정을 근간으로 하되 한국 무협 웹소설의 유성검·환천신기를 함께 수록함",
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「모용세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hebei_peng",
+    "name_kr": "하북팽가",
+    "name_hanja": "河北彭家",
+    "alias": [
+      "팽가도문(彭家刀門)"
+    ],
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": "무림맹(武林盟)",
+    "alignment_note": null,
+    "region": {
+      "province": "하북성(河北省) 보정시(保定市)",
+      "mountain": "보정(保定) 팽가장(彭家莊)",
+      "map_position": {
+        "x": 1948,
+        "y": 806
+      },
+      "geo": {
+        "lat": 38.874,
+        "lng": 115.4646
+      },
+      "coord_note": "하북 보정 기준. 하북성 북경 일대설도 통용된다."
+    },
+    "philosophy": "역강역직(力强力直)",
+    "signature_arts": [
+      "ohodanmundo",
+      "honwon_byeokryeok_singong",
+      "yuga_singong",
+      "danmun_jin"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "paeng_ak",
+        "role": "가주"
+      },
+      {
+        "figure_id": "paeng_ho",
+        "role": "차남·도객(刀客)"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "nangong",
+        "type": "동맹",
+        "note": "세가연맹의 한 축. 검가와 도가의 대비"
+      },
+      {
+        "sect_id": "sichuan_tang",
+        "type": "경쟁",
+        "note": "오대세가 서열 다툼"
+      }
+    ],
+    "summary": "도(刀)를 쓰는 사실상 유일한 명문 세가. 타고난 신력과 큰 체구로 정면에서 눌러 버리는 가풍을 지녔다.",
+    "tier_tag": "신무협",
+    "tier_note": "오대세가 체계는 한국 무협 관습.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「하북팽가」",
+        "author": null
+      },
+      {
+        "work": "네이버 블로그 「무림문파 - 정파 편(4) 오대세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "sichuan_tang",
+    "name_kr": "사천당가",
+    "name_hanja": "四川唐家",
+    "alias": [
+      "당문(唐門)",
+      "천하제일독문(天下第一毒門)"
+    ],
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": null,
+    "alignment_note": "정파로 분류하되, 독(毒)과 암기(暗器)를 앞세워 정사(正邪)의 경계에 서 있는 가문이다.",
+    "region": {
+      "province": "사천성(四川省) 성도시(成都市)",
+      "mountain": "성도(成都) 당가포(唐家堡)",
+      "map_position": {
+        "x": 1460,
+        "y": 1217
+      },
+      "geo": {
+        "lat": 30.66,
+        "lng": 104.06
+      },
+      "coord_note": "사천 성도 기준. 당문은 작품에 따라 사천성 동부(重慶 일대)로도 설정된다."
+    },
+    "philosophy": "유은필보(有恩必報) · 유원필상(有怨必償)",
+    "signature_arts": [
+      "mancheon_hwau",
+      "pokwu_ihwachim",
+      "muhyeong_jidok",
+      "banwon_samyanggong",
+      "cheontae_gugung_sinbeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "dang_cheonung",
+        "role": "가주"
+      },
+      {
+        "figure_id": "dang_soha",
+        "role": "독방(毒房) 당수"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "qingcheng",
+        "type": "경쟁",
+        "note": "사천 안에서 암기·독의 명가 자리를 다툼"
+      },
+      {
+        "sect_id": "emei",
+        "type": "경쟁",
+        "note": "사천삼독(四川三毒)으로 묶여 불리는 이웃"
+      },
+      {
+        "sect_id": "namman",
+        "type": "경쟁",
+        "note": "독공의 원류를 두고 남만과 견제"
+      }
+    ],
+    "summary": "독(毒)과 암기(暗器)의 가문. 폐쇄적이고 은원을 철저히 갚는 것으로 유명하며, 정파이면서 사파의 경계에 서 있다.",
+    "tier_tag": "신무협",
+    "tier_note": "03_taxonomy: 오대세가는 신무협 태그. 독·암기로 정사 경계에 있음은 alignment_note에 적음.",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「청성파」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「사천당가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "cheonma",
+    "name_kr": "천마신교",
+    "name_hanja": "天魔神敎",
+    "alias": [
+      "마교(魔敎, 정파의 멸칭)"
+    ],
+    "faction": "마교",
+    "sub_faction": "마교",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "신강 위구르자치구(新疆維吾爾自治區) 톈산 산맥(天山山脈)",
+      "mountain": "천산(天山) 천마궁(天魔宮)",
+      "map_position": {
+        "x": 720,
+        "y": 595
+      },
+      "geo": {
+        "lat": 43.1,
+        "lng": 86.8
+      },
+      "coord_note": "톈산 산맥 중부 기준. 실제 십만대산(十萬大山)은 광서 남부 중국–베트남 국경이며, 한국 무협은 이름만 빌려 서역에 두는 경우가 많다."
+    },
+    "philosophy": "강자위존(强者爲尊)",
+    "signature_arts": [
+      "cheonma_singong",
+      "cheonma_gunrimbo"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "cheonma_cho",
+        "role": "초대 교주"
+      },
+      {
+        "figure_id": "cheonma_singun",
+        "role": "교주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "kunlun",
+        "type": "숙적",
+        "note": "중원으로 나오는 길목의 첫 방벽"
+      },
+      {
+        "sect_id": "kongtong",
+        "type": "숙적",
+        "note": "천산과 마주한 서북 전선"
+      },
+      {
+        "sect_id": "irwol",
+        "type": "경쟁",
+        "note": "마교의 정통을 두고 견제. 교리와 계보가 다르다"
+      }
+    ],
+    "summary": "천마(天魔)를 정점으로 세운 마교. 정파가 붙인 '마교'라는 멸칭을 스스로는 인정하지 않고 천마신교라 부른다.",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「천마(무협)」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「천마신교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "myeonggyo",
+    "name_kr": "명교",
+    "name_hanja": "明敎",
+    "alias": [
+      "대운광명교(大雲光明敎)",
+      "배화교(拜火敎, 정파의 호칭)"
+    ],
+    "faction": "마교",
+    "sub_faction": "마교",
+    "alliance": null,
+    "alignment_note": "원작에서 마교로 몰렸을 뿐, 성화(聖火)를 받들어 중생을 구하는 교단으로 성격이 사파와 다르다.",
+    "region": {
+      "province": "신강 위구르자치구(新疆維吾爾自治區) 곤륜산(崑崙山)",
+      "mountain": "광명정(光明頂)",
+      "map_position": {
+        "x": 471,
+        "y": 985
+      },
+      "geo": {
+        "lat": 35.3,
+        "lng": 81.0
+      },
+      "coord_note": "곤륜산 서단에 두는 통설 위치. 원작은 광명정의 정확한 좌표를 밝히지 않아 지도상 가상 위치로 표시한다."
+    },
+    "philosophy": "성화(聖火)를 받들어 중생을 구한다 — 중생구고(衆生救苦)",
+    "signature_arts": [
+      "geongon_daenai",
+      "seonghwaryeong_mugong",
+      "hanbing_myeonjang",
+      "ohaenggi_jeonbeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jang_mugi",
+        "role": "제34대 교주"
+      },
+      {
+        "figure_id": "yang_so",
+        "role": "광명좌사(光明左使)"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "kunlun",
+        "type": "숙적",
+        "note": "광명정을 둘러싼 영역 갈등"
+      },
+      {
+        "sect_id": "shaolin",
+        "type": "숙적",
+        "note": "육대문파의 광명정 포위"
+      },
+      {
+        "sect_id": "wudang",
+        "type": "중립",
+        "note": "장무기를 매개로 오해가 풀린 관계"
+      }
+    ],
+    "summary": "페르시아 마니교에서 비롯되어 중원에 들어온 교단. 성화(聖火)를 섬기고 오행기(五行旗)라 불리는 부대를 거느려 조직이 군대에 가깝다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "의천도룡기(倚天屠龍記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「명교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "irwol",
+    "name_kr": "일월신교",
+    "name_hanja": "日月神敎",
+    "alias": [
+      "흑목애(黑木崖) 마교"
+    ],
+    "faction": "마교",
+    "sub_faction": "마교",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "산서성(山西省) 양천시 평정현(陽泉市 平定縣)",
+      "mountain": "흑목애(黑木崖)",
+      "map_position": {
+        "x": 1870,
+        "y": 860
+      },
+      "geo": {
+        "lat": 37.79,
+        "lng": 113.63
+      },
+      "coord_note": "원작은 하북 평정주(平定州)라 하나 실제 평정은 산서성에 속한다. 흑목애 자체는 가상의 절벽이다."
+    },
+    "philosophy": "천추만재 일통강호(千秋萬載 一統江湖)",
+    "signature_arts": [
+      "gyuhwabojeon",
+      "heupseong_daebeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "dongbang_bulpae",
+        "role": "교주"
+      },
+      {
+        "figure_id": "im_ahaeng",
+        "role": "전대 교주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "숙적",
+        "note": "오악검파와의 정마 대립"
+      },
+      {
+        "sect_id": "shaolin",
+        "type": "숙적",
+        "note": "정파 연합의 주적"
+      },
+      {
+        "sect_id": "cheonma",
+        "type": "경쟁",
+        "note": "마교의 정통을 두고 견제"
+      }
+    ],
+    "summary": "명(明)을 일(日)과 월(月)로 파자해 세운 마교. 교주 자리를 둘러싼 찬탈과 세뇌의 역사가 문파의 어두운 얼굴이다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「마교」",
+        "author": null
+      },
+      {
+        "work": "강호지 무협백과 「일월신교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "haomun",
+    "name_kr": "하오문",
+    "name_hanja": "下汚門",
+    "alias": [
+      "천하기문(天下奇門)"
+    ],
+    "faction": "사파",
+    "sub_faction": "사파",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "하남성(河南省) 낙양시(洛陽市)",
+      "mountain": "낙양(洛陽) 저잣거리",
+      "map_position": {
+        "x": 1819,
+        "y": 1019
+      },
+      "geo": {
+        "lat": 34.62,
+        "lng": 112.454
+      },
+      "coord_note": "낙양 성내 저잣거리 기준. 하오문은 특정 산문이 없어 도시를 근거지로 삼는다."
+    },
+    "philosophy": "이권무죄(利權無罪)",
+    "signature_arts": [
+      "cheonmyeon_byeonjang",
+      "jeomhyeolsu",
+      "mihonhyang_monghanyak",
+      "tusul_myosugonggong",
+      "baekjeon_sipdangong",
+      "haomun_jeongbomang"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "dam_yeohae",
+        "role": "문주"
+      },
+      {
+        "figure_id": "ma_chil",
+        "role": "낙양 분타 두목"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "gaibang",
+        "type": "숙적",
+        "note": "도시 하층 정보망을 둘러싼 신경전"
+      },
+      {
+        "sect_id": "nokrim",
+        "type": "동맹",
+        "note": "사도련(邪道聯)으로 묶인 느슨한 협력"
+      },
+      {
+        "sect_id": "nangong",
+        "type": "숙적",
+        "note": "표국 이권과 정보 판매 충돌"
+      }
+    ],
+    "summary": "차(마부)·선(뱃사공)·점(점소이)·각(짐꾼)·아(중개업자) 등 하층 생업인들이 모인 사파 최대 정보 조직. 무력은 약하나 점조직 특성상 아무리 토벌해도 살아남으며, 개방의 직접 탐문과 달리 일상에서 흘러나온 소문을 종합해 강호에 판다.",
+    "tier_tag": "신무협",
+    "tier_note": "하오문은 한국 신무협에서 정착한 사파 세력명.",
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "nokrim",
+    "name_kr": "녹림십이채",
+    "name_hanja": "綠林七十二寨",
+    "alias": [
+      "녹림(綠林)",
+      "녹림칠십이채"
+    ],
+    "faction": "사파",
+    "sub_faction": "사파",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "호북성(湖北省) 경산시(京山市)",
+      "mountain": "녹림산(綠林山)",
+      "map_position": {
+        "x": 1841,
+        "y": 1182
+      },
+      "geo": {
+        "lat": 31.35,
+        "lng": 112.95
+      },
+      "coord_note": "호북 녹림산 기준. 후한 말 녹림군(綠林軍)이 일어난 곳으로 전해진다."
+    },
+    "philosophy": "산중무왕법(山中無王法)",
+    "signature_arts": [
+      "nakcho_dobeop",
+      "nokrim_yeonhwanjin"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "nokrimwang",
+        "role": "총채주(總寨主)"
+      },
+      {
+        "figure_id": "du_man",
+        "role": "제3채 채주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "janggang",
+        "type": "동맹",
+        "note": "사도련의 느슨한 협력. 육로와 수로의 분업"
+      },
+      {
+        "sect_id": "gaibang",
+        "type": "숙적",
+        "note": "통행세와 산채 소탕 문제"
+      },
+      {
+        "sect_id": "haomun",
+        "type": "동맹",
+        "note": "장물 유통과 정보 거래"
+      }
+    ],
+    "summary": "산에 자리 잡은 산적·마적·초적의 연합. 72개 산채가 느슨하게 묶여 있으며, 수장은 녹림왕(綠林王)이라 불린다.",
+    "tier_tag": "신무협",
+    "tier_note": "녹림십이채의 '십이채' 편성은 한국 무협 관습(작품마다 채 수가 다름).",
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "janggang",
+    "name_kr": "장강수로채",
+    "name_hanja": "長江水路寨",
+    "alias": [
+      "장강수로십팔채(長江水路十八寨)",
+      "동정십팔채(洞庭十八寨)"
+    ],
+    "faction": "사파",
+    "sub_faction": "사파",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "호남성(湖南省) 악양시(岳陽市)",
+      "mountain": "동정호(洞庭湖)",
+      "map_position": {
+        "x": 1848,
+        "y": 1281
+      },
+      "geo": {
+        "lat": 29.37,
+        "lng": 113.13
+      },
+      "coord_note": "동정호 일대 기준. 실제 수채는 장강 중류 각지에 흩어져 있다."
+    },
+    "philosophy": "수향수왕(水鄕水王)",
+    "signature_arts": [
+      "suryong_dobeop",
+      "sujung_jamyeongbeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jeok_segwang",
+        "role": "총채주·흑룡왕(黑龍王)"
+      },
+      {
+        "figure_id": "jin_so",
+        "role": "제7채 채주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "nokrim",
+        "type": "동맹",
+        "note": "사도련의 느슨한 협력"
+      },
+      {
+        "sect_id": "gaibang",
+        "type": "숙적",
+        "note": "나루와 통행세 분쟁"
+      },
+      {
+        "sect_id": "nangong",
+        "type": "숙적",
+        "note": "표국선 습격"
+      }
+    ],
+    "summary": "장강 전체를 아우르는 수적 연합. 물 위에서는 정파 대방파도 함부로 건너지 못하며, 통행세를 내면 배는 무사히 지나간다.",
+    "tier_tag": "신무협",
+    "tier_note": "장강수로채라는 조직 구성은 한국 신무협 관습.",
+    "sources": [
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "bukhai",
+    "name_kr": "북해빙궁",
+    "name_hanja": "北海氷宮",
+    "alias": [
+      "빙궁(氷宮)"
+    ],
+    "faction": "세외",
+    "sub_faction": "세외",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "러시아 부랴트 공화국(바이칼호 남단)",
+      "mountain": "북해(北海) 빙원",
+      "map_position": {
+        "x": 1637,
+        "y": 75
+      },
+      "geo": {
+        "lat": 53.5,
+        "lng": 108.2
+      },
+      "coord_note": "바이칼호 남단 기준. 북해의 실제 지리는 확정 불가로, 발해만설·바이칼호설·투바 포르바진 유적설이 병존한다."
+    },
+    "philosophy": "지한극열(至寒克熱)",
+    "signature_arts": [
+      "bingbaek_sinjang",
+      "hanok_jingi"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "seol_cheon_sang",
+        "role": "궁주"
+      },
+      {
+        "figure_id": "seol_mu_han",
+        "role": "전대 궁주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "moyong",
+        "type": "중립",
+        "note": "선비족 계보로 정서적 거리가 가깝다"
+      },
+      {
+        "sect_id": "potala",
+        "type": "중립",
+        "note": "새외오궁(塞外五宮)으로 묶여 불리는 이웃"
+      },
+      {
+        "sect_id": "cheonma",
+        "type": "숙적",
+        "note": "빙정(氷精) 채굴과 인신 공급을 둘러싼 결탁과 배신"
+      }
+    ],
+    "summary": "중원 한참 북쪽 빙원에 자리한 궁. 빙정(氷精)을 보물로 삼고, 음한(陰寒)한 기운을 다루는 무공으로 중원의 열기를 누른다.",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「북해빙궁」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "potala",
+    "name_kr": "포달랍궁",
+    "name_hanja": "布達拉宮",
+    "alias": [
+      "서장 라마교 왕궁"
+    ],
+    "faction": "세외",
+    "sub_faction": "세외",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "서장자치구(西藏自治區) 라싸시(拉薩市)",
+      "mountain": "홍산(紅山) 포달랍궁",
+      "map_position": {
+        "x": 905,
+        "y": 1267
+      },
+      "geo": {
+        "lat": 29.6578,
+        "lng": 91.1172
+      },
+      "coord_note": "라싸 홍산 포탈라궁 기준. 실제 종교 시설을 모티프로 한 무협 설정이다."
+    },
+    "philosophy": "밀종호법(密宗護法)",
+    "signature_arts": [
+      "daesuin",
+      "miljong_geumganggong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "gonggak",
+        "role": "법왕(法王)"
+      },
+      {
+        "figure_id": "roe_deok",
+        "role": "밀승(密僧)·호법"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "bukhai",
+        "type": "중립",
+        "note": "새외오궁의 한 축"
+      },
+      {
+        "sect_id": "shaolin",
+        "type": "경쟁",
+        "note": "불가의 정통을 두고 미묘한 긴장"
+      },
+      {
+        "sect_id": "cheonma",
+        "type": "숙적",
+        "note": "서역의 교단 세력을 둘러싼 다툼"
+      }
+    ],
+    "summary": "서장(西藏)의 라마교 왕궁. 중원 불가와 달리 사이(邪異)한 기운을 쓰는 것으로 그려지며, 법왕(法王)을 정점으로 한 교단 조직이다.",
+    "tier_tag": "신무협",
+    "tier_note": "포달랍궁을 세외 세력으로 배치한 것은 한국 무협 관습(03_taxonomy: 세외는 대부분 신무협).",
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "namman",
+    "name_kr": "남만야수궁",
+    "name_hanja": "南蠻野獸宮",
+    "alias": [
+      "만수궁(蠻獸宮)"
+    ],
+    "faction": "세외",
+    "sub_faction": "세외",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "운남성(雲南省) 시솽반나(西雙版納)",
+      "mountain": "남만(南蠻) 밀림",
+      "map_position": {
+        "x": 1320,
+        "y": 1650
+      },
+      "geo": {
+        "lat": 22.0,
+        "lng": 100.8
+      },
+      "coord_note": "시솽반나 밀림 기준. 무협의 남만은 베트남·동남아를 포함하는 개념으로 쓰인다."
+    },
+    "philosophy": "이수어수(以獸御獸)",
+    "signature_arts": [
+      "odokjang",
+      "sanghyeong_yasugwon"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "maeng_so",
+        "role": "궁주"
+      },
+      {
+        "figure_id": "odok_dongja",
+        "role": "독방(毒房) 주인"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "diancang",
+        "type": "숙적",
+        "note": "국경 밀림의 영역 다툼"
+      },
+      {
+        "sect_id": "sichuan_tang",
+        "type": "경쟁",
+        "note": "독공의 원류를 두고 견제"
+      },
+      {
+        "sect_id": "bukhai",
+        "type": "중립",
+        "note": "새외오궁. 물과 불처럼 대비되는 이웃"
+      }
+    ],
+    "summary": "남만 밀림의 수왕(獸王)이 이끄는 궁. 독충과 맹수를 부리고, 짐승의 움직임을 본뜬 권법을 쓴다.",
+    "tier_tag": "신무협",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "나무위키 「새외무림」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      },
+      {
+        "work": "나무위키 「문파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hwangbo",
+    "name_kr": "황보세가",
+    "name_hanja": "皇甫世家",
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": "무림맹",
+    "alignment_note": null,
+    "region": {
+      "province": "산동성(山東省) 제남시(濟南市)",
+      "mountain": null,
+      "map_position": {
+        "x": 2019,
+        "y": 917
+      },
+      "geo": {
+        "lat": 36.6512,
+        "lng": 117.1201
+      },
+      "coord_note": "한국 무협·웹툰에서 산동성 제남·태안 일대를 본거지로 설정함"
+    },
+    "philosophy": "강맹무쌍(剛猛無雙)",
+    "signature_arts": [
+      "yeojo_cheonwangmu",
+      "namhwa_geomryeongsik",
+      "yeojo_cheonwanggyeong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "hwangbo_seong",
+        "role": "가주"
+      },
+      {
+        "figure_id": "hwangbo_taeyeom",
+        "role": "후기지수"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "hebei_peng",
+        "type": "경쟁",
+        "note": "권곤과 도법의 외가 명문으로 세가 패권을 다툼"
+      },
+      {
+        "sect_id": "nangong",
+        "type": "동맹",
+        "note": "무림맹 내 주요 세가 연합"
+      }
+    ],
+    "summary": "산동성에 자리한 칠대세가(七大世家) 중 하나. 풍채가 당당하고 신력이 뛰어나 권장지각(拳掌之脚)과 중병기 무공에 능하다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      },
+      {
+        "work": "괴력 난신(怪力亂神)",
+        "author": "한중월야"
+      },
+      {
+        "work": "시한부 천재가 살아남는 법",
+        "author": "청어람"
+      }
+    ]
+  },
+  {
+    "id": "dokgo",
+    "name_kr": "독고세가",
+    "name_hanja": "獨孤世家",
+    "faction": "정파",
+    "sub_faction": "칠대세가",
+    "alliance": "은거세가",
+    "alignment_note": "작품에 따라 정파 검가 또는 은둔·마교 계보로 그려짐",
+    "region": {
+      "province": "산서성(山西省) 태원시(太原市)",
+      "mountain": "여량산(呂梁山)",
+      "map_position": {
+        "x": 1824,
+        "y": 856
+      },
+      "geo": {
+        "lat": 37.8706,
+        "lng": 112.5489
+      },
+      "coord_note": "독고구패 전승을 잇는 은거 검가로, 산서성 태원 일대로 비정"
+    },
+    "philosophy": "유초승무초(有招勝無招)",
+    "signature_arts": [
+      "dokgo_singeom",
+      "musang_geomgyeol",
+      "dokgo_sinbo"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "dokgo_won",
+        "role": "가주"
+      },
+      {
+        "figure_id": "dokgo_cheon",
+        "role": "태상장로"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "우호",
+        "note": "독고구검 전승과 검도 교류"
+      }
+    ],
+    "summary": "검마 독고구패(獨孤求敗)의 이치를 가전으로 삼은 칠대세가(七大世家)의 신비 검가. 세속을 멀리하나 일인일검으로 천하를 압도한다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「무림세가」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hengshan",
+    "name_kr": "항산파",
+    "name_hanja": "恒山派",
+    "faction": "정파",
+    "sub_faction": "오악검파",
+    "alliance": "오악검파",
+    "alignment_note": null,
+    "region": {
+      "province": "산서성(山西省) 대동시 혼원현(大同市 渾源縣)",
+      "mountain": "북악 항산(北嶽 恒山)",
+      "map_position": {
+        "x": 1874,
+        "y": 766
+      },
+      "geo": {
+        "lat": 39.674,
+        "lng": 113.732
+      },
+      "coord_note": null
+    },
+    "philosophy": "자비호생(慈悲護生)",
+    "signature_arts": [
+      "hangsan_geombeop",
+      "myeonri_jangchim"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jeongil_satae",
+        "role": "장문인"
+      },
+      {
+        "figure_id": "uirim",
+        "role": "일대제자"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "동맹",
+        "note": "오악검파 맹우이자 영호충이 장문을 도운 인연"
+      },
+      {
+        "sect_id": "songshan",
+        "type": "적대",
+        "note": "오악 병합을 노린 숭산파의 습격을 받음"
+      }
+    ],
+    "summary": "북악 항산에 자리한 비구니 문파이자 오악검파의 일원. 겉은 부드러우나 속에 가시를 감춘 수비 검법 면리장침(綿裏藏針)이 절기다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「항산파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "henan_hengshan",
+    "name_kr": "형산파",
+    "name_hanja": "衡山派",
+    "faction": "정파",
+    "sub_faction": "오악검파",
+    "alliance": "오악검파",
+    "alignment_note": null,
+    "region": {
+      "province": "호남성(湖南省) 형양시 남악구(衡陽市 南嶽區)",
+      "mountain": "남악 형산(南嶽 衡山)",
+      "map_position": {
+        "x": 1831,
+        "y": 1387
+      },
+      "geo": {
+        "lat": 27.256,
+        "lng": 112.716
+      },
+      "coord_note": null
+    },
+    "philosophy": "음률입검(音律入劍)",
+    "signature_arts": [
+      "hoepung_nakan_geom",
+      "unmu_sipsamsik"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "makdae_seonsaeng",
+        "role": "장문인"
+      },
+      {
+        "figure_id": "yoo_jeongpung",
+        "role": "태상장로급 고수"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "동맹",
+        "note": "오악검파 맹우"
+      },
+      {
+        "sect_id": "songshan",
+        "type": "갈등",
+        "note": "유정풍 금분세수 사건으로 숭산파와 충돌"
+      }
+    ],
+    "summary": "남악 형산에 뿌리를 둔 오악검파의 일원. 거문고·호금의 음률을 검세에 실어 한 칼에 수십 가지 변화를 엮어 낸다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「형산파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taishan",
+    "name_kr": "태산파",
+    "name_hanja": "泰山派",
+    "faction": "정파",
+    "sub_faction": "오악검파",
+    "alliance": "오악검파",
+    "alignment_note": null,
+    "region": {
+      "province": "산동성(山東省) 태안시(泰安市)",
+      "mountain": "동악 태산(東嶽 泰山)",
+      "map_position": {
+        "x": 2019,
+        "y": 937
+      },
+      "geo": {
+        "lat": 36.256,
+        "lng": 117.101
+      },
+      "coord_note": null
+    },
+    "philosophy": "태산여좌(泰山如坐)",
+    "signature_arts": [
+      "taesan_sippalban",
+      "chilseong_nakjang"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "cheonmun_doin",
+        "role": "장문인"
+      },
+      {
+        "figure_id": "okgi_sanin",
+        "role": "숙부 원로"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "동맹",
+        "note": "오악검파 맹우"
+      },
+      {
+        "sect_id": "songshan",
+        "type": "갈등",
+        "note": "숭산파의 내분 공작에 휘말림"
+      }
+    ],
+    "summary": "동악 태산에 자리한 도가 검파이자 오악검파의 일원. 가파른 산세를 본뜬 태산십팔반(泰山十八盤) 검법으로 중후한 기세를 펼친다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「오악검파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "songshan",
+    "name_kr": "숭산파",
+    "name_hanja": "嵩山派",
+    "faction": "정파",
+    "sub_faction": "오악검파",
+    "alliance": "오악검파",
+    "alignment_note": "겉은 정파 오악검파 맹주이나 실제 행적은 야심과 권모에 치우침",
+    "region": {
+      "province": "하남성(河南省) 정주시 등봉시(鄭州市 登封市)",
+      "mountain": "중악 숭산 태실산(中嶽 嵩山 太室山)",
+      "map_position": {
+        "x": 1845,
+        "y": 1026
+      },
+      "geo": {
+        "lat": 34.485,
+        "lng": 113.04
+      },
+      "coord_note": "같은 숭산의 소림사(소실산)와 구분되는 태실산 일대 거점"
+    },
+    "philosophy": "오악병합(五嶽倂合)",
+    "signature_arts": [
+      "sungsan_geombeop",
+      "hanbing_jingi"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jwa_naengseon",
+        "role": "장문인·오악맹주"
+      },
+      {
+        "figure_id": "bi_bin",
+        "role": "태보"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "적대",
+        "note": "오악 병합을 둘러싸고 화산파와 대립"
+      },
+      {
+        "sect_id": "shaolin",
+        "type": "경쟁",
+        "note": "같은 숭산에 자리해 무림 주도권을 의식함"
+      }
+    ],
+    "summary": "중악 숭산 태실산에 자리한 오악검파의 맹주 문파. 좌냉선이 13태보를 거느리고 오악을 하나로 묶어 소림·무당과 어깨를 나란히 하려 했다.",
+    "tier_tag": "정통고증",
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「오악검파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "blood_sect",
+    "name_kr": "혈교",
+    "name_hanja": "血敎",
+    "faction": "사파",
+    "sub_faction": "사교",
+    "alliance": "사패련",
+    "alignment_note": "정파·사파·마교 모두에게 경계받는 극단적 혈공 사교 집단",
+    "region": {
+      "province": "영하회족자치구(寧夏回族自治區) 기련산(祁連山)",
+      "mountain": "기련산 혈궁(祁連山 血宮)",
+      "map_position": {
+        "x": 1307,
+        "y": 825
+      },
+      "geo": {
+        "lat": 38.5,
+        "lng": 100.5
+      },
+      "coord_note": "한국 무협 통설의 영하성 기련산 거점 기준"
+    },
+    "philosophy": "혈해강림(血海降臨)",
+    "signature_arts": [
+      "hyeolma_singong",
+      "hyeolsu_suragyeol"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "hyeolma",
+        "role": "혈교 교주"
+      },
+      {
+        "figure_id": "hyeolgungju",
+        "role": "마라혈궁 궁주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "cheonma",
+        "type": "적대",
+        "note": "마교와 혈교는 한국 무협에서 숙적 관계로 자주 그려짐"
+      },
+      {
+        "sect_id": "shaolin",
+        "type": "적대",
+        "note": "정사대전의 최전선 충돌"
+      }
+    ],
+    "summary": "한국 무협·웹툰에서 인신공양과 혈공(血功)·강시술을 앞세우는 극악한 사교 집단. 정파는 물론 마교와도 불구대천의 원수로 얽힌다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "나무위키 「혈교」",
+        "author": null
+      },
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      }
+    ]
+  },
+  {
+    "id": "maninbang",
+    "name_kr": "만인방",
+    "name_hanja": "萬人房",
+    "faction": "사파",
+    "sub_faction": "신주오패",
+    "alliance": "사패련",
+    "alignment_note": null,
+    "region": {
+      "province": "절강성(浙江省) 항주시(杭州市)",
+      "mountain": null,
+      "map_position": {
+        "x": 2150,
+        "y": 1236
+      },
+      "geo": {
+        "lat": 30.2741,
+        "lng": 120.1551
+      },
+      "coord_note": "『화산귀환』 사패련·강남 거점 맥락 기준 항주 비정"
+    },
+    "philosophy": "패도군림(覇道君臨)",
+    "signature_arts": [
+      "paegun_hwanyoung_jang",
+      "paedo_samgwang_sal"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jang_ilso",
+        "role": "방주·사패련주"
+      },
+      {
+        "figure_id": "ho_gamyeong",
+        "role": "군사·독심나찰"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "적대",
+        "note": "천우맹과 사패련의 총력 대립"
+      },
+      {
+        "sect_id": "haomun",
+        "type": "동맹",
+        "note": "사패련 산하 핵심 사파 세력"
+      }
+    ],
+    "summary": "『화산귀환』에서 신주오패(神州五覇)를 규합해 사패련(邪覇聯)을 일으킨 패권 사파. 패군 장일소의 지략과 잔혹한 무력으로 강호를 뒤흔든다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      },
+      {
+        "work": "나무위키 「장일소」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "hainan",
+    "name_kr": "해남파",
+    "name_hanja": "海南派",
+    "faction": "정파",
+    "sub_faction": "해외정파",
+    "alliance": "천우맹",
+    "alignment_note": null,
+    "region": {
+      "province": "해남성(海南省) 오지산시(五指山市)",
+      "mountain": "오지산(五指山)",
+      "map_position": {
+        "x": 1694,
+        "y": 1811
+      },
+      "geo": {
+        "lat": 18.775,
+        "lng": 109.517
+      },
+      "coord_note": null
+    },
+    "philosophy": "창해무애(滄海無涯)",
+    "signature_arts": [
+      "changhae_geombeop",
+      "parang_joseok_gong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "hyeonun_doin",
+        "role": "장문인"
+      },
+      {
+        "figure_id": "hae_mujin",
+        "role": "수석장로"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "huashan",
+        "type": "동맹",
+        "note": "해남의 위기를 넘긴 뒤 천우맹에 합류"
+      }
+    ],
+    "summary": "남해 끝 해남도 오지산에 자리한 정파 문파. 거친 파도의 호흡을 닮은 검법과 수전(水戰) 감각이 뛰어나며, 근래 웹툰에서 천우맹의 축으로 활약한다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "nanhai_sun",
+    "name_kr": "남해태양궁",
+    "name_hanja": "南海太陽宮",
+    "faction": "세외",
+    "sub_faction": "세외오궁",
+    "alliance": "사패련",
+    "alignment_note": "세외 궁이나 사패련과 손잡고 중원 정벌에 나섬",
+    "region": {
+      "province": "광동성(廣東省) 잠강시(湛江市)",
+      "mountain": "남해 열도(南海 列島)",
+      "map_position": {
+        "x": 1730,
+        "y": 1686
+      },
+      "geo": {
+        "lat": 21.27,
+        "lng": 110.36
+      },
+      "coord_note": "남해 연안과 열도를 잇는 거점으로 잠강 남해안 비정"
+    },
+    "philosophy": "열양염천(烈陽炎天)",
+    "signature_arts": [
+      "taeyang_singong",
+      "yeoryang_yeomjang"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jin_pyeong",
+        "role": "궁주·태양존자"
+      },
+      {
+        "figure_id": "taeyang_saja",
+        "role": "수석호법"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "maninbang",
+        "type": "동맹",
+        "note": "하오문의 중재로 사패련에 가담"
+      },
+      {
+        "sect_id": "bukhai",
+        "type": "대립",
+        "note": "극열의 양기와 극한의 음기가 맞서는 세외 양축"
+      }
+    ],
+    "summary": "남쪽 바다 열도에 자리한 세외 세력. 한랭한 북해빙궁과 정반대로 작열하는 태양의 양기 내공과 염열 장법을 숭상한다.",
+    "tier_tag": "신무협",
+    "sources": [
+      {
+        "work": "화산귀환(華山歸還)",
+        "author": "비가"
+      },
+      {
+        "work": "나무위키 「화산귀환/등장인물」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "xingxiu",
+    "name_kr": "성수파",
+    "name_hanja": "星宿派",
+    "alias": [
+      "성수노선파(星宿老仙派)"
+    ],
+    "faction": "사파",
+    "sub_faction": "서역 사파",
+    "alliance": null,
+    "alignment_note": "서역에 근거를 두어 세외로 분류하기도 한다.",
+    "region": {
+      "province": "청해성(青海省) 성수해(星宿海) 일대",
+      "mountain": "성수해(星宿海)",
+      "map_position": {
+        "x": 1196,
+        "y": 1008
+      },
+      "geo": {
+        "lat": 34.9,
+        "lng": 97.9
+      },
+      "coord_note": "황하 발원지인 성수해 일대의 통설 위치. 원작은 정확한 근거지를 밝히지 않는다."
+    },
+    "philosophy": null,
+    "signature_arts": [
+      "hwagong_daebeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "jeong_chunchu",
+        "role": "장문인(창파조사)"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "shaolin",
+        "type": "적대",
+        "note": "소림사 영웅대회 끝에 장문인 정춘추가 제압되어 소림에 갇힌다"
+      }
+    ],
+    "summary": "서역 성수해에 터를 잡은 독공 문파. 장문인 정춘추를 떠받드는 아첨이 문풍(門風)일 만큼 제자들이 스승을 찬양하는 데 열을 올리고, 독과 화공대법으로 상대의 내력을 녹여 강호의 미움을 샀다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "천룡팔부(天龍八部)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「성수파」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "shenlong",
+    "name_kr": "신룡교",
+    "name_hanja": "神龍敎",
+    "alias": [],
+    "faction": "사파",
+    "sub_faction": "사교(邪敎)",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "요동(遼東) 앞바다",
+      "mountain": "신룡도(神龍島)",
+      "map_position": {
+        "x": 2194,
+        "y": 803
+      },
+      "geo": {
+        "lat": 38.9,
+        "lng": 121.2
+      },
+      "coord_note": "요동반도 앞바다의 가상 섬. 원작 속 신룡도는 실제 지명이 아니다."
+    },
+    "philosophy": null,
+    "signature_arts": [
+      "yeongung_samcho"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "hong_antong",
+        "role": "교주"
+      }
+    ],
+    "relations": [],
+    "summary": "요동 앞바다 신룡도를 본거지로 한 교단. 교주 홍안통을 신처럼 받들게 하고, 교도들에게 해독약을 쥐고 흔드는 독약을 먹여 충성을 강요했다. 독사를 길러 부리는 것으로도 이름이 났다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "녹정기(鹿鼎記)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「신룡교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "wudu",
+    "name_kr": "오독교",
+    "name_hanja": "五毒敎",
+    "alias": [
+      "오선교(五仙敎)"
+    ],
+    "faction": "사파",
+    "sub_faction": "묘강(苗疆) 사파",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "운남성(雲南省) 묘강(苗疆)",
+      "mountain": null,
+      "map_position": {
+        "x": 1423,
+        "y": 1472
+      },
+      "geo": {
+        "lat": 25.6,
+        "lng": 103.2
+      },
+      "coord_note": "운남·귀주 묘족 거주지(묘강)의 통설 위치."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [
+      {
+        "figure_id": "nam_bonghwang",
+        "role": "교주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "irwol",
+        "type": "우호",
+        "note": "『소오강호』에서 교주 남봉황이 일월신교 성고 임영영의 뜻을 따른다"
+      }
+    ],
+    "summary": "운남 묘강에서 뱀·전갈·지네·거미·두꺼비의 다섯 독물을 기르고 독을 다루는 교단. 중원 정파는 사교로 꺼리지만, 교도들은 스스로 묘족의 오랜 풍속을 지킨다고 여긴다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "소오강호(笑傲江湖)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "벽혈검(碧血劍)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「오독교」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "xuedao",
+    "name_kr": "혈도문",
+    "name_hanja": "血刀門",
+    "alias": [
+      "혈도승(血刀僧)"
+    ],
+    "faction": "사파",
+    "sub_faction": "서장 사파",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "서장(西藏) 일대",
+      "mountain": null,
+      "map_position": {
+        "x": 921,
+        "y": 1204
+      },
+      "geo": {
+        "lat": 31.0,
+        "lng": 91.5
+      },
+      "coord_note": "서장 밀종 계열이라는 원작 설정에 따른 대략적 위치."
+    },
+    "philosophy": null,
+    "signature_arts": [
+      "hyeoldo_dobeop"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "hyeoldo_nojo",
+        "role": "장문"
+      }
+    ],
+    "relations": [],
+    "summary": "서장 밀종에서 갈라져 나온 사파 승려 집단. 피를 먹인 듯 붉은 얇은 칼을 쓰고 잔인하기로 이름났으며, 문중 비급 『혈도경(血刀經)』에 칼 쓰는 법과 내공 수련법이 함께 담겼다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "연성결(連城訣)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「혈도문」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "tiezhang",
+    "name_kr": "철장방",
+    "name_hanja": "鐵掌幇",
+    "alias": [],
+    "faction": "사파",
+    "sub_faction": "방회(幇會)",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "호남성(湖南省) 서부",
+      "mountain": "철장봉(鐵掌峰)",
+      "map_position": {
+        "x": 1714,
+        "y": 1330
+      },
+      "geo": {
+        "lat": 28.4,
+        "lng": 110.0
+      },
+      "coord_note": "호남 서부 철장봉의 통설 위치. 원작 속 산 이름은 가상이다."
+    },
+    "philosophy": null,
+    "signature_arts": [
+      "cheoljang_gong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "gu_cheonin",
+        "role": "방주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "gaibang",
+        "type": "적대",
+        "note": "금나라와 결탁한 철장방이 개방·곽정 일행과 맞선다"
+      }
+    ],
+    "summary": "호남 철장봉에 총타를 둔 방회. 방주 구천인의 철장 무공으로 한때 위세를 떨쳤으나, 금나라와 손을 잡아 중원 협객들의 적이 되었다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「철장방」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "baituo",
+    "name_kr": "백타산",
+    "name_hanja": "白駝山",
+    "alias": [
+      "백타산장(白駝山莊)"
+    ],
+    "faction": "사파",
+    "sub_faction": "서역 사파",
+    "alliance": null,
+    "alignment_note": "서역에 근거를 두어 세외로 분류하기도 한다.",
+    "region": {
+      "province": "서역(西域) 곤륜산 일대",
+      "mountain": "백타산(白駝山)",
+      "map_position": {
+        "x": 535,
+        "y": 682
+      },
+      "geo": {
+        "lat": 41.5,
+        "lng": 82.5
+      },
+      "coord_note": "서역의 가상 산. 원작은 위치를 밝히지 않아 서역 통설 위치에 둔다."
+    },
+    "philosophy": null,
+    "signature_arts": [
+      "hamagong"
+    ],
+    "notable_figures": [
+      {
+        "figure_id": "guyang_bong",
+        "role": "산주"
+      }
+    ],
+    "relations": [
+      {
+        "sect_id": "gaibang",
+        "type": "숙적",
+        "note": "서독 구양봉과 북개 홍칠공의 평생에 걸친 대결"
+      }
+    ],
+    "summary": "천하오절의 한 사람인 서독(西毒) 구양봉의 근거지. 뱀을 부리고 독을 쓰며, 개구리처럼 웅크렸다가 단숨에 내력을 터뜨리는 합마공으로 이름이 높다.",
+    "tier_tag": "정통고증",
+    "tier_note": null,
+    "sources": [
+      {
+        "work": "사조영웅전(射鵰英雄傳)",
+        "author": "김용(金庸)"
+      },
+      {
+        "work": "나무위키 「구양봉」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "sadoryeon",
+    "name_kr": "사도련",
+    "name_hanja": "邪道聯",
+    "alias": [
+      "사파련(邪派聯)"
+    ],
+    "faction": "사파",
+    "sub_faction": "사파 연합",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "강서성(江西省) 구강(九江) 일대",
+      "mountain": null,
+      "map_position": {
+        "x": 1971,
+        "y": 1264
+      },
+      "geo": {
+        "lat": 29.7,
+        "lng": 116.0
+      },
+      "coord_note": "특정 작품의 위치가 아니라 장강 수운이 모이는 구강에 둔 가상 총단."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "haomun",
+        "type": "동맹",
+        "note": "정보망을 맡는 가맹 세력"
+      },
+      {
+        "sect_id": "nokrim",
+        "type": "동맹",
+        "note": "육로 무력을 맡는 가맹 세력"
+      },
+      {
+        "sect_id": "janggang",
+        "type": "동맹",
+        "note": "장강 수로를 맡는 가맹 세력"
+      }
+    ],
+    "summary": "정파의 무림맹에 맞서려고 사파 세력들이 느슨하게 묶은 연합. 가맹 세력마다 이권이 달라 결속은 약하지만, 정사대전(正邪大戰) 때는 하나의 깃발 아래 모인다.",
+    "tier_tag": "신무협",
+    "tier_note": "한국 신무협에서 정착한 사파 연합 설정으로 작품마다 이름(사파련·사도맹 등)과 구성이 다르다.",
+    "sources": [
+      {
+        "work": "나무위키 「사파(무협 소설)」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "salmak",
+    "name_kr": "살막",
+    "name_hanja": "殺幕",
+    "alias": [],
+    "faction": "사파",
+    "sub_faction": "살수 조직",
+    "alliance": null,
+    "alignment_note": null,
+    "region": {
+      "province": "감숙성(甘肅省) 난주(蘭州) 일대",
+      "mountain": null,
+      "map_position": {
+        "x": 1448,
+        "y": 949
+      },
+      "geo": {
+        "lat": 36.06,
+        "lng": 103.8
+      },
+      "coord_note": "특정 작품의 위치가 아닌 가상 거점. 살수 조직은 근거지를 감추는 것이 관습이다."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [],
+    "summary": "돈을 받고 사람을 죽이는 살수(殺手)들의 조직. 의뢰인과 표적을 묻지 않는 것을 철칙으로 삼으며, 조직원끼리도 얼굴을 모르는 경우가 많다.",
+    "tier_tag": "신무협",
+    "tier_note": "특정 작품이 아닌 한국 무협 통용 설정. 이름·구성은 작품마다 다르며 출처 확인 필요.",
+    "sources": [
+      {
+        "work": "한국 신무협 통용 설정 (출처 확인 필요)",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_baihua",
+    "name_kr": "백화곡",
+    "name_hanja": "百花谷",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "정파",
+    "sub_faction": "태오회권 15문파 · 정파 명종",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '인선(仁善)', 내공 오행은 '현음(玄陰)' 계열.",
+    "region": {
+      "province": "광남(廣南)주(州) — 게임 속 지역",
+      "mountain": "백록택(白鹿澤)",
+      "map_position": {
+        "x": 1689,
+        "y": 1535
+      },
+      "geo": {
+        "lat": 24.3,
+        "lng": 109.4
+      },
+      "coord_note": "게임의 광남주(오늘날 광서 일대)에 대응시킨 위치. 백록택은 가상 지명."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_xuehou",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "의술로 천하에 이름난 정파 명문. 침과 뜸을 놓는 솜씨가 신묘하며 문도들이 세상을 구하는 일을 본분으로 삼는다. 흰 사슴이 사는 늪 백록택 깊은 곳, 사철 꽃이 피는 비밀 골짜기에 자리 잡았다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_yuanshan",
+    "name_kr": "원산파",
+    "name_hanja": "元山派",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "정파",
+    "sub_faction": "태오회권 15문파 · 정파 명종",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '강정(剛正)', 내공 오행은 '귀원(歸元)' 계열.",
+    "region": {
+      "province": "산서(山西)주(州) — 게임 속 지역",
+      "mountain": "대소원산(大小元山)",
+      "map_position": {
+        "x": 1826,
+        "y": 790
+      },
+      "geo": {
+        "lat": 39.2,
+        "lng": 112.6
+      },
+      "coord_note": "게임의 산서주(태원 북쪽)에 둔 위치. 대소원산은 가상 지명."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_wuxian",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "도관이 많은 대원산과 사찰이 많은 소원산, 두 산이 한 문파를 이룬다. 대원산에는 도총(刀冢), 소원산에는 검총(劍冢)이 있어 칼과 검을 합친 무공으로 마를 물리치며 정도를 지키는 것을 사명으로 삼는다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_shixiang",
+    "name_kr": "사상문",
+    "name_hanja": "獅相門",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "중립",
+    "sub_faction": "태오회권 15문파 · 중립 문파",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '반역(叛逆)', 내공 오행은 '금강(金剛)' 계열.",
+    "region": {
+      "province": "광동(廣東)주(州) — 게임 속 지역",
+      "mountain": "연화산(蓮花山)",
+      "map_position": {
+        "x": 1865,
+        "y": 1600
+      },
+      "geo": {
+        "lat": 22.99,
+        "lng": 113.51
+      },
+      "coord_note": "게임의 광동주에 둔 위치. 연화산은 관음보살의 연화대가 변했다는 전설의 산."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_ranshan",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "내공보다 몸을 단련하는 외가 경기공을 극한까지 밀어붙인 문파. 쇠를 쪼개고 돌을 부수며 칼과 창이 들지 않는다고 한다. 당나라 명장 이사업(李嗣業)의 후손이 세웠다고 전하며, 고장을 지키는 책임을 져 백성의 존경을 받는다. 권장·도법·창법을 쓴다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      },
+      {
+        "work": "游民星空 「太吾绘卷天幕心帷 百晓册 门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_ranshan",
+    "name_kr": "연산파",
+    "name_hanja": "然山派",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "중립",
+    "sub_faction": "태오회권 15문파 · 중립 문파",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '중용(中庸)', 내공 오행은 '자하(紫霞)' 계열.",
+    "region": {
+      "province": "산동(山東)주(州) — 게임 속 지역",
+      "mountain": "연산(然山)",
+      "map_position": {
+        "x": 2113,
+        "y": 903
+      },
+      "geo": {
+        "lat": 36.9,
+        "lng": 119.3
+      },
+      "coord_note": "게임의 산동주(청주 동쪽)에 둔 위치. 연산은 가상 지명."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_kongsang",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "학문과 변론을 닦는 '유학(游學)'과 수양으로 수명을 늘리는 '출세(出世)'를 함께 익히는 문파. 무공에 구결과 주문이 많아 책으로 배우기 쉽고 실전으로 깨치기는 어렵다. 바다에서 솟았다는 신산(神山) 연산에 자리했다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_xuannu",
+    "name_kr": "선녀파",
+    "name_hanja": "璇女派",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "중립",
+    "sub_faction": "태오회권 15문파 · 중립 문파",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '강정(剛正)', 내공 오행은 '현음(玄陰)' 계열.",
+    "region": {
+      "province": "형남(荊南)주(州) — 게임 속 지역",
+      "mountain": "선녀봉(璇女峰)",
+      "map_position": {
+        "x": 1800,
+        "y": 1270
+      },
+      "geo": {
+        "lat": 29.6,
+        "lng": 112.0
+      },
+      "coord_note": "게임의 형남주(오늘날 호남·호북 남부)에 둔 위치. 선녀봉은 가상 지명."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_zhujian",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "음률(音律)로 이름난 문파. 게임의 지역 이야기에서 장문과 음률을 겨루는 일이 문파의 흥망을 가른다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_zhujian",
+    "name_kr": "주검산장",
+    "name_hanja": "鑄劍山莊",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "중립",
+    "sub_faction": "태오회권 15문파 · 중립 문파",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '중용(中庸)', 내공 오행은 '순양(純陽)' 계열.",
+    "region": {
+      "province": "복건(福建)주(州) — 게임 속 지역",
+      "mountain": "담로산(湛盧山)",
+      "map_position": {
+        "x": 2091,
+        "y": 1372
+      },
+      "geo": {
+        "lat": 27.53,
+        "lng": 118.78
+      },
+      "coord_note": "담로산은 복건성 송계현의 실제 산(명검 담로검 전설의 산)으로, 그 위치에 둔다."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_shixiang",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "칼과 병기를 벼리는 데 뛰어난 유일한 문파. 무공의 위력이 병기의 품질과 맞물려, 좋은 병기를 쥘수록 강해진다. 산장의 시검대전(試劍大典)이 지역 이야기의 중심이다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      },
+      {
+        "work": "18183 「太吾绘卷十五门派搭配攻略」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_kongsang",
+    "name_kr": "공상파",
+    "name_hanja": "空桑派",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "중립",
+    "sub_faction": "태오회권 15문파 · 중립 문파",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '유아(唯我)', 내공 오행은 '귀원(歸元)' 계열.",
+    "region": {
+      "province": "요동(遼東)주(州) — 게임 속 지역",
+      "mountain": "공상산(空桑山)",
+      "map_position": {
+        "x": 2340,
+        "y": 702
+      },
+      "geo": {
+        "lat": 40.9,
+        "lng": 124.6
+      },
+      "coord_note": "게임의 요동주에 둔 위치. 공상산은 고대 신화 속 산 이름."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_xuannu",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "의술과 독술을 함께 파고드는 문파로, 문도들이 장생술(長生術)을 연구하는 데 몰두한다. 오선교의 독술과 대비되어 사람을 살리는 쪽에 가깝다고 평가된다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      },
+      {
+        "work": "18183 「太吾绘卷十五门派搭配攻略」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_jingang",
+    "name_kr": "금강종",
+    "name_hanja": "金剛宗",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "사파",
+    "sub_faction": "태오회권 15문파 · 사파 외도",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '유아(唯我)', 내공 오행은 '금강(金剛)' 계열.",
+    "region": {
+      "province": "서역(西域)주(州) — 게임 속 지역",
+      "mountain": "곤륜산(崑崙山)",
+      "map_position": {
+        "x": 771,
+        "y": 940
+      },
+      "geo": {
+        "lat": 36.3,
+        "lng": 88.0
+      },
+      "coord_note": "게임의 서역주에 둔 위치. 기존 명교·곤륜파와 겹치지 않도록 곤륜산 중부에 둔다."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "emei",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다 (아미파와 적대)."
+      }
+    ],
+    "summary": "서역 곤륜산의 불문 계열 외도 종파. 불학에 밝으며, 게임의 지역 이야기는 진경(眞經)과 가경(假經) 가운데 무엇을 종파에 넘기느냐로 흥망이 갈린다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_wuxian",
+    "name_kr": "오선교",
+    "name_hanja": "五仙敎",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "사파",
+    "sub_faction": "태오회권 15문파 · 사파 외도",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '반역(叛逆)', 내공 오행은 '자하(紫霞)' 계열.",
+    "region": {
+      "province": "운남(雲南)주(州) — 게임 속 지역",
+      "mountain": "흑수(黑水)",
+      "map_position": {
+        "x": 1371,
+        "y": 1577
+      },
+      "geo": {
+        "lat": 23.5,
+        "lng": 102.0
+      },
+      "coord_note": "게임의 운남주에 둔 위치. 흑수는 가상 지명. 김용 소설의 오독교(오선교라고도 함)와는 별개의 게임 설정이다."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_yuanshan",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "운남 흑수에 자리한 독과 고(蠱)의 교단. 독술로 사람을 해치는 쪽에 가까워 의술의 공상파와 대비된다. 문파의 비법 목욕으로 독을 씻고 몸속 고충을 죽인다고 한다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      },
+      {
+        "work": "3DM 「太吾绘卷 功法正逆练效果一览」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_jieqing",
+    "name_kr": "계청문",
+    "name_hanja": "界靑門",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "사파",
+    "sub_faction": "태오회권 15문파 · 사파 외도",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '반역(叛逆)', 내공 오행은 '현음(玄陰)' 계열.",
+    "region": {
+      "province": "회남(淮南)주(州) — 게임 속 지역",
+      "mountain": "계청애(界靑崖)",
+      "map_position": {
+        "x": 2005,
+        "y": 1120
+      },
+      "geo": {
+        "lat": 32.58,
+        "lng": 116.78
+      },
+      "coord_note": "게임의 회남주(수춘, 오늘날 안휘 일대)에 둔 위치. 계청애는 가상 지명."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "wudang",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다 (무당파와 적대)."
+      }
+    ],
+    "summary": "사람과 귀신이 함께 다니는 땅이라 불리는 계청애의 문파. 강호의 악도를 거두고 행적을 감추며, 기문둔갑과 침·돌을 던지는 암기에 능해 살의를 품으면 흔적 없이 사람을 죽인다. 게임에서 암살을 의뢰받는 살수 문파다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_fulong",
+    "name_kr": "복룡단",
+    "name_hanja": "伏龍壇",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "사파",
+    "sub_faction": "태오회권 15문파 · 사파 외도",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '강정(剛正)', 내공 오행은 '순양(純陽)' 계열.",
+    "region": {
+      "province": "강남(江南)주(州) — 게임 속 지역",
+      "mountain": "적명도(赤明島)",
+      "map_position": {
+        "x": 2241,
+        "y": 1248
+      },
+      "geo": {
+        "lat": 30.0,
+        "lng": 122.3
+      },
+      "coord_note": "게임의 강남주(항주) 앞바다에 둔 위치. 적명도는 가상의 화산섬."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "shaolin",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다 (소림사와 적대)."
+      }
+    ],
+    "summary": "동해의 화산섬 적명도에 세운 문파. 도법이 맹렬한 사도씨(司徒氏) 갈래와 권장이 정교한 용씨(龍氏) 갈래로 나뉘며, 제자들은 섬의 화산 속에서 무공을 닦는다고 전한다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      }
+    ]
+  },
+  {
+    "id": "taiwu_xuehou",
+    "name_kr": "혈후교",
+    "name_hanja": "血犼敎",
+    "alias": [
+      "『태오회권』 문파"
+    ],
+    "faction": "사파",
+    "sub_faction": "태오회권 15문파 · 사파 외도",
+    "alliance": null,
+    "alignment_note": "게임 속 처세 입장은 '유아(唯我)', 내공 오행은 '귀원(歸元)' 계열.",
+    "region": {
+      "province": "강북(江北)주(州) — 게임 속 지역",
+      "mountain": "혈후곡(血犼谷)",
+      "map_position": {
+        "x": 2117,
+        "y": 1128
+      },
+      "geo": {
+        "lat": 32.4,
+        "lng": 119.4
+      },
+      "coord_note": "게임의 강북주(양주 부근)에 둔 위치. 혈후곡은 가상 지명."
+    },
+    "philosophy": null,
+    "signature_arts": [],
+    "notable_figures": [],
+    "relations": [
+      {
+        "sect_id": "taiwu_baihua",
+        "type": "적대",
+        "note": "『태오회권』에서 서로 적대 문파로 정해져 있다."
+      }
+    ],
+    "summary": "상추(相樞)의 난세 이후 악인들이 모여 세운 교단. 마공이 사람의 본성을 어지럽혀 정파와 양립할 수 없으며, 사람을 제물로 피의 제사를 올려 불사의 사공을 이룬다고 한다. 권장·지법·퇴법·암기를 쓴다.",
+    "tier_tag": "신무협",
+    "tier_note": "중국 게임 『태오회권』 고유 설정(원작 소설 아님). 태오씨(太吾氏)와 숙적 상추(相樞)가 다투는 가상의 고대 중국을 무대로 한다.",
+    "sources": [
+      {
+        "work": "태오회권(太吾繪卷)",
+        "author": "ConchShip Games(螺舟工作室)"
+      },
+      {
+        "work": "태오회권 자료백과(太吾绘卷资料攻略百科站) 「门派」",
+        "author": null
+      },
+      {
+        "work": "游民星空 「太吾绘卷天幕心帷 百晓册 门派」",
+        "author": null
+      }
+    ]
+  }
+]
