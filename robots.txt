@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://kentauroq-sudo.github.io/Murim/sitemap.xml
