@@ -3,6 +3,8 @@
 무협 세계관의 문파·무공·인물·기물·지명을 정규화한 정적 데이터와, 수묵 고지도 위에서 탐색하는 Next.js 정적 사이트(SSG)입니다.
 데이터 스키마는 **v3.0**(`02_data_schema.md`)이며, 이 프로젝트는 v3.0 지식문서와 같은 규격을 씁니다.
 
+> **라이브 사이트**: https://kentauroq-sudo.github.io/Murim/ — GitHub Pages 배포 방법은 [DEPLOY.md](DEPLOY.md) 참고.
+
 ## 빠른 시작
 
 ```bash
